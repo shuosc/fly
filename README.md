@@ -12,8 +12,8 @@
 
 ```bash
 git clone https://github.com/shuosc/fly.git --depth=1
-git submodule update --init --recursive  # 拉取 Hugo 主题
 cd fly
+git submodule update --init --recursive  # 拉取 Hugo 主题
 # 确保已安装 Hugo
 hugo serve
 ```
