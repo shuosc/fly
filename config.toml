@@ -1,6 +1,7 @@
-baseURL = 'http://shuosc.github.io/fly'
+baseURL = 'https://shuosc.github.io/fly'
 title = 'SHUFly - 上海大学飞跃手册'
 theme = 'FixIt'
+canonifyURLs = true  # Fix GitHub Pages wrong path
 
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -21,7 +22,7 @@ hasCJKLanguage = true
     # FixIt 0.2.0 | NEW Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/fly/logo.webp"
+      logo = "/logo.webp"
       # title name
       name = "SHUFly"
 
@@ -35,7 +36,7 @@ hasCJKLanguage = true
     # Gravatar 邮箱，用于优先在主页显示的头像
     gravatarEmail = ""
     # 主页显示头像的 URL
-    avatarURL = "/fly/logo.webp"
+    avatarURL = "/logo.webp"
     # 主页显示的网站标题 (支持 HTML 格式)
     title = "上海大学飞跃手册"
     # 是否为副标题显示打字机动画
