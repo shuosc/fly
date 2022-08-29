@@ -1,5 +1,5 @@
 ---
-title: "19-xxx-专业-学校名称-项目名称"
+title: "入学年份-姓名-专业-项目岗位-去向学校公司"
 date: 2022-08-29T16:09:02+08:00
 categories: [common]
 tags: [模板]
@@ -10,6 +10,7 @@ draft: false
 
 - 对于熟悉 Git 操作的同学：请在 `content/posts/` 目录下复制本模板文件并修改，提交 Pull Request，待 Merge 后便即时上线。
   - 善用 categories/tags 功能，方便快速检索不同专业，保研/考研/出国/工作等去向，以及 CN/US/CA/UK/SG 等上岸地区
+  - 文件名建议仅使用英文数字及下划线，如 `19-abc-cs-mscs-nyu.md`
   - 有条件推荐本地部署预览再提交
 - 对于不会使用 Git 的大部分同学：请将编辑好的 Word/Pages/Markdown 文件发送到 shuosc@duck.com 标题请注明「投稿/修改-年级-姓名-专业-去向」我们会帮助你上架。
 
@@ -17,18 +18,23 @@ draft: false
 
 您可以根据实际情况编辑使用如下 Markdown 模板：
 
-# 19-xxx-专业-学校名称-项目名称
+以上内容无需保留
+
+# 19-用户名-专业-项目名称-学校名称
 
 ## 基本背景 
-> 三维: GPA 0.00/4 ;
-> TOEFL: 0(Speaking 0); /IETLS:0.0(L0S0R0W0)
-> GRE: 130V + 130Q + 0AW 
+
+三维: GPA 0.00/4
+
+TOEFL: 0(Speaking 0) IETLS:0.0(L0S0R0W0)
+
+GRE: 130V + 130Q + 0AW
 
 国家（励志）奖学金
 
 科研：
 - CCF ABC 会 N 作
-- 国家/省级大创/暑研
+- 本校实验室/大创/暑研
 - ...
 
 实习：
