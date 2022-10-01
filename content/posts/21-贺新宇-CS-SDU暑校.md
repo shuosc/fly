@@ -64,4 +64,4 @@ draft: false
 
 ---
 
-<font size=3>写于2022.10.1, Powered by [_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514).</font>
+<font size=2>写于2022.10.1, Powered by [_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514).</font>
