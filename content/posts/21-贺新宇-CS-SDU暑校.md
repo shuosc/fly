@@ -60,5 +60,5 @@ draft: false
 ---
 
 ## 结业证书
-![21-贺新宇-CS-SDU暑期学校毕业证书](https://github.com/EthanH3514/photo_save/blob/main/SDU%E6%9A%91%E6%9C%9F%E5%AD%A6%E6%A0%A1%E8%AF%81%E4%B9%A6.png)
+![21-贺新宇-CS-SDU暑期学校毕业证书](https://github.com/EthanH3514/photo_save/blob/main/SDU%E6%9A%91%E6%9C%9F%E5%AD%A6%E6%A0%A1%E8%AF%81%E4%B9%A6.png?raw=true)
 _写于2022.10.1, Powered by **_[_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514)_._
