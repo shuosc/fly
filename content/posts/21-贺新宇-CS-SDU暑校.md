@@ -60,5 +60,5 @@ draft: false
 ---
 
 ## 结业证书
-![SDU暑期学校证书.png](https://cdn.nlark.com/yuque/0/2022/png/33547161/1664639478505-66e69564-7f22-408c-9c39-414e57a5aa0b.png#clientId=u4755b0c9-348d-4&crop=0&crop=0&crop=1&crop=1&errorMessage=unknown%20error&from=ui&id=u396b2235&margin=%5Bobject%20Object%5D&name=SDU%E6%9A%91%E6%9C%9F%E5%AD%A6%E6%A0%A1%E8%AF%81%E4%B9%A6.png&originHeight=966&originWidth=1353&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1371182&status=error&style=none&taskId=u667d305a-6a5f-4207-9a4a-90cab75af82&title=)
-_写于2022.10.1, Powered by** **_[_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514)_._
+![21-贺新宇-CS-SDU暑期学校毕业证书](https://github.com/EthanH3514/photo_save/blob/main/SDU%E6%9A%91%E6%9C%9F%E5%AD%A6%E6%A0%A1%E8%AF%81%E4%B9%A6.png)
+_写于2022.10.1, Powered by **_[_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514)_._
