@@ -1,3 +1,12 @@
+---
+title: "21-贺新宇-CS-SDU暑校"
+date: 2022-10-01T22:08:02+08:00
+categories: [暑校]
+tags: [CS,SDU]
+author: 贺新宇
+draft: false
+---
+
 坐标上海大学，计科21分流萌新，时值7月，暑期的计算机实训刚刚结束，面对开始的暑假，不想在摆烂中虚度年华，又正好在[开源社区（SHUOSC）](https://github.com/shuosc)学长`jxing0831`推荐下，报名参与了[第八届SDU暑期学校](http://irc.cs.sdu.edu.cn/2022-summer-school/index.html#date)，以下写一写我的参与经验与感受。
 ## 背景
 当时大一刚刚分流结束，初入计科的我尚是一片白板，只会基础的C、JavaScript（没啥帮助）、还有学了一点的C++。也是初生牛犊不怕虎，就直接上了。
