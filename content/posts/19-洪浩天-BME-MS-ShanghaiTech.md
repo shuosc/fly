@@ -1,8 +1,9 @@
 ---
 title: "19-洪浩天-BME-MS-ShanghaiTech"
 date: 2022-10-01T16:27:02+08:00
-categories: [common]
-tags: [保研]
+categories: [保研]
+tags: [BME]
+author: 洪浩天
 draft: false
 ---
 
@@ -19,8 +20,6 @@ draft: false
 您可以根据实际情况编辑使用如下 Markdown 模板：
 
 以上内容无需保留 -->
-
-# 19-用户名-专业-项目名称-学校名称
 
 ## 基本背景 
 
