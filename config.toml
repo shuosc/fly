@@ -1,5 +1,5 @@
 baseURL = 'https://shuosc.github.io/fly'
-title = 'SHUFly - 上海大学飞跃手册'
+title = 'SHUFly - 上海大学溯源手册'
 theme = 'FixIt'
 canonifyURLs = true  # Fix GitHub Pages wrong path
 
@@ -38,7 +38,7 @@ hasCJKLanguage = true
     # 主页显示头像的 URL
     avatarURL = "/logo.webp"
     # 主页显示的网站标题 (支持 HTML 格式)
-    title = "上海大学飞跃手册"
+    title = "上海大学溯源手册"
     # 是否为副标题显示打字机动画
     typeit = true
     # 是否显示社交账号
