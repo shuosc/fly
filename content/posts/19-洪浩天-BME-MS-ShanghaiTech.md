@@ -2,7 +2,7 @@
 title: "19-洪浩天-BME-MS-ShanghaiTech"
 date: 2022-10-01T16:27:02+08:00
 categories: [保研]
-tags: [BME]
+tags: [19, 通信学院, 生物医学工程, 上海科技大学]
 author: 洪浩天
 draft: false
 ---
