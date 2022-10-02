@@ -77,5 +77,7 @@ draft: false
 
 > 自强不息, 先天下之忧而忧, 后天下之乐而乐!
 
+> 可加骚话(bushi)
+
 ![image](https://user-images.githubusercontent.com/54206290/187168371-1a53ee10-c7e4-4943-bfba-b26985ed9ade.png)
 
