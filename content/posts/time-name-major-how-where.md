@@ -8,7 +8,7 @@ draft: false
 
 **飞跃手册欢迎所有的在校生与毕业生分享你们的故事，不限出路、不限水平。**
 
-- 对于熟悉 Git 操作的同学：请在 `content/posts/` 目录下复制本模板文件并修改，提交 Pull Request，待 Merge 后便即时上线。
+- 对于熟悉 Git 操作的同学：请在 `content/posts/` 目录下复制本模板文件并修改，提交 Pull Request，待 Merge 后便即时上线
   - 善用 categories/tags 功能，方便快速检索不同专业，保研/考研/出国/工作等去向，以及 CN/US/CA/UK/SG 等上岸地区
   - 文件名建议仅使用英文数字及下划线，如 `19-abc-cs-mscs-nyu.md`
   - 有条件推荐本地部署预览再提交
@@ -75,7 +75,7 @@ draft: false
 
 ## 申请心得 
 
-自强不息，先天下之忧而忧
+> 自强不息, 先天下之忧而忧, 后天下之乐而乐!
 
 ![image](https://user-images.githubusercontent.com/54206290/187168371-1a53ee10-c7e4-4943-bfba-b26985ed9ade.png)
 
