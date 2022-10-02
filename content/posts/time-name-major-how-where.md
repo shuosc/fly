@@ -79,5 +79,7 @@ draft: false
 
 > 可加骚话(bushi)
 
+> 可根据情况添加其他另附信息, 如上岸录取通知或者证书照片等等
+
 ![image](https://user-images.githubusercontent.com/54206290/187168371-1a53ee10-c7e4-4943-bfba-b26985ed9ade.png)
 
