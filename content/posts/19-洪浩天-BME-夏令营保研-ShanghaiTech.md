@@ -1,8 +1,8 @@
 ---
-title: "19-洪浩天-BME-MS-ShanghaiTech"
+title: "19-洪浩天-BME-夏令营保研-ShanghaiTech"
 date: 2022-10-01T16:27:02+08:00
 categories: [common]
-tags: [保研]
+tags: [保研] [夏令营]
 draft: false
 ---
 
