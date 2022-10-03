@@ -2,8 +2,8 @@
 title: "21-贺新宇-CS-SDU暑校"
 date: 2022-10-01T22:08:02+08:00
 categories: [暑校]
-tags: [CS,SDU]
-author: 贺新宇
+tags: [CS,SDU,计院]
+author: EthanH3514
 draft: false
 ---
 
