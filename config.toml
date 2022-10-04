@@ -40,9 +40,6 @@ hasCJKLanguage = true
     # 主页显示的网站标题 (支持 HTML 格式)
     title = "上海大学溯源手册"
     # 是否为副标题显示打字机动画
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shuosc.github.io/fly/)
-    
     typeit = true
     # 是否显示社交账号
     social = false
