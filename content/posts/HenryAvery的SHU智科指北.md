@@ -1,6 +1,6 @@
 ---
 title: "SHU智科指北"
-date: 2022-10-05T20:00:02+08:00
+date: 2022-10-08T17:00:02+08:00
 categories: [分流]
 tags: [19级,分流,计院,智科]
 author: HenryAvery
