@@ -9,8 +9,7 @@ draft: false
 
 # 19-洪浩天-转专业-通信与信息工程学院-BME
 
-## 前言
-![4b0696519613aa662b437dd76077479b_edit_32419334305](https://user-images.githubusercontent.com/38531688/194739569-d9307f72-f2ce-4f65-9968-0d36ce9953f7.jpg)
+![Cache_6d34481f1ac23ec8](https://user-images.githubusercontent.com/38531688/194742198-372fc6bd-2653-4e57-aac7-97cc9d91ab9d.jpg)
 
 ## 个人情况（转专业期间）
 
