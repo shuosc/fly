@@ -1,14 +1,12 @@
 ---
-title: "入学年份-姓名-专业-项目岗位-去向学校公司"
-date: 2022-08-29T16:09:02+08:00
-categories: [common]
-tags: [模板]
+title: "18-CS-出国-MSCS-UF"
+date: 2022-10-10T03:09:02+08:00
+categories: [出国]
+tags: [18级,CS,计院,出国,UF]
+author: serf-huik
 draft: false
-weight: 2
 ---
 
-
-# 18-匿名-CS-出国-UF MSCS
 
 ## 基本背景 
 
