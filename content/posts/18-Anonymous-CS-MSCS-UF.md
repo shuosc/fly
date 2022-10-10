@@ -2,7 +2,7 @@
 title: "18-CS-出国-MSCS-UF"
 date: 2022-10-10T03:09:02+08:00
 categories: [出国]
-tags: [18级,CS,计院,出国,UF]
+tags: [18级,CS,计院,出国,美国,UF]
 author: serf-huik
 draft: false
 ---
