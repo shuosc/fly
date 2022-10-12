@@ -1,9 +1,9 @@
 ---
-title: "19-朝承恩-CS-MSc-CUHK"
+title: "19-CS-MSc-CUHK"
 date: 2022-10-12T12:09:02+08:00
 categories: [出国]
-tags: [19级,CS,计院,香港,HK]
-author: Amadeus1048
+tags: [19级,CS,计院,香港,香港中文大学]
+author: 朝承恩
 draft: false
 ---
 
