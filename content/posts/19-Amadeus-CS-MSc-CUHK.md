@@ -1,7 +1,7 @@
 ---
 title: "19-CS-MSc-CUHK"
 date: 2022-10-12T12:09:02+08:00
-categories: [出国]
+categories: [留学]
 tags: [19级,CS,计院,香港,CUHK]
 author: 朝承恩
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "16-CS-美国-NYU-Google"
 date: 2022-10-10T22:34:02-07:00
-categories: [出国,就业]
+categories: [留学,就业]
 tags: [16级,CS,计院,出国,就业,留美,美国,NYU,大厂]
 author: xwl
 draft: false

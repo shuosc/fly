@@ -1,7 +1,7 @@
 ---
-title: "18-CS-出国-MSSI-JHU"
+title: "18-CS-MSSI-JHU"
 date: 2022-10-14T10:07:02+08:00
-categories: [出国]
+categories: [留学]
 tags: [18级,CS,计院,出国,美国,JHU]
 author: lzk
 draft: false
