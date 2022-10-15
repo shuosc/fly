@@ -1,8 +1,8 @@
 ---
 title: "18-CS-出国-SCSE-NTU"
-date: 2022-10-10T03:09:02+08:00
-categories: [出国]
-tags: [18级,CS,计院,出国,UF]
+date: 2022-10-15T17:09:02+08:00
+categories: [留学]
+tags: [18级,智科,计院,留学,新加披,NTU]
 author: serf-huik
 draft: false
 ---
