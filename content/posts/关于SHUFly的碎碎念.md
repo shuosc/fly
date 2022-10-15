@@ -1,7 +1,6 @@
 ---
-title: "关于SHUFly的碎碎念"
+title: "📌关于SHUFly的碎碎念"
 date: 2022-10-15T18:00:02+08:00
-author: 湃大行
 weight: 3
 draft: false
 ---
