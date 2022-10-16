@@ -2,7 +2,7 @@
 title: "15-D_Tesla-数学与应用数学-依图科技"
 date: 2022-10-15T22:00:00+08:00
 categories: [就业]
-tags: [就业,理学院,数学系,数学与应用数学,兴趣,acm]
+tags: [15级,就业,理学院,数学系,数学与应用数学,兴趣,acm]
 author: D_Tesla
 draft: false
 ---
