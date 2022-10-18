@@ -1,4 +1,4 @@
-# 上海大学溯源手册(SHU_Fly)
+# 上海大学溯源手册(SHUFly)
 
 ## 意见反馈
 - 【腾讯文档】上海大学溯源手册意见征集📝- https://docs.qq.com/sheet/DTkF5V3VJT3lZTkhX?tab=BB08J2
