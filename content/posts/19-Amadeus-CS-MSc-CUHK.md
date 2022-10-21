@@ -56,6 +56,7 @@ draft: false
 
 
 - **Offer(1):** 
+  
   |School|Program|
   |------|-------|
   |The Chinese University of Hong Kong|MSc in E-Commerce and Logistics Technologies|
@@ -86,28 +87,25 @@ draft: false
     - 看完了《顾家北手把手教你雅思写作》，准备了一篇文章，记住了所有我认为好的词句。
 ### 择校
 
-- 9月1日
-  - HKUST        Big Data Technology                                                200000HKD      竞争非常激烈，倾向985，我放弃申请
-  - HKUST        **Information Technology**                                     155000HKD        竞争激烈，倾向985，我放弃申请
-  - HKUST        **Telecommunications**                                           155000HKD        冷门CS相关项目
-  - HKUST        Electronic Engineering                                        155000HKD           冷门CS相关项目，我放弃申请
-  - CUHK          Computer Science                                                230000HKD          竞争非常激烈
-  - CUHK          **Information Engineering**                                     185000HKD       竞争激烈
-  - CUHK          E-Commerce and Logistics Technologies         178000HKD          冷门CS相关项目
-  - CUHK          Electronic Engineering                                         150000HKD          冷门CS相关项目
+| Open Date | School | Program                                | Cost      | Comment                                       |
+| --------- | ------ | -------------------------------------- | --------- | --------------------------------------------- |
+| 9月1日    | HKUST  | Big Data Technology                    | 200000HKD | 竞争非常激烈，倾向985，我放弃申请             |
+| 9月1日    | HKUST  | **Information Technology**             | 155000HKD | 竞争激烈，倾向985，我放弃申请                 |
+| 9月1日    | HKUST  | **Telecommunications**                 | 155000HKD | 冷门CS相关项目                                |
+| 9月1日    | HKUST  | Electronic Engineering                 | 155000HKD | 冷门CS相关项目，我放弃申请                    |
+| 9月1日    | CUHK   | Computer Science                       | 230000HKD | 竞争非常激烈                                  |
+| 9月1日    | CUHK   | **Information Engineering**            | 185000HKD | 竞争激烈                                      |
+| 9月1日    | CUHK   | E-Commerce and Logistics Technologies  | 178000HKD | 冷门CS相关项目                                |
+| 9月1日    | CUHK   | Electronic Engineering                 | 150000HKD | 冷门CS相关项目                                |
+| 9月23日   | PolyU  | **Information Technology**             | 110000HKD | 1.5年                                         |
+| 9月23日   | PolyU  | Data Science and Analytics             | 196000HKD | 1.5年，学费贵，我放弃申请                     |
+| 9月23日   | PolyU  | Electronic and Information Engineering | 109300HKD | 1.5年，有面试，我放弃申请                     |
+| 10月15日  | HKU    | Computer Science                       | 216000HKD | 有面试，开放前拿到CUHK推研信所以放弃申请      |
+| 11月16日  | CityU  | **Computer Science**                   | 162000HKD | 推荐，但倾向985，开放前拿到CUHK推研信所以没申 |
+| 11月16日  | CityU  | Multimedia Information Technology      | 162000HKD | 倾向985，开放前拿到CUHK推研offer所以没申      |
+| 11月16日  | CityU  | Electronic Information Engineering     | 162000HKD | 倾向985，开放前拿到CUHK推研offer所以没申      |
 
-- 9月23日
-  - PolyU           **Information Technology**                                     110000HKD        1.5年
-  - PolyU           Data Science and Analytics                                196000HKD           1.5年，学费贵，我放弃申请
-  - PolyU           Electronic and Information Engineering          109300HKD           1.5年，有面试，我放弃申请
 
-- 10月15日
-  - HKU             Computer Science                                                216000HKD          有面试，开放前拿到CUHK推研信所以放弃申请
-
-- 11月16日
-  - CityU           **Computer Science**                                                162000HKD         推荐，但倾向985，开放前拿到CUHK推研信所以没申
-  - CityU           Multimedia Information Technology                162000HKD           倾向985，开放前拿到CUHK推研offer所以没申
-  - CityU           Electronic Information Engineering                  162000HKD           倾向985，开放前拿到CUHK推研offer所以没申
 
 
 
