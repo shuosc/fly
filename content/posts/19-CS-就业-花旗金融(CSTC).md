@@ -1,8 +1,8 @@
 ---
-title: "2019-CS-CSTC"
+title: "19-CS-就业-花旗金融(CSTC)"
 date: 2022-10-18T16:09:02+08:00
 categories: [就业]
-tags: [19,就业,计算机科学与技术,计算机]
+tags: [19级,就业,CS,计院,花旗]
 author: zhonghongshu
 draft: false
 ---
