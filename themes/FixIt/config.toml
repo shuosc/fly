@@ -423,7 +423,7 @@
       Mix = false
     # FixIt 0.2.15 | CHANGED Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # FixIt 0.2.13 | NEW Artalk comment config (https://artalk.js.org/)
       [params.page.comment.artalk]
         enable = false
@@ -472,23 +472,26 @@
         # "assets/data/emoji/"
         emoji = ""
         commentCount = true # FixIt 0.2.13 | NEW
+		
       # FixIt 0.2.16 | CHANGED Waline comment config (https://waline.js.org)
-      [params.page.comment.waline]
-        enable = false
-        serverURL = ""
-        pageview = false # FixIt 0.2.15 | NEW
+	  [params.page.comment.waline]
+        enable = true
+        serverURL = "waline-comments-jer6kd3s6-young-mann.vercel.app"
+        pageview = true # FixIt 0.2.15 | NEW
         emoji = ["//unpkg.com/@waline/emojis@1.1.0/weibo"]
         meta = ["nick", "mail", "link"]
-        requiredMeta = []
+        requiredMeta = ["mail"]
         login = "enable"
-        wordLimit = 0
+        wordLimit = 1000
         pageSize = 10
         imageUploader = false # FixIt 0.2.15 | NEW
-        highlighter = false # FixIt 0.2.15 | NEW
-        comment = false # FixIt 0.2.15 | NEW
-        texRenderer = false # FixIt 0.2.16 | NEW
-        search = false # FixIt 0.2.16 | NEW
+        highlighter = true # FixIt 0.2.15 | NEW
+        comment = true # FixIt 0.2.15 | NEW
+        texRenderer = true # FixIt 0.2.16 | NEW
+        search = true # FixIt 0.2.16 | NEW
         recaptchaV3Key = "" # FixIt 0.2.16 | NEW
+
+		
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
         enable = false
