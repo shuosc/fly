@@ -3,6 +3,7 @@ title: "19-Doin4-电子信息工程-夏令营保研-HUST"
 date: 2022-10-25T20:09:02+08:00
 categories: [保研]
 tags: [19级,保研,夏令营,通信学院,EEI,华科]
+author: Doin4
 draft: false
 ---
 
