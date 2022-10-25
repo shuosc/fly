@@ -1,0 +1,350 @@
+// inline code
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: $code-font-size;
+  font-family: $code-font-family;
+  color: $code-color;
+  background-color: rgba(175, 184, 193, 0.2);
+  text-decoration: inherit;
+  @include border-radius($global-border-radius);
+  @include overflow-wrap(break-word);
+  @include line-break(auto);
+
+  [data-theme='dark'] & {
+    color: $code-color-dark;
+    background-color: rgba(99, 110, 123, 0.4);
+  }
+}
+
+// indented code
+pre {
+  margin: 0;
+  line-height: 1.45em;
+  padding: 0.5rem;
+  overflow: auto;
+  font-size: $code-font-size;
+  font-family: $code-font-family;
+  @include border-radius($global-border-radius);
+  @include tab-size(4);
+
+  background-color: $code-background-color;
+
+  [data-theme='dark'] & {
+    background-color: $code-background-color-dark;
+  }
+
+  code {
+    padding: 0;
+    background-color: transparent;
+    @include border-radius(0);
+    @include max-content(min-width);
+
+    [data-theme='dark'] & {
+      background-color: transparent;
+    }
+  }
+
+  img {
+    min-height: 1em;
+    max-height: 1.2em;
+    vertical-align: text-bottom;
+  }
+}
+
+.highlight,
+.gist {
+  font-size: $code-font-size;
+  font-family: $code-font-family;
+
+  .table-wrapper {
+    > table,
+    > table thead,
+    > table tr,
+    > table td {
+      margin: 0;
+      padding: 0;
+      border: none !important;
+      white-space: nowrap;
+    }
+  }
+}
+
+// block fenced code
+.highlight {
+  margin: 0.5rem 0;
+
+  > .chroma {
+    position: relative;
+
+    .code-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-sizing: border-box;
+      width: 100%;
+      font-family: $global-font-family;
+      font-weight: bold;
+      line-height: 1.4em;
+      color: $code-info-color;
+      background-color: darken($code-background-color, 3%);
+      @include border-radius($global-border-radius);
+      @include transition(border-radius 0.2s ease);
+
+      [data-theme='dark'] & {
+        color: $code-info-color-dark;
+        background-color: darken($code-background-color-dark, 6%);
+      }
+
+      &:hover {
+        cursor: pointer;
+      }
+
+      .code-title {
+        width: 100%;
+        padding: 0.4rem;
+
+        .arrow {
+          padding: 0 0.2rem;
+          @include transition(transform 0.2s ease);
+        }
+      }
+
+      .code-title::after {
+        padding-left: 0.2rem;
+        content: 'Code';
+      }
+
+      .ellipses {
+        padding: 0.4rem;
+      }
+
+      .edit,
+      .copy {
+        display: none;
+        padding: 0.4rem;
+
+        &:hover {
+          cursor: pointer;
+          color: $global-link-hover-color;
+
+          [data-theme='dark'] & {
+            color: $global-link-hover-color-dark;
+          }
+        }
+      }
+
+      @each $type, $text in $code-type-map {
+        &.language-#{$type} .code-title::after {
+          content: $text;
+        }
+      }
+    }
+
+    // delayed loading table-wrapper
+    .table-wrapper {
+      max-height: 0;
+      overflow: hidden;
+      @include border-radius(0 0 $global-border-radius $global-border-radius);
+      @include details-transition-open;
+    }
+
+    table {
+      border-spacing: 0;
+      width: auto;
+      overflow: auto;
+      display: block;
+      background-color: $code-background-color;
+
+      [data-theme='dark'] & {
+        background-color: $code-background-color-dark;
+      }
+
+      td {
+        vertical-align: top;
+        padding: 0;
+      }
+
+      pre {
+        padding: 0.25rem;
+        outline-offset: -1px;
+        @include border-radius(0);
+      }
+
+      /* lineNumbersInTable=false */
+      .ln {
+        min-width: 1.25rem;
+      }
+
+      // ========== lineNumbersInTable ========== //
+      // line numbers
+      .lntd:first-child {
+        min-width: 1.6rem;
+        text-align: right;
+
+        pre {
+          padding-right: 0;
+        }
+      }
+      // code content
+      .lntd:last-child {
+        width: 100%;
+
+        pre {
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
+        }
+        code {
+          width: 100%;
+        }
+      }
+      // ========== lineNumbersInTable ========== //
+    }
+
+    &.open {
+      .code-header {
+        background-color: darken($code-background-color, 6%);
+        @include border-radius($global-border-radius $global-border-radius 0 0);
+
+        [data-theme='dark'] & {
+          background-color: darken($code-background-color-dark, 3%);
+        }
+      }
+
+      .table-wrapper {
+        max-height: 100%;
+        @include details-transition-close;
+      }
+
+      .arrow {
+        @include transform(rotate(90deg));
+      }
+
+      .ellipses {
+        display: none;
+      }
+
+      .edit,
+      .copy {
+        display: inline;
+      }
+    }
+  }
+
+  /* LineHighlight */
+  .hl {
+    display: block;
+    background-color: $code-hightlight-color;
+    box-shadow: -0.5rem 0 0 $code-hightlight-color, 0.5rem 0 0 $code-hightlight-color;
+
+    [data-theme='dark'] & {
+      background-color: $code-hightlight-color-dark;
+      box-shadow: -0.5rem 0 0 $code-hightlight-color-dark, 0.5rem 0 0 $code-hightlight-color-dark;
+    }
+  }
+  /* GenericUnderline */
+  .gl {
+    text-decoration: underline;
+  }
+  /* GenericStrong */
+  .gs {
+    font-weight: bold;
+  }
+  /* GenericEmph */
+  .ge {
+    font-style: italic;
+  }
+  /* lineNumbersInTable=false */
+  .ln {
+    padding-right: 0.5rem;
+    display: inline-block;
+    min-width: 1.1rem;
+    text-align: right;
+  }
+  /* LineNumbers */
+  .lnt,
+  .ln {
+    color: $global-font-secondary-color;
+
+    [data-theme='dark'] & {
+      color: $global-font-secondary-color-dark;
+    }
+  }
+
+  // ========== Higtlight Color ========== //
+
+  /* Error */
+  .err {
+    font-style: italic;
+    border-bottom: 1px dotted $code-error-color;
+  }
+  /* GenericDeleted */
+  .gd {
+    background-color: #ffebe9;
+
+    [data-theme='dark'] & {
+      background-color: #78191b;
+    }
+  }
+  /* GenericInserted */
+  .gi {
+    background-color: #dafbe1;
+
+    [data-theme='dark'] & {
+      background-color: #1b4721;
+    }
+  }
+
+  @each $class, $color in $code-highlight-color-map {
+    .#{$class} {
+      color: $color;
+    }
+  }
+
+  [data-theme='dark'] & {
+    @each $class, $color in $code-highlight-color-map-dark {
+      .#{$class} {
+        color: $color;
+      }
+    }
+  }
+  // ========== Higtlight Color ========== //
+}
+
+// gist shortcode
+.gist {
+  .gist-file,
+  .gist-data,
+  .gist-meta {
+    border: none;
+  }
+
+  .gist-data {
+    background-color: transparent;
+  }
+
+  .gist-meta {
+    padding: 0.4rem 0.8rem;
+    @include link(false, false);
+    background-color: darken($code-background-color, 5%);
+
+    [data-theme='dark'] & {
+      background-color: darken($code-background-color-dark, 5%);
+    }
+  }
+
+  .table-wrapper {
+    .highlight,
+    &::-webkit-scrollbar {
+      background-color: #f6f8fa;
+
+      [data-theme='dark'] & {
+        background-color: #2d333b;
+      }
+    }
+  }
+
+  [data-theme='dark'] & {
+    @import './github-dark-dimmed';
+  }
+}
