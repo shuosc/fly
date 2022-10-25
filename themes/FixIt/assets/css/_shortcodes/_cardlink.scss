@@ -1,0 +1,99 @@
+/**
+ * Card link style
+ * @author  @Lruihao https://lruihao.cn
+ */
+
+.card-link {
+  position: relative;
+  display: block;
+  margin: 0.5rem auto;
+  box-sizing: border-box;
+  width: clamp(50%, 400px, 100%);
+  max-width: 100%;
+  overflow: hidden;
+  text-decoration: none;
+  border: none;
+  @include border-radius(0.75rem);
+}
+
+.cl- {
+  &backdrop {
+    position: absolute;
+    top: 0.75rem;
+    bottom: 0.75rem;
+    left: 0;
+    right: 0;
+    background-image: var(--cl-bg-url);
+    background-repeat: no-repeat;
+    filter: blur(0.5rem);
+    opacity: 0.5;
+    background-size: contain;
+    background-position: center;
+  }
+
+  &content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem;
+    background-color: rgba(245, 245, 245, 0.88);
+  }
+
+  &text {
+    overflow: hidden;
+  }
+
+  &title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    max-height: calc(1rem * 1.25 * 2);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.25;
+    color: $global-font-color;
+  }
+
+  &meta {
+    display: flex;
+    align-items: center;
+    margin-top: 0.25rem;
+    font-size: 0.825rem;
+    color: $global-font-secondary-color;
+  }
+
+  &icon-link {
+    width: 1rem;
+    height: 1rem;
+    flex-shrink: 0;
+    margin-right: 0.25rem;
+  }
+
+  &url {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  &icon-globe {
+    width: 4rem;
+    height: 4rem;
+    flex-shrink: 0;
+    margin-left: 0.25rem;
+  }
+
+  [data-theme='dark'] & {
+    &content {
+      background-color: rgba(61, 62, 65, 0.88);
+    }
+
+    &title {
+      color: $global-font-color-dark;
+    }
+
+    &meta {
+      color: $global-font-secondary-color-dark;
+    }
+  }
+}

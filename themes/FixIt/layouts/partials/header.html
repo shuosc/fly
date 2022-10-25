@@ -1,0 +1,318 @@
+{{- $buildDrafts := .Site.BuildDrafts -}}
+
+{{- /* Desktop header */ -}}
+<header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper"{{ if .Site.Params.githubCorner.enable }} data-github-corner="{{ .Site.Params.githubCorner.position }}"{{ end }}>
+    <div class="header-title">
+      <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
+        {{- with .Site.Params.header.title -}}
+          {{- with .logo -}}
+            {{- dict "Src" . "Class" "logo" "Alt" $.Site.Title | partial "plugin/image.html" -}}
+          {{- end -}}
+          {{- with .pre -}}
+            <span class="header-title-pre">{{ . | safeHTML }}</span>
+          {{- end -}}
+          {{- if .typeit -}}
+            {{- $id := dict "Content" .name "Scratch" $.Scratch "Id" "typeit-header-desktop" | partial "function/id.html" -}}
+            <span id="{{ $id }}" class="typeit"></span>
+            {{- dict $id (slice $id) | dict "typeitMap" | merge ($.Scratch.Get "this") | $.Scratch.Set "this" -}}
+          {{- else -}}
+            <span class="header-title-text">{{- .name -}}</span>
+          {{- end -}}
+          {{- with .post -}}
+            <span class="header-title-post">{{ . | safeHTML }}</span>
+          {{- end -}}
+        {{- else -}}
+          <span class="header-title-text">{{- .Site.Title -}}</span>
+        {{- end -}}
+      </a>
+      {{- with .Site.Params.header.subtitle -}}
+        {{- if .typeit -}}
+          {{- $id := dict "Content" .name "Scratch" $.Scratch "Id" "typeit-header-subtitle-desktop" | partial "function/id.html" -}}
+          <span id="{{ $id }}" class="typeit header-subtitle"></span>
+          {{- dict $id (slice $id) | dict "typeitMap" | merge ($.Scratch.Get "this") | $.Scratch.Set "this" -}}
+        {{- else -}}
+          <span class="header-subtitle">{{- .name -}}</span>
+        {{- end -}}
+      {{- end -}}
+    </div>
+    <nav>
+      <ul class="menu">
+        {{- range .Site.Menus.main -}}
+          {{- $url := .URL | relLangURL -}}
+          {{- with .Page -}}
+            {{- $url = .RelPermalink -}}
+          {{- end -}}
+          {{- if (ne .Params.Draft true) | or $buildDrafts | and (ne .Params.Type "mobile") -}}
+            <li class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}{{ with .Params.Class }} {{ . }}{{ end }}{{ if .HasChildren }} has-children{{ end }}">
+              <a
+                class="menu-link"
+                href="{{ $url }}"
+                {{ with .Title }}title="{{ . }}"{{ end }}
+                {{ if (urls.Parse $url).Host }}rel="noopener noreferrer" target="_blank"{{ end }}
+              >
+                {{- with .Pre -}}{{- . | safeHTML }} {{ end }}
+                {{- with .Params.Icon -}}{{ dict "Class" (printf "%v fa-fw fa-sm" .) | partial "plugin/icon.html" }} {{ end }}
+                {{- .Name }}
+                {{- with .Post }} {{ . | safeHTML -}}{{- end -}}
+              </a>
+              {{- if .HasChildren -}}
+                {{ dict "Class" "dropdown-icon fa-solid fa-chevron-down" | partial "plugin/icon.html" }}
+                <ul class="sub-menu">
+                  {{ range .Children }}
+                    {{- $url := .URL | relLangURL -}}
+                    {{- with .Page -}}
+                      {{- $url = .RelPermalink -}}
+                    {{- end -}}
+                    {{- if (ne .Params.Draft true) | or $buildDrafts | and (ne .Params.Type "mobile") -}}
+                      <li
+                        class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}{{ with .Params.Class }} {{ . }}{{ end }}"
+                      >
+                        <a
+                          class="menu-link"
+                          href="{{ $url }}"
+                          {{ with .Title }}title="{{ . }}"{{ end }}
+                          {{ if (urls.Parse $url).Host }}rel="noopener noreferrer" target="_blank"{{ end }}
+                        >
+                          {{- with .Pre -}}{{- . | safeHTML }} {{ end }}
+                          {{- with .Params.Icon -}}{{ dict "Class" (printf "%v fa-fw fa-sm" .) | partial "plugin/icon.html" }} {{ end }}
+                          {{- .Name }}
+                          {{- with .Post }} {{ . | safeHTML -}}{{- end -}}
+                        </a>
+                      </li>
+                    {{- end -}}
+                  {{- end -}}
+                </ul>
+              {{- end -}}
+            </li>
+          {{- end -}}
+        {{- end -}}
+        {{- if .Site.Menus.main -}}
+          <li class="menu-item delimiter"></li>
+        {{- end -}}
+        {{- if .Site.IsMultiLingual -}}
+          <li class="menu-item language">
+            <span role="button" aria-label="{{ T "selectLanguage" }}" title="{{ T "selectLanguage" }}">
+              {{- .Language.LanguageName -}}
+              {{ dict "Class" "dropdown-icon fa-solid fa-chevron-down" | partial "plugin/icon.html" }}
+            </span>
+            <ul class="sub-menu">
+              {{- if (eq .Kind "404") -}}
+                {{- range .Sites -}}
+                  {{- if ne . $.Site -}}
+                    {{- $link := printf "%v/404.html" .LanguagePrefix -}}
+                    <li class="menu-item">
+                      <a href="{{ $link }}" class="menu-link" title="{{- .Language.LanguageName -}}">
+                        {{- .Language.LanguageName -}}
+                      </a>
+                    </li>
+                  {{- end -}}
+                {{- end -}}
+              {{- else if gt (len .AllTranslations) 1 -}}
+                {{- range .AllTranslations -}}
+                  {{- if ne .Lang $.Lang -}}
+                    <li class="menu-item">
+                      <a href="{{ .RelPermalink }}" class="menu-link" title="{{- .Language.LanguageName -}}">
+                        {{- .Language.LanguageName -}}
+                      </a>
+                    </li>
+                  {{- end -}}
+                {{- end -}}
+              {{- else -}}
+                <li class="menu-item">{{- T "noMoretTranslations" -}}</li>
+              {{- end -}}
+            </ul>
+          </li>
+        {{- end -}}
+        {{- if .Site.Params.search.enable -}}
+          <li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="{{ .Site.Params.search.placeholder | default (T `searchPlaceholder`) }}" id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="{{ T `search` }}">
+              {{ dict "Class" "fa-solid fa-search fa-fw" | partial "plugin/icon.html" }}
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="{{ T `clear` }}">
+              {{ dict "Class" "fa-solid fa-times-circle fa-fw" | partial "plugin/icon.html" }}
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              {{ dict "Class" "fa-solid fa-spinner fa-fw fa-spin" | partial "plugin/icon.html" }}
+            </span>
+          </li>
+        {{- end -}}
+        <li class="menu-item theme-switch" title="{{ T "switchTheme" }}">
+          {{ dict "Class" "fa-solid fa-adjust fa-fw" | partial "plugin/icon.html" }}
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+{{- /* Mobile header */ -}}
+<header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
+          {{- with .Site.Params.header.title -}}
+            {{- with .logo -}}
+              {{- dict "Src" . "Class" "logo" | partial "plugin/image.html" -}}
+            {{- end -}}
+            {{- with .pre -}}
+              <span class="header-title-pre">{{ . | safeHTML }}</span>
+            {{- end -}}
+            {{- if .typeit -}}
+              {{- $id := dict "Content" .name "Scratch" $.Scratch "Id" "typeit-header-title-mobile" | partial "function/id.html" -}}
+              <span id="{{ $id }}" class="typeit"></span>
+              {{- dict $id (slice $id) | dict "typeitMap" | merge ($.Scratch.Get "this") | $.Scratch.Set "this" -}}
+            {{- else -}}
+              <span class="header-title-text">{{- .name -}}</span>
+            {{- end -}}
+            {{- with .post -}}
+              <span class="header-title-post">{{ . | safeHTML }}</span>
+            {{- end -}}
+          {{- else -}}
+            <span class="header-title-text">{{- .Site.Title -}}</span>
+          {{- end -}}
+        </a>
+        {{- with .Site.Params.header.subtitle -}}
+          {{- if .typeit -}}
+            {{- $id := dict "Content" .name "Scratch" $.Scratch "Id" "typeit-header-subtitle-mobile" | partial "function/id.html" -}}
+            <span id="{{ $id }}" class="typeit header-subtitle"></span>
+            {{- dict $id (slice $id) | dict "typeitMap" | merge ($.Scratch.Get "this") | $.Scratch.Set "this" -}}
+          {{- else -}}
+            <span class="header-subtitle">{{- .name -}}</span>
+          {{- end -}}
+        {{- end -}}
+      </div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile">
+        {{- if .Site.Params.search.enable -}}
+          <li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="{{ .Site.Params.search.placeholder | default (T `searchPlaceholder`) }}" id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="{{ T `search` }}">
+                {{ dict "Class" "fa-solid fa-search fa-fw" | partial "plugin/icon.html" }}
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="{{ T `clear` }}">
+                {{ dict "Class" "fa-solid fa-times-circle fa-fw" | partial "plugin/icon.html" }}
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                {{ dict "Class" "fa-solid fa-spinner fa-fw fa-spin" | partial "plugin/icon.html" }}
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              {{ T `cancel` }}
+            </a>
+          </li>
+        {{- end -}}
+        {{- $currentPage := . -}}
+        {{- range .Site.Menus.main -}}
+          {{- $url := .URL | relLangURL -}}
+          {{- with .Page -}}
+            {{- $url = .RelPermalink -}}
+          {{- end -}}
+          {{- if (ne .Params.Draft true) | or $buildDrafts | and (ne .Params.Type "desktop") -}}
+            <li
+              class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}{{ with .Params.Class }} {{ . }}{{ end }}"
+            >
+              {{- if .HasChildren -}}
+                <span class="nested-item">
+                  <a
+                    class="menu-link"
+                    href="{{ $url }}"
+                    {{ with .Title }}title="{{ . }}"{{ end }}
+                    {{ if (urls.Parse $url).Host }}rel="noopener noreferrer" target="_blank"{{ end }}
+                  >
+                    {{- with .Pre -}}{{- . | safeHTML }} {{ end }}
+                    {{- with .Params.Icon -}}{{ dict "Class" (printf "%v fa-fw fa-sm" .) | partial "plugin/icon.html" }} {{ end }}
+                    {{- .Name }}
+                    {{- with .Post }} {{ . | safeHTML -}}{{- end -}}
+                  </a>
+                  {{ dict "Class" "dropdown-icon fa-solid fa-chevron-right" | partial "plugin/icon.html" }}
+                </span>
+                <ul class="sub-menu">
+                  {{ range .Children }}
+                    {{- $url := .URL | relLangURL -}}
+                    {{- with .Page -}}
+                      {{- $url = .RelPermalink -}}
+                    {{- end -}}
+                    {{- if (ne .Params.Draft true) | or $buildDrafts | and (ne .Params.Type "desktop") -}}
+                      <li
+                        class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}{{ with .Params.Class }} {{ . }}{{ end }}"
+                      >
+                        <a
+                          class="menu-link"
+                          href="{{ $url }}"
+                          {{ with .Title }}title="{{ . }}"{{ end }}
+                          {{ if (urls.Parse $url).Host }}rel="noopener noreferrer" target="_blank"{{ end }}
+                        >
+                          {{- with .Pre -}}{{- . | safeHTML }} {{ end }}
+                          {{- with .Params.Icon -}}{{ dict "Class" (printf "%v fa-fw fa-sm" .) | partial "plugin/icon.html" }} {{ end }}
+                          {{- .Name }}
+                          {{- with .Post }} {{ . | safeHTML -}}{{- end -}}
+                        </a>
+                      </li>
+                    {{- end -}}
+                  {{- end -}}
+                </ul>
+              {{- else -}}
+                <a
+                  class="menu-link"
+                  href="{{ $url }}"
+                  {{ with .Title }}title="{{ . }}"{{ end }}
+                  {{ if (urls.Parse $url).Host }}rel="noopener noreferrer" target="_blank"{{ end }}
+                >
+                  {{- with .Pre -}}{{- . | safeHTML }} {{ end }}
+                  {{- with .Params.Icon -}}{{ dict "Class" (printf "%v fa-fw fa-sm" .) | partial "plugin/icon.html" }} {{ end }}
+                  {{- .Name }}
+                  {{- with .Post }} {{ . | safeHTML -}}{{- end -}}
+                </a>
+              {{- end -}}
+            </li>
+          {{- end -}}
+        {{- end -}}
+        <li class="menu-item theme-switch" title="{{ T "switchTheme" }}">
+          {{ dict "Class" "fa-solid fa-adjust fa-fw" | partial "plugin/icon.html" }}
+        </li>
+        {{- if .Site.IsMultiLingual -}}
+          <li class="menu-item language">
+            <span role="button" aria-label="{{ T "selectLanguage" }}" title="{{ T "selectLanguage" }}">
+              {{- .Language.LanguageName -}}
+              {{ dict "Class" "dropdown-icon fa-solid fa-chevron-down" | partial "plugin/icon.html" }}
+            </span>
+            <select class="language-select" onchange="location = this.value;">
+              {{- if eq .Kind "404" -}}
+                {{- range .Sites -}}
+                  {{- $link := printf "%v/404.html" .LanguagePrefix -}}
+                  <option value="{{ $link }}"{{ if eq . $.Site }} selected disabled{{ end }}>
+                    {{- .Language.LanguageName -}}
+                  </option>
+                {{- end -}}
+              {{- else if gt (len .AllTranslations) 1 -}}
+                {{- range .AllTranslations -}}
+                  <option value="{{ .RelPermalink }}"{{ if eq .Lang $.Lang }} selected disabled{{ end }}>
+                    {{- .Language.LanguageName -}}
+                  </option>
+                {{- end -}}
+              {{- else -}}
+                <option disabled>{{- T "noMoretTranslations" -}}</option>
+              {{- end -}}
+            </select>
+          </li>
+        {{- end -}}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+{{- if .Site.Params.search.enable -}}
+  <div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div>
+{{- end -}}

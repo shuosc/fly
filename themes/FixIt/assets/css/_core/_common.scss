@@ -1,0 +1,56 @@
+// ==============================
+// Common Styles
+// 常用样式
+// ==============================
+
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.text-start {
+  text-align: left !important;
+}
+.text-end {
+  text-align: right !important;
+}
+.text-center {
+  text-align: center !important;
+}
+
+.d-none {
+  display: none !important;
+}
+.d-none-desktop {
+  display: none;
+}
+.d-none-mobile {
+  display: block;
+}
+
+.ms-1 {
+  margin-left: 0.25rem !important;
+}
+.me-1 {
+  margin-right: 0.25rem !important;
+}
+.ps-1 {
+  padding-left: 0.25rem !important;
+}
+.pe-1 {
+  padding-right: 0.25rem !important;
+}
+
+@each $color, $value in $theme-colors {
+  .text-#{$color} {
+    color: #{$value} !important;
+
+    [data-theme='dark'] & {
+      color: #{darken($value, 5%)} !important;
+    }
+  }
+}
+
+.variant-numeric {
+  font-variant-numeric: tabular-nums lining-nums;
+}

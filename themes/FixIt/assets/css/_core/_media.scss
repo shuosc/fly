@@ -1,0 +1,175 @@
+@media only screen and (min-width: 1441px) {
+  .page {
+    width: 60%;
+
+    [data-page-style='wide'] & {
+      width: 64%;
+    }
+
+    [data-page-style='narrow'] & {
+      max-width: 800px;
+    }
+  }
+
+  aside {
+    width: 20%;
+
+    [data-page-style='wide'] & {
+      width: 18%;
+    }
+
+    [data-page-style='narrow'] & {
+      width: calc(50% - 400px);
+    }
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .page {
+    width: 56%;
+
+    [data-page-style='wide'] & {
+      width: 60%;
+    }
+  }
+
+  aside {
+    width: 22%;
+
+    [data-page-style='wide'] & {
+      width: 20%;
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .page {
+    width: 52%;
+
+    [data-page-style='wide'] & {
+      width: 56%;
+    }
+  }
+
+  aside {
+    width: 24%;
+
+    [data-page-style='wide'] & {
+      width: 22%;
+    }
+  }
+
+  #header-desktop .header-wrapper {
+    padding-right: 1rem;
+  }
+
+  .search-dropdown.desktop {
+    right: 1rem;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  aside {
+    display: none !important;
+  }
+
+  #toc-static {
+    display: block;
+  }
+
+  .page {
+    width: 80% !important;
+  }
+
+  #header-desktop .header-wrapper {
+    padding-left: 1rem;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  #header-desktop {
+    display: none;
+  }
+
+  #header-mobile,
+  .d-none-desktop {
+    display: block;
+  }
+
+  .d-none-mobile {
+    display: none !important;
+  }
+
+  .page {
+    width: 100% !important;
+
+    .content {
+      [id] {
+        [data-header-mobile='normal'] & {
+          scroll-margin-top: 0;
+        }
+      }
+    }
+
+    .categories-card {
+      .card-item {
+        width: 100%;
+      }
+    }
+  }
+
+  footer {
+    .footer-container {
+      font-size: 0.618rem;
+    }
+  }
+  
+  .pagination .page-item {
+    margin: 0 5px;
+  }
+}
+
+@media only print {
+  @page {
+    size: A4 portrait;
+    margin: 1.27cm;
+  }
+
+  .page {
+    width: 100% !important;
+    padding-top: 0 !important;
+
+    .single-title,
+    .single-subtitle,
+    .post-meta {
+      text-align: center;
+    }
+
+    h1:not(.single-title),
+    .page-break-before {
+      page-break-before: always;
+    }
+
+    .page-break-after {
+      page-break-after: always;
+    }
+  }
+
+  .print-d-none,
+  header,
+  footer .footer-line:not(.powered):not(.copyright),
+  #toc-auto,
+  .comment-visitors,
+  .comment-count,
+  .code-header>.ellipses,
+  .code-header>.edit,
+  .code-header>.copy,
+  .post-info-share,
+  .post-info-more section:last-child,
+  .post-nav,
+  .fixed-buttons,
+  #comments,
+  .github-corner {
+    display: none !important;
+  }
+}

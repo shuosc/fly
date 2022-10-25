@@ -1,0 +1,675 @@
+# 001: Github
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fa-brands fa-github-alt fa-fw
+
+# 002: LinkedIn
+linkedin:
+  Weight: 2
+  Prefix: https://linkedin.com/in/
+  Title: LinkedIn
+  Icon:
+    Class: fa-brands fa-linkedin fa-fw
+
+# 003: Twitter
+twitter:
+  Weight: 3
+  Prefix: https://twitter.com/
+  Title: Twitter
+  Icon:
+    Class: fa-brands fa-twitter fa-fw
+
+# 004: Instagram
+instagram:
+  Weight: 4
+  Prefix: https://www.instagram.com/
+  Title: Instagram
+  Icon:
+    Class: fa-brands fa-instagram fa-fw
+
+# 005: facebook
+facebook:
+  Weight: 5
+  Prefix: https://facebook.com/
+  Title: facebook
+  Icon:
+    Class: fa-brands fa-facebook fa-fw
+
+# 006: Telegram
+telegram:
+  Weight: 6
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fa-brands fa-telegram-plane fa-fw
+
+# 007: Medium
+medium:
+  Weight: 7
+  Prefix: https://medium.com/
+  Title: Medium
+  Icon:
+    Class: fa-brands fa-medium fa-fw
+
+# 008: GitLab
+gitlab:
+  Weight: 8
+  Prefix: https://gitlab.com/
+  Title: GitLab
+  Icon:
+    Class: fa-brands fa-gitlab fa-fw
+
+# 009: YouTube Legacy
+youtubelegacy:
+  Weight: 9
+  Prefix: https://www.youtube.com/user/
+  Title: YouTube
+  Icon:
+    Class: fa-brands fa-youtube fa-fw
+
+# 010: YouTube Custom
+youtubecustom:
+  Weight: 10
+  Prefix: https://www.youtube.com/c/
+  Title: YouTube
+  Icon:
+    Class: fa-brands fa-youtube fa-fw
+
+# 011: YouTube Channel
+youtubechannel:
+  Weight: 11
+  Prefix: https://www.youtube.com/channel/
+  Title: YouTube
+  Icon:
+    Class: fa-brands fa-youtube fa-fw
+
+# 012: Tumblr
+tumblr:
+  Weight: 12
+  Template: https://%v.tumblr.com/
+  Title: Tumblr
+  Icon:
+    Class: fa-brands fa-tumblr fa-fw
+
+# 013: Quora
+quora:
+  Weight: 13
+  Prefix: https://www.quora.com/profile/
+  Title: Quora
+  Icon:
+    Class: fa-brands fa-quora fa-fw
+
+# 014: Keybase
+keybase:
+  Weight: 14
+  Prefix: https://keybase.io/
+  Title: Keybase
+  Icon:
+    Class: fa-brands fa-keybase fa-fw
+
+# 015: Pinterest
+pinterest:
+  Weight: 15
+  Prefix: https://www.pinterest.com/
+  Title: Pinterest
+  Icon:
+    Class: fa-brands fa-pinterest fa-fw
+
+# 016: Reddit
+reddit:
+  Weight: 16
+  Prefix: https://www.reddit.com/user/
+  Title: Reddit
+  Icon:
+    Class: fa-brands fa-reddit fa-fw
+
+# 017: CodePen
+codepen:
+  Weight: 17
+  Prefix: https://codepen.io/
+  Title: CodePen
+  Icon:
+    Class: fa-brands fa-codepen fa-fw
+
+# 018: freeCodeCamp
+freecodecamp:
+  Weight: 18
+  Prefix: https://freecodecamp.org/
+  Title: freeCodeCamp
+  Icon:
+    Class: fa-brands fa-free-code-camp fa-fw
+
+# 019: Bitbucket
+bitbucket:
+  Weight: 19
+  Prefix: https://bitbucket.org/
+  Title: Bitbucket
+  Icon:
+    Class: fa-brands fa-bitbucket fa-fw
+
+# 020: Stack Overflow
+stackoverflow:
+  Weight: 20
+  Prefix: https://stackoverflow.com/users/
+  Title: Stack Overflow
+  Icon:
+    Class: fa-brands fa-stack-overflow fa-fw
+
+# 021: 微博
+weibo:
+  Weight: 21
+  Prefix: https://weibo.com/
+  Title: 微博
+  Icon:
+    Class: fa-brands fa-weibo fa-fw
+
+# 022: OK.RU
+odnoklassniki:
+  Weight: 22
+  Prefix: https://ok.ru/
+  Title: OK.RU
+  Icon:
+    Class: fa-brands fa-odnoklassniki fa-fw
+
+# 023: VK
+vk:
+  Weight: 23
+  Prefix: https://vk.com/
+  Title: VK
+  Icon:
+    Class: fa-brands fa-vk fa-fw
+
+# 024: Flickr
+flickr:
+  Weight: 24
+  Prefix: https://www.flickr.com/photos/
+  Title: Flickr
+  Icon:
+    Class: fa-brands fa-flickr fa-fw
+
+# 025: Xing
+xing:
+  Weight: 25
+  Prefix: https://www.xing.com/profile/
+  Title: Xing
+  Icon:
+    Class: fa-brands fa-xing fa-fw
+
+# 026: Snapchat
+snapchat:
+  Weight: 26
+  Prefix: https://www.snapchat.com/add/
+  Title: Snapchat
+  Icon:
+    Class: fa-brands fa-snapchat fa-fw
+
+# 027: SoundCloud
+soundcloud:
+  Weight: 27
+  Prefix: https://soundcloud.com/
+  Title: SoundCloud
+  Icon:
+    Class: fa-brands fa-soundcloud fa-fw
+
+# 028: Spotify
+spotify:
+  Weight: 28
+  Prefix: https://open.spotify.com/user/
+  Title: Spotify
+  Icon:
+    Class: fa-brands fa-spotify fa-fw
+
+# 029: Bandcamp
+bandcamp:
+  Weight: 29
+  Template: https://%v.bandcamp.com/
+  Title: Bandcamp
+  Icon:
+    Class: fa-brands fa-bandcamp fa-fw
+
+# 030: PayPal
+paypal:
+  Weight: 30
+  Prefix: https://paypal.me/
+  Title: PayPal
+  Icon:
+    Class: fa-brands fa-paypal fa-fw
+
+# 031: 500px
+fivehundredpx:
+  Weight: 31
+  Prefix: https://500px.com/
+  Title: 500px
+  Icon:
+    Class: fa-brands fa-500px fa-fw
+
+# 032: Mix
+mix:
+  Weight: 32
+  Prefix: https://mix.com/
+  Title: Mix
+  Icon:
+    Class: fa-brands fa-mix fa-fw
+
+# 033: Goodreads
+goodreads:
+  Weight: 33
+  Prefix: https://www.goodreads.com/user/show/
+  Title: Goodreads
+  Icon:
+    Class: fa-brands fa-goodreads fa-fw
+
+# 034: Last.fm
+lastfm:
+  Weight: 34
+  Prefix: https://www.last.fm/user/
+  Title: Last.fm
+  Icon:
+    Class: fa-brands fa-lastfm fa-fw
+
+# 035: Foursquare
+foursquare:
+  Weight: 35
+  Prefix: https://foursquare.com/
+  Title: Foursquare
+  Icon:
+    Class: fa-brands fa-foursquare fa-fw
+
+# 036: Hacker News
+hackernews:
+  Weight: 36
+  Template: https://news.ycombinator.com/user?id=%v
+  Title: Hacker News
+  Icon:
+    Class: fa-brands fa-hacker-news fa-fw
+
+# 037: Kickstarter
+kickstarter:
+  Weight: 37
+  Prefix: https://kickstarter.com/profile/
+  Title: Kickstarter
+  Icon:
+    Class: fa-brands fa-kickstarter fa-fw
+
+# 038: Patreon
+patreon:
+  Weight: 38
+  Prefix: https://patreon.com/
+  Title: Patreon
+  Icon:
+    Class: fa-brands fa-patreon fa-fw
+
+# 039: Steam
+steam:
+  Weight: 39
+  Prefix: https://steamcommunity.com/id/
+  Title: Steam
+  Icon:
+    Class: fa-brands fa-steam fa-fw
+
+# 040: Twitch
+twitch:
+  Weight: 40
+  Prefix: https://www.twitch.tv/
+  Title: Twitch
+  Icon:
+    Class: fa-brands fa-twitch fa-fw
+
+# 041: Strava
+strava:
+  Weight: 41
+  Prefix: https://www.strava.com/athletes/
+  Title: Strava
+  Icon:
+    Class: fa-brands fa-strava fa-fw
+
+# 042: Skype
+skype:
+  Weight: 42
+  Template: "skype:"
+  Title: Skype
+  Icon:
+    Class: fa-brands fa-skype fa-fw
+
+# 043: WhatsApp
+whatsapp:
+  Weight: 43
+  Prefix: https://wa.me/
+  Title: WhatsApp
+  Icon:
+    Class: fa-brands fa-whatsapp fa-fw
+
+# 044: 知乎
+zhihu:
+  Weight: 44
+  Prefix: https://www.zhihu.com/people/
+  Title: 知乎
+  Icon:
+    Class: fa-brands fa-zhihu fa-fw
+
+# 045: 豆瓣
+douban:
+  Weight: 45
+  Prefix: https://www.douban.com/people/
+  Title: 豆瓣
+  Icon:
+    Simpleicons: douban
+
+# 046: Angellist
+angellist:
+  Weight: 46
+  Prefix: https://angel.co/
+  Title: Angellist
+  Icon:
+    Class: fa-brands fa-angellist fa-fw
+
+# 047: SlideShare
+slideshare:
+  Weight: 47
+  Prefix: https://slideshare.com/
+  Title: SlideShare
+  Icon:
+    Class: fa-brands fa-slideshare fa-fw
+
+# 048: JSFiddle
+jsfiddle:
+  Weight: 48
+  Prefix: https://jsfiddle.com/
+  Title: JSFiddle
+  Icon:
+    Class: fa-brands fa-jsfiddle fa-fw
+
+# 049: DeviantArt
+deviantart:
+  Weight: 49
+  Template: https://%v.deviantart.com/
+  Title: DeviantArt
+  Icon:
+    Class: fa-brands fa-deviantart fa-fw
+
+# 050: Behance
+behance:
+  Weight: 50
+  Prefix: https://behance.net/
+  Title: Behance
+  Icon:
+    Class: fa-brands fa-behance fa-fw
+
+# 051: Dribbble
+dribbble:
+  Weight: 51
+  Prefix: https://dribbble.com/
+  Title: Dribbble
+  Icon:
+    Class: fa-brands fa-dribbble fa-fw
+
+# 052: WordPress
+wordpress:
+  Weight: 52
+  Template: https://%v.wordpress.com/
+  Title: WordPress
+  Icon:
+    Class: fa-brands fa-wordpress fa-fw
+
+# 053: Vine
+vine:
+  Weight: 53
+  Prefix: https://vine.co/
+  Title: Vine
+  Icon:
+    Class: fa-brands fa-vine fa-fw
+
+# 054: Google Scholar
+googlescholar:
+  Weight: 54
+  Template: https://scholar.google.com/citations?%v
+  Title: Google Scholar
+  Icon:
+    Simpleicons: googlescholar
+
+# 055: ResearchGate
+researchgate:
+  Weight: 55
+  Prefix: https://www.researchgate.net/profile/
+  Title: ResearchGate
+  Icon:
+    Class: fa-brands fa-researchgate fa-fw
+
+# 056: Mastodon
+mastodon:
+  Weight: 56
+  Prefix: https://mastodon.social/
+  Title: Mastodon
+  Icon:
+    Class: fa-brands fa-mastodon fa-fw
+
+# 057: Thingiverse
+thingiverse:
+  Weight: 57
+  Prefix: https://www.thingiverse.com/
+  Title: Thingiverse
+  Icon:
+    Simpleicons: thingiverse
+
+# 058: Dev.To
+devto:
+  Weight: 58
+  Prefix: https://dev.to/
+  Title: Dev.To
+  Icon:
+    Class: fa-brands fa-dev fa-fw
+
+# 059: Gitea
+gitea:
+  Weight: 59
+  Title: Gitea
+  Icon:
+    Simpleicons: gitea
+
+# 060: XMPP
+xmpp:
+  Weight: 60
+  Template: xmpp:%v
+  Title: XMPP
+  Icon:
+    Simpleicons: xmpp
+
+# 061: Matrix
+matrix:
+  Weight: 61
+  Prefix: https://matrix.to/#/
+  Title: Matrix
+  Icon:
+    Simpleicons: matrix
+
+# 062: bilibili
+bilibili:
+  Weight: 62
+  Prefix: https://space.bilibili.com/
+  Title: bilibili
+  Icon:
+    Class: fa-brands fa-bilibili
+
+# 063: ORCID
+orcid:
+  Weight: 63
+  Prefix: https://orcid.org/
+  Title: ORCID
+  Icon:
+    Class: fa-brands fa-orcid fa-fw
+
+# 064 Liberapay
+liberapay:
+  Weight: 64
+  Prefix: https://liberapay.com/
+  Title: Liberapay
+  Icon:
+    Simpleicons: liberapay
+
+# 065 Ko-Fi
+ko-fi:
+  Weight: 65
+  Prefix: https://ko-fi.com/
+  Title: Ko-Fi
+  Icon:
+    Simpleicons: kofi
+
+# 066: BuyMeaCoffee
+buymeacoffee:
+  Weight: 66
+  Prefix: https://www.buymeacoffee.com/
+  Title: BuyMeaCoffee
+  Icon:
+    Simpleicons: buymeacoffee
+
+# 067: Linktree
+linktree:
+  Weight: 67
+  Prefix: https://linktr.ee/
+  Title: Linktree
+  Icon:
+    Simpleicons: linktree
+
+# 068: QQ
+qq:
+  Weight: 68
+  Template: https://wpa.qq.com/msgrd?v=3&uin=%v&site=qq&menu=yes
+  Title: QQ
+  Icon:
+    Simpleicons: tencentqq
+
+# 069: QQ Group
+qqgroup:
+  Weight: 69
+  Template: https://qm.qq.com/cgi-bin/qm/qr?k=%v&jump_from=webapi
+  Title: QQ Group
+  Icon:
+    Class: fa-solid fa-users
+
+# 070: Diaspora
+diaspora:
+  Weight: 70
+  Title: diaspora*
+  Icon:
+    Simpleicons: diaspora
+
+# 071: CSDN
+csdn:
+  Weight: 71
+  Prefix: https://blog.csdn.net/
+  Title: CSDN
+  Icon:
+    Src: svg/icons/csdn.svg
+
+# 072: Discord User Profile
+discord:
+  Weight: 72
+  Prefix: https://discordapp.com/users/
+  Title: Discord
+  Icon:
+    Class: fa-brands fa-discord fa-fw
+
+# 073: Discord Server Invite Link
+discordInvite:
+  Weight: 73
+  Prefix: https://discord.gg/
+  Title: Discord
+  Icon:
+    Class: fa-brands fa-discord fa-fw
+
+# 074: Lichess user profile
+lichess:
+  Weight: 74
+  Prefix: https://lichess.org/@/
+  Title: Lichess
+  Icon:
+    Simpleicons: lichess
+
+# 075: Pleroma
+pleroma:
+  Weight: 75
+  Title: Pleroma
+  Icon:
+    Simpleicons: pleroma
+
+# 076: Kaggle
+kaggle:
+  Weight: 76
+  Prefix: https://kaggle.com/
+  Title: Kaggle
+  Icon:
+    Class: fa-brands fa-kaggle fa-fw
+
+# 077: MediaWiki
+mediawiki:
+  Weight: 77
+  Title: MediaWiki
+  Icon:
+    Class: fa-brands fa-wikipedia-w fa-fw
+
+# 078: Plume
+plume:
+  Weight: 78
+  Title: Plume
+  Icon:
+    Src: svg/icons/plume.svg
+
+# 079: Hack The Box
+hackthebox:
+  Weight: 79
+  Title: Hack The Box
+  Prefix: https://app.hackthebox.com/profile/
+  Icon:
+    Simpleicons: hackthebox
+
+# 080: Root-Me
+rootme:
+  Weight: 80
+  Title: Root-Me
+  Prefix: https://www.root-me.org/
+  Icon:
+    Src: svg/icons/rootme.svg
+
+# 081: Feishu
+feishu:
+  Weight: 81
+  Title: Feishu
+  Template: https://www.feishu.cn/invitation/page/add_contact/?token=%v
+  Icon:
+    Class: fa-solid fa-dove
+
+# 082: TryHackMe
+tryhackme:
+  Weight: 82
+  Title: TryHackMe
+  Prefix: https://tryhackme.com/p/
+  Icon:
+    Simpleicons: tryhackme
+
+# Phone
+phone:
+  Weight: 997
+  Template: tel:%v
+  Title: Phone
+  Icon:
+    Class: fa-solid fa-phone fa-fw
+
+# Email
+email:
+  Weight: 998
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: fa-regular fa-envelope fa-fw
+
+# RSS
+rss:
+  Weight: 999
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fa-solid fa-rss fa-fw
