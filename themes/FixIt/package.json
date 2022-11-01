@@ -1,0 +1,42 @@
+{
+  "name": "fixit-src",
+  "version": "0.2.16",
+  "description": "FixIt theme source files",
+  "private": true,
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.18.10",
+    "atomic-algolia": "^0.3.19",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "core-js": "^3.25.2",
+    "segmentit": "^2.0.3"
+  },
+  "scripts": {
+    "babel": "npx babel src/js/theme.js -o assets/js/theme.min.js -s",
+    "build": "npm run babel && hugo -v --source=docs --gc --minify",
+    "build:lunr.segmentit": "browserify src/lib/lunr.segmentit.js -o assets/lib/lunr/lunr.segmentit.js -t babelify --presets @babel/preset-env --presets minify",
+    "server": "hugo server --source=docs -D --disableFastRender --navigateToChanged --ignoreCache",
+    "server:production": "npm run server -- -e production",
+    "start": "npm run babel && npm run server",
+    "start:production": "npm run babel && npm run server:production",
+    "algolia": "atomic-algolia",
+    "update:docs": "git submodule update --remote --merge && git add docs && git commit -m ':memo: Docs: update theme docs'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-fixit/FixIt.git"
+  },
+  "keywords": [
+    "hugo",
+    "theme",
+    "fixit"
+  ],
+  "author": "Lruihao (https://lruihao.cn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugo-fixit/FixIt/issues"
+  },
+  "homepage": "https://github.com/hugo-fixit/FixIt#readme"
+}

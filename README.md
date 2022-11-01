@@ -1,5 +1,7 @@
 # 上海大学溯源手册(SHUFly)
 
+![size](https://img.shields.io/github/repo-size/shuosc/fly)
+
 ## 意见反馈
 - 【腾讯文档】上海大学溯源手册意见征集📝- https://docs.qq.com/sheet/DTkF5V3VJT3lZTkhX?tab=BB08J2
 

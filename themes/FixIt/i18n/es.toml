@@ -1,0 +1,277 @@
+# Translations for Spanish
+# Traducciones para español
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === init ===
+[configurationError]
+other = "" # waitting for translation
+
+[compatibilityError]
+other = "" # waitting for translation
+
+[RCVersionWarn]
+other = "" # waitting for translation
+
+[devEnvWarn]
+other = "" # waitting for translation
+
+[quicklyUpgrade]
+other = "" # waitting for translation
+# === init ===
+
+# === baseof ===
+[backToTop]
+other = "Volver arriba"
+
+[viewComments]
+other = "Ver comentarios"
+
+[noscript]
+other = "" # waitting for translation
+# === baseof ===
+
+# === Post ===
+[posts]
+other = "Artículos"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Todo {{ .Some }}"
+
+[totalwordCount]
+one = "" # waitting for translation
+other = "" # waitting for translation
+
+[tag]
+other = "Etiqueta"
+
+[tags]
+other = "Etiquetas"
+
+[category]
+other = "Categoría"
+
+[categories]
+other = "Categorías"
+# === Taxonomy ===
+
+# === Section ===
+[recentlyUpdated]
+other = "Actualizado recientemente"
+# === Section ===
+
+# === Pagination ===
+[more]
+other = "Más"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Selecciona el lenguage"
+
+[noMoretTranslations]
+other = "No hay más traducciones"
+
+[switchTheme]
+other = "Cambia el tema"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Provisto por {{ .Hugo }} | Tema - {{ .Theme }}"
+
+[siteUV]
+other = "Total de visitantes"
+
+[sitePV]
+other = "Total de visitas"
+
+[siteRunning]
+other = "El sitio se está ejecutando ..."
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "en" # Español no soportado por Valine
+
+[valinePlaceholder]
+other = "Tu comentario ..."
+
+[facebookLanguageCode]
+other = "es_MX"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Buscar"
+
+[searchPlaceholder]
+other = "Busca títulos o contenido..."
+
+[clear]
+other = "Limpiar"
+
+[cancel]
+other = "Cancelar"
+
+[noResultsFound]
+other = "No se encontraron resultados"
+
+[lunrLanguageCode]
+other = "es"
+
+[lunrLanguageLib]
+other = "lib/lunr/lunr.es.js"
+
+[copyToClipboard]
+other = "Copiar al portapapeles"
+
+[editLockTitle]
+other = "Bloquear bloque de código editable"
+
+[editUnLockTitle]
+other = "Desbloquear bloque de código editable"
+
+[cookieconsentMessage]
+other = "Este sitio web utiliza Cookies para mejorar su experiencia."
+
+[cookieconsentDismiss]
+other = "De acuerdo"
+
+[cookieconsentLink]
+other = "Aprende más"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Compartir en"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Contenido"
+[repost]
+other = "" # waitting for translation
+
+[publishedOnDate]
+other = "publicado el {{ .Date }}"
+
+[includedInCategories]
+other = "incluido en {{ .Categories }}"
+
+[wordCount]
+one = "Una palabra"
+other = "{{ .Count }} palabras"
+
+[readingTime]
+one = "Un minuto"
+other = "{{ .Count }} minutos"
+
+[views]
+other = "vistas"
+
+[comments]
+other = "Comentarios"
+
+[author]
+other = "Autor"
+
+[updatedOnDate]
+other = "Actualizado el {{ .Date }}"
+
+[readMarkdown]
+other = "Leer Markdown"
+
+[editThisPage]
+other = "Editar esta página"
+
+[back]
+other = "Regresar"
+
+[home]
+other = "Inicio"
+
+[readMore]
+other = "Leer más"
+
+[expirationReminder]
+other = "Este artículo se actualizó por última vez el {{ .Date }}, es posible que el contenido no esté actualizado."
+
+[encryptedAbstract]
+other = "" # waitting for translation
+
+[encryptedMessage]
+other = "" # waitting for translation
+
+[password]
+other = "Contraseña"
+
+[encryptyAgain]
+other = "" # waitting for translation
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Página no encontrada"
+
+[pageNotFoundText]
+other = "La página que estás buscando no existe. Lo siento."
+# === 404.html ===
+
+# === offline ===
+[offlineTitle]
+other = "desconectado"
+
+[offlineText]
+other = "No está conectado a Internet, solo estarán disponibles las páginas almacenadas en caché."
+# === offline ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Nota"
+
+[abstract]
+other = "Resumen"
+
+[info]
+other = "Información"
+
+[tip]
+other = "Consejo"
+
+[success]
+other = "Éxito"
+
+[question]
+other = "Pregunta"
+
+[warning]
+other = "Advertencia"
+
+[failure]
+other = "Fallo"
+
+[danger]
+other = "Peligro"
+
+[bug]
+other = "Error"
+
+[example]
+other = "Ejemplo"
+
+[quote]
+other = "Cita"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NUEVO"
+
+[changed]
+other = "MODIFICADO"
+
+[deleted]
+other = "ELIMINADO"
+# === shortcodes/version.html ===
