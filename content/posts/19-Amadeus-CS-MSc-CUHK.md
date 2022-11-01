@@ -47,12 +47,13 @@ draft: false
 - 2022年9月23号        PolyU开放申请，进行申请
 - 2022年10月3号        CUHK 发送补充电子证明的邮件
 - 2022年10月10号      收到CUHK的provisional offer，预计10月底发正式offer
+- 2022年10月22号      收到CUHK的正式offer
 
 
 
 ### 申请结果
 
-最终录取学校：待更新
+最终录取学校：CUHK
 
 
 - **Offer(1):** 
@@ -61,7 +62,15 @@ draft: false
   |------|-------|
   |The Chinese University of Hong Kong|MSc in E-Commerce and Logistics Technologies|
 
+- **Reject(1):**
 
+  |      |      |
+  | ---- | ---- |
+  |      |      |
+  |      |      |
+  |      |      |
+
+   
 
 ## 申请心得
 
@@ -78,9 +87,9 @@ draft: false
 - 我是上海考生，在语言考试这方面精力花的比较少，总共学了大概40天，只考了一次。四六级的成绩都是几乎裸考出来的，所以我的语言学习方法可能不太适合四六级分数不是非常理想的同学，可以把阵线拉长，持久的提高自己的语言能力。
 - 雅思
   - 口语
-    - 雅思准备时间40天里，我有30天是在准备口语的（虽然最后考出来分数是最低的），学习材料有《十天突破雅思》和雅思哥、新东方雅思APP。
+    - 雅思准备时间40天里，我有30天是在准备口语的（虽然最后考出来分数是最低的），学习材料有《慎小嶷十天突破雅思口语剑13版》、《雅思口语真经总纲》（前几章适合看一看，后面都是素材积累，和上面的有重复），和雅思哥、新东方雅思APP。
   - 阅读
-    - 花了3天去看刘洪波《阅读真经》，在新东方雅思学习网站刷了5套阅读题。
+    - 花了3天去看刘洪波《雅思阅读真经总纲》，在新东方雅思学习网站刷了5套阅读题。
   - 听力
     - 看、听完了王陆的《王陆真题语料库》。
   - 写作
@@ -308,7 +317,6 @@ SHU学长写的，非常感谢这位学长对我问题的解答。
 
 
 #### 申请材料准备
-
 
 <img src="https://oiv0xvlqb8.feishu.cn/space/api/box/stream/download/asynccode/?code=YjlkYmE4NzQ2NmEzYzcxN2U3OGQxMGFjMWE2ZmIzOGVfcTlRdFk1Y2dXdndhdGpLblFnRXhGTDFMc09teWEwVlVfVG9rZW46Ym94Y25tQkp2MEJSR21YVTU1UGdvYkxmYTZjXzE2NjU4OTU1Njc6MTY2NTg5OTE2N19WNA" alt="img" style="zoom:50%;" />
 
