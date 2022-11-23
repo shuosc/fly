@@ -1,9 +1,9 @@
 ---
-title: "老学长转码-UCSD-Robinhood"
+title: "19届学长转码-UCSD-Robinhood"
 date: 2022-11-23T22:34:02-07:00
 categories: [留学,就业]
 tags: [15级,CS,转码,出国,就业,美国,加州]
-author: xwl
+author: shori.yu 
 draft: false
 ---
 
@@ -43,16 +43,15 @@ draft: false
   |------|-------|
   |UC San Diego|MS in Robotics (EC82)|
   |UC Riverside|MS in CSE|
-  |Johns Hopkins|MSE in CS|
-  |Johns Hopkins|MSE in ME|
-  |UPenn|MS in MEAM|
+  |Johns Hopkins|MSE in CS && MSE in ME|
+  |UPenn|MSE in MEAM|
   |Northeastern|MS in CS 没想到吧这个拒了|
 
 
 没啥斟酌的，去了UCSD。价格便宜（指学费）量又足（指所有的一切），200%推荐。
 
 此外，有一些肺腑之言。
-- 其一，哪些是cashcow项目？那么乐意给你TAship和奖学金的学校、乐意给你便宜宿舍的学校、有更高师生比的学校显然更加重视你。
+- 其一，哪些是cashcow项目？反过来说的话，乐意给你TAship和奖学金的学校、乐意给你便宜宿舍的学校、有更高师生比的学校显然更加重视你。
 - 其二，请一定想清楚自己的目标是什么。回国就业？在美国就业？学费、地点、学校声望都是你为了达成目标的方式。有钱不要乱花，没钱不要强上。
 
 ## 关于转码就业
