@@ -1,13 +1,13 @@
 ---
-title: "15-CS-美国-UCSD-Robinhood"
-date: 2022-10-10T22:34:02-07:00
+title: "15-转码-UCSD-Robinhood"
+date: 2022-11-23T22:34:02-07:00
 categories: [留学,就业]
 tags: [15级,CS,转码,出国,就业,留美,美国,加州]
 author: xwl
 draft: false
 ---
 
-可以，学弟直接找到领英上来了。也欢迎大家加我领英：[我的领英页面](linkedin.com/in/shoriyu)
+可以，学弟直接找到领英上来了。也欢迎大家加我领英：[我的领英页面](https://www.linkedin.com/in/shoriyu)
 
 目前（2022/11）在Robinhood工作。需要任何岗位内推可以私信。
 
