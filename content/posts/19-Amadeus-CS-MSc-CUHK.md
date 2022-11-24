@@ -38,7 +38,7 @@ draft: false
 - 2022年6月   报名7月15号雅思
 - 2022年6月～7月14号     40多天的雅思准备时期
 - 2022年7月18号～8月1号     DIY留学CV(个人简历)、PS(个人陈述)、RL(推荐信)，找老师说好9月份之后会申学校，我自己准备好推荐信让他们搞定电子签名后我去填写和提交。
-- 2022年8月1～8月20号    CV、PS、RL先初写了一遍，然后我去进行找实习的准备工作了，复习了十多天的力扣和八股，然后面试
+- 2022年8月1～8月20号    CV、PS、RL先初写了一遍，然后去做找实习的准备工作了，复习了十多天的力扣和八股，然后面试
 - 2022年8月20号～8月31号   拿到实习offer，开始精修CV、PS、RL
 - 2022年9月1号～4号     到CUHK、HKUST官网填写申请，去学校办理各类纸质证明，准备CUHK证明的寄送工作，确定所有申请资料已经准备好
 - 2022年9月5号         离开学校，开始实习
@@ -46,29 +46,32 @@ draft: false
 - 2022年9月20号       将各类纸质证明寄送到CUHK
 - 2022年9月23号        PolyU开放申请，进行申请
 - 2022年10月3号        CUHK 发送补充电子证明的邮件
-- 2022年10月10号      收到CUHK的provisional offer，预计10月底发正式offer
-- 2022年10月22号      收到CUHK的正式offer
+- 2022年10月10号      收到CUHK的Provisional Offer，预计10月底发offer
+- 2022年10月22号      收到CUHK的Conditional Offer
+- 2022年11月23号      PolyU的申请进入Waiting List
+- 2022年11月24号      收到HKUST的Conditional Offer
 
 
 
 ### 申请结果
 
-最终录取学校：CUHK
+最终选择的学校：CUHK
 
 
-- **Offer(1):** 
+- **Offer(2):** 
   
   |School|Program|
   |------|-------|
   |The Chinese University of Hong Kong|MSc in E-Commerce and Logistics Technologies|
+  |The Hong Kong University of Science and Technology|Master of Science (MSc) in Telecommunications|
+  
+- **Reject(3):**
 
-- **Reject(1):**
-
-  |      |      |
-  | ---- | ---- |
-  |      |      |
-  |      |      |
-  |      |      |
+  | School                              | Program                 |
+  | ----------------------------------- | ----------------------- |
+  | The Chinese University of Hong Kong | ELECTRONIC ENGINEERING  |
+  | The Chinese University of Hong Kong | INFORMATION ENGINEERING |
+  | The Chinese University of Hong Kong | COMPUTER SCIENCE        |
 
    
 
@@ -360,4 +363,14 @@ SHU学长写的，非常感谢这位学长对我问题的解答。
 
 ## 结尾
 
-待更新
+开始写结尾的时间是2022年11月24日，也就是收到港科大offer的那天。我觉得我的港硕申请阶段到这里就结束了，虽然CUHK还有3个项目依旧处于Submitted状态，但港校喜欢默拒嘛，我又是第一轮申的，既然现在没结果，那之后应该也没结果了。
+
+到目前为止，港中文申4中1，港科大申1中1，港理申1进waiting list 1，结局还是在我意料之外的。一开始我已经做好了CUHK和HKUST都不要我的准备，但是结果竟然都中了，真的非常意外，看来鼠鼠大学的Title比我想的要有用一点。
+
+我没有去申请港大，因为港大的计算机相关专业都需要面试/笔试，而我已经太久没有碰数学（微积分、线性代数、概率论）了。如果不实习的话可能我还有兴趣复习一下，但选择了实习，就确实没有时间去重拾数学了。但是这方面比较好的学弟学妹可以尝试也申请一下港大。
+
+最后的意见是，我觉得文书没那么重要，因为——我交的6个申请，PS内容除了大学名称和专业名称，其他都一模一样。
+还有，尽量第一轮申请，我加了一些申请交流群，第二轮（差不多11月）开始就很激烈了。
+以及，语言过了就行，不用特别追求高分。当然，不过线也是绝对不行的。
+
+最后的最后，在这里引用我Github[学习笔记](https://github.com/Amadeus1240/Course-Review)仓库的最后一句话：**尽量提升自己吧，无论是哪个方面都可以。**
