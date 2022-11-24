@@ -7,7 +7,8 @@ author: shori.yu
 draft: false
 ---
 
-可以，学弟直接找到领英上来了。也欢迎大家加我领英：[我的领英页面](https://www.linkedin.com/in/shoriyu)
+
+> 可以，学弟直接找到领英上来了。也欢迎大家加我领英：[我的领英页面](https://www.linkedin.com/in/shoriyu)
 
 目前（2022/11）在Robinhood工作。需要任何岗位内推可以私信。
 
