@@ -3,6 +3,7 @@ title: "上大国经贸 ⏩ ESSEC SMIB"
 date: 2022-11-24T21:01:02+08:00
 categories: [留学,经管]
 tags: [17级,国际经济与贸易,悉尼工商学院,留学,ESSEC,新加披,法国,经管,精华]
+featuredImage: featured-image1.png
 resources:
 - name: "featured-image1"
   src: "featured-image1.png"
