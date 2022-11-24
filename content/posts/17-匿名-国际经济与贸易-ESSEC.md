@@ -9,6 +9,9 @@ draft: false
 
 > 17级悉商学姐法国高商申请记录
 
+![img.png](https://user-images.githubusercontent.com/100942238/203840883-81ef17c1-b9a5-4602-b530-a40af218a5ac.png)
+
+
 ## 申请背景
 - 教育背景：上海大学+悉尼科技大学双学位
 - 专业：国际经济与贸易
