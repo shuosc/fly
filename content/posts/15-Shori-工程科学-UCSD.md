@@ -1,6 +1,6 @@
 ---
 title: "19届学长转码-UCSD-Robinhood"
-date: 2022-11-23T22:34:02-07:00
+date: 2022-11-23T22:34:02+07:00
 categories: [留学,就业]
 tags: [15级,CS,转码,出国,就业,美国,加州]
 author: shori.yu 
