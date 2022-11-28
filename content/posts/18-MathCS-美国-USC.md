@@ -4,6 +4,7 @@ title: "从上大数学到南加大CS——22⏩23的转码之路"
 date: 2022-11-28T20:07:02+08:00
 categories: [留学]
 tags: [18级,数学系,理学院,数学与应用数学,留学,美国,转码,USC]
+featuredImage: "https://user-images.githubusercontent.com/100942238/204302302-8ffe9ce0-df61-43c0-9ef8-f786f3845a0f.png"
 author: 刘沂林
 draft: false
 
