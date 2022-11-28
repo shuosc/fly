@@ -6,7 +6,7 @@ tags: [17级,国际经济与贸易,悉尼工商学院,留学,ESSEC,新加披,法
 featuredImage: "fly/content/post/featured-image1.png"
 resources:
 - name: "featured-image1"
-  src: "fly/content/post/featured-image1.png"
+  src: "https://user-images.githubusercontent.com/100942238/203840883-81ef17c1-b9a5-4602-b530-a40af218a5ac.png"
 author: 匿名
 draft: false
 ---
