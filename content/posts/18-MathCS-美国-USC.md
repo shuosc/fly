@@ -67,13 +67,13 @@ draft: false
 
 | **学校**  |       **项目**      |
 | :----------------------: | :---------------------------------------: |
-| Columbia University |       Ms In Operation Research     |
-| Johns Hopkins University | Mse In Applied Mathematics And Statistics |
-|          Rice U          |    Professional Master'S In Statistics    |
-| Imperial College London  |             Ms In Statistics              |
-| Northeastern University  |       Ms In Computer Science-Align        |
-| Northeastern University  |         Ms In Information System          |
-|  University Of Victoria  |       Meng In Applied Data Science        |
+| Columbia University |       MS in Operation Research     |
+| Johns Hopkins University | MSE in Applied Mathematics and Statistics |
+|          Rice U          |    Professional Master's in Statistics    |
+| Imperial College London  |             MS in Statistics              |
+| Northeastern University  |       MS in Computer Science-Align        |
+| Northeastern University  |         MS in Information System          |
+|  University Of Victoria  |       MEng in Applied Data Science        |
 
 ---
 
@@ -158,7 +158,7 @@ draft: false
 
 
 ###  9. 是否需要找中介？
-笔者自己是签了中介的，4.5wRMB申请12个项目。**如果能重来的话，我肯定就自己申请了**（哭）。中介的作用就是帮你选校定位+写文书+填网申，选校定位可以问学长学姐和一亩三分地查找，写文书可能自己写的都比中介好（找专门写文书的/找老外润色），填网申自己动动手就行。其中，最需要外界帮助的就是写文书，其他的都可以自己搞定。笔者的建议是，如果时间充裕，自己搞，文书可以找人写核心的一篇就行了；如果时间紧张，可以找个靠谱的中介。中介虽然说帮忙写12篇文书，但是只要申请的专业相同或者差不多，文书只需要改why school这一部分就行了，所以一个专业写核心的一篇即可，不同学校的文书小修一下就行。当然，如果签了中介，也不要完全把工作交给他们，一定一定一定要自己把关。
+笔者自己是签了中介的，4.5wRMB申请12个项目。**如果能重来的话，我肯定就自己申请了**（哭）。**中介的作用就是帮你选校定位+写文书+填网申**，选校定位可以问学长学姐和一亩三分地查找，写文书可能自己写的都比中介好（找专门写文书的/找老外润色），填网申自己动动手就行。其中，最需要外界帮助的就是写文书，其他的都可以自己搞定。笔者的建议是，如果时间充裕，自己搞，文书可以找人写核心的一篇就行了；如果时间紧张，可以找个靠谱的中介。中介虽然说帮忙写12篇文书，但是只要申请的专业相同或者差不多，文书只需要改why school这一部分就行了，所以一个专业写核心的一篇即可，不同学校的文书小修一下就行。当然，如果签了中介，也不要完全把工作交给他们，一定一定一定要自己把关。
 
 
 
@@ -185,13 +185,14 @@ draft: false
 | :--: | :------: | :------: | :------: |
 |  1   |    US    |   USC    |    CS    |
 |  2   |    US    |   USC    | 金融工程 |
-|  3   |    US    | UChicago |   Stat   |
-|  4   |    US    | UChicago | 金融数学 |
+|  3   |    US    | Columbia |   Stat   |
+|  4   |    US    | Columbia | 金融数学 |
 |  5   |    US    |   JHU    |   金融   |
 |  6   |    US    |   UVA    |    CS    |
 |  7   |    US    |  Tufts   |    CS    |
 |  8   |    UK    |   ICL    |    DS    |
 |  9   |    UK    |   UoM    |   Math   |
+|  10   |    CA    |   UBC    |   Stat   |
 
 值得注意的是，18级数学系笔者认识的基本上没有去港新的，时常感慨时代变了，现如今基本上来美国留学的越来越少了，港新基本上被卷烂了
 
