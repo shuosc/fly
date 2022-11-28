@@ -3,6 +3,8 @@ title: "19-CS-MSc-CUHK"
 date: 2022-10-12T12:09:02+08:00
 categories: [留学]
 tags: [19级,CS,计院,香港,CUHK]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204309347-43c7d99a-7df9-4de6-82c2-147051cf7526.png"
+
 author: 朝承恩
 draft: false
 ---
