@@ -10,6 +10,13 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 
+
+
+
+# 设置自动更新修改时间
+[frontmatter]
+date = [':git', 'lastmod', ':default']
+lastmod = [':fileModTime', ':git', 'lastmod', ':default']
 [params]
   # FixIt 主题版本
   version = "0.2.X"
@@ -112,8 +119,3 @@ hasCJKLanguage = true
   [markup.highlight]
 
 
-# 设置自动更新修改时间
-[frontmatter]
-date = [':git', 'lastmod', ':default']
-lastmod = [':fileModTime', ':git', 'lastmod', ':default']
-[params]
