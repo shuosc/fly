@@ -110,3 +110,10 @@ hasCJKLanguage = true
 [markup]
   # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
+
+
+# 设置自动更新修改时间
+[frontmatter]
+date = [':git', 'lastmod', ':default']
+lastmod = [':fileModTime', ':git', 'lastmod', ':default']
+[params]
