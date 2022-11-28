@@ -29,7 +29,7 @@ lastmod = [':fileModTime', ':git', 'lastmod', ':default']
     # FixIt 0.2.0 | NEW Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/logo.webp"
+      logo = "/shugug.webp"
       # title name
       name = "SHUFly"
 
