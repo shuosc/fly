@@ -3,6 +3,8 @@ title: "19-CS-就业-花旗金融(CSTC)"
 date: 2022-10-18T16:09:02+08:00
 categories: [就业]
 tags: [19级,就业,CS,计院,花旗]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204553552-a49dfc54-4a26-4068-9271-f11eb221ff3b.jpg"
+
 author: zhonghongshu
 draft: false
 ---

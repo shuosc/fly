@@ -3,6 +3,8 @@ title: "树莓分流指北"
 date: 2022-10-28T00:01:02+08:00
 categories: [分流]
 tags: [20级,数字媒体技术,电影学院,分流,延长]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204553328-8d79bb13-88d7-43b4-8569-8bb080e62720.jpg"
+
 author: Lew
 draft: false
 ---
