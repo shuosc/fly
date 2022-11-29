@@ -3,6 +3,8 @@ title: "18-CS-MSSI-JHU"
 date: 2022-10-14T10:07:02+08:00
 categories: [留学]
 tags: [18级,CS,计院,出国,美国,JHU]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204554859-aecfaaf7-a48d-45f0-8054-49bd9697cc11.jpg"
+
 author: lzk
 draft: false
 ---

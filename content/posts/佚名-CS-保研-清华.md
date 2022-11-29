@@ -3,6 +3,8 @@ title: "努力一把，看看能走多远：CS保研回忆录"
 date: 2022-10-27T22:00:00+08:00
 categories: [保研]
 tags: [保研,CS,计院,计算机科学与技术,清华大学,北京大学]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204548589-150700be-8f7e-42b5-9cd0-325a70824561.jpg"
+
 author: 佚名
 draft: false
 ---

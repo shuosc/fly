@@ -3,6 +3,8 @@ title: "19-Doin4-电子信息工程-夏令营保研-HUST"
 date: 2022-10-25T20:09:02+08:00
 categories: [保研]
 tags: [19级,保研,夏令营,通信学院,EEI,华科]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204549741-71fa58d9-3574-4ae9-92cb-6ef91aa6fc5e.jpg"
+
 author: Doin4
 draft: false
 ---
@@ -63,7 +65,7 @@ draft: false
 
 - **学生工作**：*作为通信学子，这个东西对保研几乎没有帮助，但我还是想在这里多BB几行:sunglasses:。*
     - 上海大学青年志愿者协会：我是曾经是青志协企划部中的一员，具体工作没必要说多，想要参加的可以咨询青志协招新，这里我就讲讲参加的理由：一个是和我们学院的保研政策相关：之前有一届，志愿这方便保研可以加巨多的分，我当时就想着靠这个多捞点分，虽然现在加分的量少了不少，但是还是会有分；第二点是当时部内氛围特别好，~~有友仔和友女，个个说话又好听~~，反正挺推荐的。
-![企划部](https://user-images.githubusercontent.com/72700948/193552759-2c180c43-9d58-4ef0-9019-f6cc8cd7139f.png)
+    ![企划部](https://user-images.githubusercontent.com/72700948/193552759-2c180c43-9d58-4ef0-9019-f6cc8cd7139f.png)
     - 上海大学团委科创部：利益相关，不好多说，匿了。
 
 ## 申请流程与结果

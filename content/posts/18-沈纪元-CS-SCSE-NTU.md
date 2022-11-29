@@ -3,6 +3,8 @@ title: "18-CS-出国-SCSE-NTU"
 date: 2022-10-15T17:09:02+08:00
 categories: [留学]
 tags: [18级,智科,计院,留学,新加披,NTU]
+featuredImage: "https://user-images.githubusercontent.com/112888355/204555083-94b7ec30-9744-49bd-b4a7-9b624c8f93c6.jpg"
+
 author: 沈纪元
 draft: false
 ---
