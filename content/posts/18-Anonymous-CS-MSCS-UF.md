@@ -3,6 +3,8 @@ title: "18-CS-MSCS-UF"
 date: 2022-10-10T03:09:02+08:00
 categories: [留学]
 tags: [18级,CS,计院,出国,美国,UF]
+featuredImage: "https://user-images.githubusercontent.com/112888355/205055945-1f280efc-df6a-413a-a444-e8685f06b541.jpg"
+
 author: serf-huik
 draft: false
 ---

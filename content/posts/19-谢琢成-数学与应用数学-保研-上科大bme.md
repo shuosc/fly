@@ -3,6 +3,8 @@ title: "19-谢琢成-数学与应用数学-保研-上科大BME"
 date: 2022-10-09T10:18:02+08:00
 categories: [保研]
 tags: [19级,保研,理学院,数学系,数学与应用数学,BME]
+featuredImage: "https://user-images.githubusercontent.com/112888355/205048028-4c32a739-99dc-460e-92be-18397d2ecb89.jpg"
+
 author: 谢琢成
 draft: false
 ---
