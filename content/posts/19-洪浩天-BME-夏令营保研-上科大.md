@@ -3,6 +3,9 @@ title: "19-洪浩天-BME-夏令营保研-上科大"
 date: 2022-10-01T16:27:02+08:00
 categories: [保研]
 tags: [19级,保研,夏令营,通信学院,BME,上科大]
+featuredImage: "https://user-images.githubusercontent.com/112888355/205048517-380d381f-cef0-4a6a-bae3-054c808f8932.jpg"
+
+featuredImage: ""
 author: bughht
 draft: false
 ---
