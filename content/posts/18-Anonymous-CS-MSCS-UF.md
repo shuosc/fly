@@ -1,9 +1,9 @@
 ---
-title: "18-CS-MSCS-UF"
+title: "从上大计科 ⏩ UF MSCS"
 date: 2022-10-10T03:09:02+08:00
 categories: [留学]
 tags: [18级,CS,计院,出国,美国,UF]
-featuredImage: "https://user-images.githubusercontent.com/112888355/205055945-1f280efc-df6a-413a-a444-e8685f06b541.jpg"
+featuredImage: "https://user-images.githubusercontent.com/100942238/205637819-ae2df78f-d945-4d5a-9d8e-89581f26b461.png"
 
 author: serf-huik
 draft: false
@@ -31,7 +31,9 @@ draft: false
 
 ## 申请流程与结果
 
-最终录取学校：University of Florida, Master in Computer Science. 
+最终录取学校：**University of Florida, Master in Computer Science**. 
+
+![1](https://user-images.githubusercontent.com/100942238/205637836-7e7cbe65-f624-41aa-9efb-d1bd23b8727a.png)
 
 
 - **Offer(5):** 
@@ -90,3 +92,6 @@ draft: false
 
 ##### 结尾的杂谈
 就我个人的申请背景而言，真的可以说是毫无亮点，所以我个人认为对于上大同专业的同学还是有一定的普遍参考价值的（当然同届身边出国的同学虽有，我了解详细情况的也少之又少，我也不怎么喜欢主动交流，所以具体参考价值如何我也不敢写包票）。如果你的量化成绩和申请背景和我的相近的话，定校层次大概也不会和我的相差很大，只要你有一个亮点，应该就会拿到我被拒的学校里的录取了，或者更好档次的学校也有可能。啰里啰嗦了一大堆，也有不少个人化的观点，还是很感谢你能看到这里。不管几年前形势如何，“百年未有之大变局”在如今看来也确实是言之凿凿了。无论你出国与否，无论你最后决定去向何方，祝愿你能体验到你所希望体验到的生活。
+
+![2](https://user-images.githubusercontent.com/100942238/205637857-79927842-fb53-4638-b7e5-683b2b0e8e32.png)
+
