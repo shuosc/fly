@@ -4,7 +4,7 @@ date: 2022-12-16T21:07:02+08:00
 categories: [分流]
 tags: [20级,理学院,应用物理学,分流]
 featuredImage: "https://user-images.githubusercontent.com/119129726/208111901-ec74f77e-5921-40b4-80ea-269aa0e8d125.png"
-author: 吴邵溱
+author: 吴绍溱
 draft: false
 ---
 
