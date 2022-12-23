@@ -1,8 +1,21 @@
 ---
 title: "📌关于SHUFly的碎碎念"
 date: 2022-10-15T18:00:02+08:00
-weight: 3
+weight: 2
+featuredImage: "https://user-images.githubusercontent.com/100942238/209382842-8189947a-d228-473e-b21b-938e630fafd7.png"
 draft: false
+---
+
+---
+
+本文在微信公众号`SHU开源社区`中也有相同版本的推文，欢迎大家转发支持，让更多的上大学子了解**SHUFly溯源手册**!
+- 文章链接🔗：[叮咚~SHUFly溯源手册001号信件](https://mp.weixin.qq.com/s/k9FjYBL6lNz5QQ4l9n30hQ)
+
+<center>
+	<img src="https://user-images.githubusercontent.com/100942238/209386638-e8f1019b-4ad6-4aa8-a613-985da67d0989.jpg" width="33%" />
+</center>
+
+
 ---
 
 
@@ -28,7 +41,10 @@ draft: false
 
 [QQ交流群(536368087)](https://jq.qq.com/?_wv=1027&k=ikNCpmHC)
 
-![image](https://user-images.githubusercontent.com/100942238/195527273-014e4aab-6603-4a27-a996-3aaea9d8b0a5.jpg)
+<center>
+	<img src="https://user-images.githubusercontent.com/100942238/195527273-014e4aab-6603-4a27-a996-3aaea9d8b0a5.jpg" width="55%" />
+</center>
+
 
 - 如果你是观看者，请收藏我们的网址
                   
