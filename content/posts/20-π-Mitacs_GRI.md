@@ -1,5 +1,5 @@
 ---
-title: "【暑研】︱加拿大 $Mitacs$ *GRI* 申请之路"
+title: "【暑研】︱加拿大 Mitacs_GRI 申请之路"
 date: 2022-12-23T21:07:02+08:00
 categories: [暑校]
 tags: [20级,理学院,数学系,信息与计算科学,加拿大,Mitacs,暑研]
