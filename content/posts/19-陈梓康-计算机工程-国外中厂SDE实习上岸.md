@@ -4,6 +4,7 @@ date: 2022-12-24T08:00:00+08:00
 categories: [就业]
 tags: [实习,CS,SDE,大/中厂,分享,建议,时间线,简历]
 author: 陈梓康
+featuredImage: https://user-images.githubusercontent.com/100942238/209415436-8e8affe6-41c6-4277-bdbf-893f23521f2f.jpg
 draft: false
 ---
 
