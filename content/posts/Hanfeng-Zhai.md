@@ -1,13 +1,16 @@
 ---
-title: "翟晗锋"
-date: 2022-12-25
-categories: [common]
-tags: [模板]
+title: "17级学长浅谈上大本科力学专业与科研分享"
+date: 2022-12-26T04:00:02+08:00
+categories: [科研]
+tags: [17级,理论与应用力学,力工学院,科研,AI]
+featuredImage: "https://user-images.githubusercontent.com/100942238/209480919-c8b37a32-2475-422b-b550-675e7bbc91a3.png"
+author: 翟晗锋
+authorLink: https://hanfengzhai.net
 draft: false
 ---
 
 
----
+> 配图：石墨烯断裂的分子动力学模拟，我最爱用的图之一lol
 
 
 ## 基本背景 
@@ -40,7 +43,7 @@ draft: false
 
 拿cs为例，cs phd光cv一个小方向就有一大堆小小方向。每个方向做好了都可能中neurlps/iccv/etc. 如何选择一个自己喜欢的方向对本科生来说是个难题。我分享一下上大力学系在我选方向给我的帮助。
 
-* **图好看**。很直观也很真实...。读一篇文章，听一个教授报告，参加一个会议。图画的好看就有可能吸引你进入这个方向。听着有点俗但是通过这个入手并没有什么错。
+* **图好看** 很直观也很真实...。读一篇文章，听一个教授报告，参加一个会议。图画的好看就有可能吸引你进入这个方向。听着有点俗但是通过这个入手并没有什么错。
 * **找到自己核心技能点** 找到你自己最擅长的点，看看你喜欢的这个方向要用到的最核心的技能是不是你擅长的。比如我也喜欢看一些数学文章，读一些lemma corollary；但我自己水平不行所以被门槛卡在了这个领域之外。同时我的计算工作也经常大量引用别人的实验结果，但是我自己动手能力也一般。
 * **多跟系里面老师交流** 跟教授聊天是我的爱好之一。跟不同领域不同方向的教授聊天你就会慢慢挖掘到自己到底对什么感兴趣。我以前和楚老师，卢老师，张老师，胡老师等等等等都经常聊一些对力学的看法。包括上课课间就可以找老师闲聊问问老师最近在做什么，有没有什么新发现，问问他觉得下一个decade的突破口是什么。我把这个习惯从本科也带到了美国，我经常会找我导师[JJ](https://www.mae.cornell.edu/faculty-directory/jingjie-yeo)，我的minor [Derek](https://www.engineering.cornell.edu/faculty-directory/derek-h-warner), 其他系里面老师像[Herbert Hui](https://www.engineering.cornell.edu/faculty-directory/herbert-hui), [Chris Earls](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Sadaf Sobhani](https://www.mae.cornell.edu/faculty-directory/sadaf-sobhani), 等等等等聊一聊我最近在做什么，有什么新发现，我对不同方向的看法，以及他们最近的科研成果。
 
@@ -54,6 +57,10 @@ draft: false
 * **物理规律发现** 这是一个非常数学的方向。我做过一些非常初级的工作，比如本科时[利用物理神经网络做微米气泡建模模拟](https://doi.org/10.1063/5.0079602)，[数据驱动动力学控制建模](https://doi.org/10.3390/s22176362)等等。然而我做的还谈不上发现物理规律。这个方向主要的点在于给予（可能存在噪音的）数据从中挖掘物理定律 - 即o/pde。除了前面提到的pinn & operator, 这个方向比较主流的一些有趣的方法还包括[Bayesian machine learning](http://mlg.eng.cam.ac.uk/zoubin/bayesian.html), [Neural ODE](https://arxiv.org/abs/1806.07366), [Sparse Regression](https://cims.nyu.edu/~cfgranda/pages/OBDA_spring16/material/sparse_regression.pdf)；当然还包括一些经典算法比如[SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [POD](https://en.wikipedia.org/wiki/Proper_orthogonal_decomposition), [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)等. 比较有代表的学者包括[Steve Brunton](https://www.me.washington.edu/facultyfinder/steve-brunton), [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz), [Andrew Stuart](http://stuart.caltech.edu/), [Chris Earls](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Nikoloas Bouklas](https://www.engineering.cornell.edu/faculty-directory/nikolaos-bouklas), 等等等等。本科时候学到的数学物理方法，常/偏微分方程，线性代数等都是这个方向科研的基础。有趣的工作非常的多，我推荐一下和我关系很好的Earls教授的[从数据中挖掘方程](https://www.sciencedirect.com/science/article/pii/S0893608022002660)的工作。
 
 
-同时打个小广告，我们之后可能会在相关领域总结一个综述，请期待:)。以上内容中有很多的错误请见谅。
+同时打个小广告，我们之后可能会在相关领域总结一个综述，请期待 :)
+
+---
+
+以上内容中有很多的错误请见谅。
 
 
