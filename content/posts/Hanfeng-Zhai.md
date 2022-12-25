@@ -19,7 +19,7 @@ draft: false
 
 ### 基本条件
 
-* **基础课**。里学习很多基础课老师讲的非常扎实，并且提出很多引发思考的点。比如[卢老师](https://scholar.google.com/citations?hl=zh-CN&user=pFTKjyUAAAAJ&view_op=list_works&sortby=pubdate)的流体力学，[张老师](https://scholar.google.com/citations?user=iItuj-sAAAAJ&hl=zh-CN&oi=ao)的弹性力学，[郭老师](https://scholar.google.com/citations?user=HVpzqloAAAAJ&hl=en&oi=ao)的材料力学，[楚老师](https://scholar.google.com/citations?user=RpnCDUAAAAAJ&hl=en&oi=ao)的理论力学等。这些课程是对力学认知的基础。
+* **基础课**。力学系很多基础课老师讲的非常扎实，并且提出很多引发思考的点。比如[卢老师](https://scholar.google.com/citations?hl=zh-CN&user=pFTKjyUAAAAJ&view_op=list_works&sortby=pubdate)的流体力学，[张老师](https://scholar.google.com/citations?user=iItuj-sAAAAJ&hl=zh-CN&oi=ao)的弹性力学，[郭老师](https://scholar.google.com/citations?user=HVpzqloAAAAJ&hl=en&oi=ao)的材料力学，[楚老师](https://scholar.google.com/citations?user=RpnCDUAAAAAJ&hl=en&oi=ao)的理论力学等。这些课程是对力学认知的基础。
 * **前沿课程**。这里指专业选修课。很多课程非常激发学生思考能力和科研素养。比如[胡老师](https://scholar.google.com/citations?hl=en&user=O3wAigMAAAAJ&view_op=list_works&sortby=pubdate) --- 我的本科导师，的机器学习与力学 --- 探究了数据驱动方法在计算力学和广义力学中的使用；比如[吕老师](https://scholar.google.com/citations?user=UxAhp1YAAAAJ&hl=zh-CN&oi=sra)的专业英语，对基本科学写作很有帮助；比如[安老师](https://www.researchgate.net/profile/Bingbing-An)的塑性力学等。
 * **很多科研机会**。系里面每个老师都有很多合作，很多机会接触科研。而且做的方向很广，基本上绝大部分力学小方向都有覆盖，同学们只要愿意都可以找到感兴趣的点。
 * **氛围较好**。总体来说，在我就读期间，系里氛围较好，并不是很浮躁。很多同学都在努力找到自己感兴趣的方向。
@@ -45,11 +45,12 @@ draft: false
 * **多跟系里面老师交流** 跟教授聊天是我的爱好之一。跟不同领域不同方向的教授聊天你就会慢慢挖掘到自己到底对什么感兴趣。我以前和楚老师，卢老师，张老师，胡老师等等等等都经常聊一些对力学的看法。包括上课课间就可以找老师闲聊问问老师最近在做什么，有没有什么新发现，问问他觉得下一个decade的突破口是什么。我把这个习惯从本科也带到了美国，我经常会找我导师[JJ](https://www.mae.cornell.edu/faculty-directory/jingjie-yeo)，我的minor [Derek](https://www.engineering.cornell.edu/faculty-directory/derek-h-warner), 其他系里面老师像[Herbert Hui](https://www.engineering.cornell.edu/faculty-directory/herbert-hui), [Chris Earls](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Sadaf Sobhani](https://www.mae.cornell.edu/faculty-directory/sadaf-sobhani), 等等等等聊一聊我最近在做什么，有什么新发现，我对不同方向的看法，以及他们最近的科研成果。
 
 
-## 如何面对科研困难
-
-
 ## AI4S
 
+邢同学建议我写一下这个因为这个方向好像最近在国内比较火。我个人认为我没什么资格谈主要是我的成果和水平谈不上有什么perspective。但可以简单聊一些看法，然后上大力学系给了我那些影响让我在相关领域做一些小东西。
 
+* **材料/药物设计**
+* **跨尺度计算**
+* **物理规律发现**
 
 
