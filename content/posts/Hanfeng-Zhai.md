@@ -54,6 +54,6 @@ draft: false
 * **物理规律发现** 这是一个非常数学的方向。我做过一些非常初级的工作，比如本科时[利用物理神经网络做微米气泡建模模拟](https://doi.org/10.1063/5.0079602)，[数据驱动动力学控制建模](https://doi.org/10.3390/s22176362)等等。然而我做的还谈不上发现物理规律。这个方向主要的点在于给予（可能存在噪音的）数据从中挖掘物理定律 - 即o/pde。除了前面提到的pinn & operator, 这个方向比较主流的一些有趣的方法还包括[Bayesian machine learning](http://mlg.eng.cam.ac.uk/zoubin/bayesian.html), [Neural ODE](https://arxiv.org/abs/1806.07366), [Sparse Regression](https://cims.nyu.edu/~cfgranda/pages/OBDA_spring16/material/sparse_regression.pdf)；当然还包括一些经典算法比如[SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [POD](https://en.wikipedia.org/wiki/Proper_orthogonal_decomposition), [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)等. 比较有代表的学者包括[Steve Brunton](https://www.me.washington.edu/facultyfinder/steve-brunton), [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz), [Andrew Stuart](http://stuart.caltech.edu/), [Chris Earls](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Nikoloas Bouklas](https://www.engineering.cornell.edu/faculty-directory/nikolaos-bouklas), 等等等等。本科时候学到的数学物理方法，常/偏微分方程，线性代数等都是这个方向科研的基础。有趣的工作非常的多，我推荐一下和我关系很好的Earls教授的[从数据中挖掘方程](https://www.sciencedirect.com/science/article/pii/S0893608022002660)的工作。
 
 
-以上内容中有很多的错误请见谅。
+同时打个小广告，我们之后可能会在相关领域总结一个综述，请期待:)。以上内容中有很多的错误请见谅。
 
 
