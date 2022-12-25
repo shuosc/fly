@@ -1,10 +1,9 @@
 ---
 title: "17-CS-出国-英国-曼彻斯特大学"
-date: 2022-10-08T23:00:02+08:00
-categories: [留学，就业]
-tags: [CS,计院,计算机科学与技术,英国,曼彻斯特大学,UoM,就业]
-featuredImage: ""
-
+date: 2022-12-25T20:00:02+08:00
+categories: [留学,就业]
+tags: [CS,计院,计算机科学与技术,留学,英国,曼彻斯特大学,UoM,就业]
+featuredImage: "https://user-images.githubusercontent.com/100942238/209415436-8e8affe6-41c6-4277-bdbf-893f23521f2f.jpg"
 author: dsjnsdc
 draft: false
 ---
