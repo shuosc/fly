@@ -42,7 +42,7 @@ draft: false
 
 * **图好看**。很直观也很真实...。你读一篇文章，听一个教授报告，参加一个会议。图画的好看就有可能吸引你进入这个方向。听着有点俗但是通过这个入手并没有什么错。
 * **找到自己核心技能点** 找到你自己最擅长的点，看看你喜欢的这个方向要用到的最核心的技能是不是你擅长的。比如我也喜欢看一些数学文章，读一些lemma corollary；但我自己水平不行所以被门槛卡在了这个领域之外。同时我的计算工作也经常大量引用别人的实验结果，但是我自己动手能力也一般。
-* **多跟系里面老师交流** 跟教授聊天是我的爱好之一。跟不同领域不同方向的教授聊天你就会慢慢挖掘到自己到底对什么感兴趣。我以前和楚老师，卢老师，张老师，胡老师等等等等都经常聊一些对力学的看法。包括上课课间就可以找老师闲聊问问老师最近在做什么，有没有什么新发现，问问他觉得下一个decade的突破口是什么。我把这个习惯从本科也带到了美国，我经常会找我导师[JJ](https://www.mae.cornell.edu/faculty-directory/jingjie-yeo)，我的minor[Derek](https://www.engineering.cornell.edu/faculty-directory/derek-h-warner), 其他系里面老师像[Herbert](https://www.engineering.cornell.edu/faculty-directory/herbert-hui), [Chris](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Sadaf](https://www.mae.cornell.edu/faculty-directory/sadaf-sobhani), 等等等等聊一聊我最近在做什么，有什么新发现，我对不同方向的看法，以及他们最近的科研成果。
+* **多跟系里面老师交流** 跟教授聊天是我的爱好之一。跟不同领域不同方向的教授聊天你就会慢慢挖掘到自己到底对什么感兴趣。我以前和楚老师，卢老师，张老师，胡老师等等等等都经常聊一些对力学的看法。包括上课课间就可以找老师闲聊问问老师最近在做什么，有没有什么新发现，问问他觉得下一个decade的突破口是什么。我把这个习惯从本科也带到了美国，我经常会找我导师[JJ](https://www.mae.cornell.edu/faculty-directory/jingjie-yeo)，我的minor [Derek](https://www.engineering.cornell.edu/faculty-directory/derek-h-warner), 其他系里面老师像[Herbert Hui](https://www.engineering.cornell.edu/faculty-directory/herbert-hui), [Chris Earls](https://www.engineering.cornell.edu/faculty-directory/christopher-j-earls), [Sadaf Sobhani](https://www.mae.cornell.edu/faculty-directory/sadaf-sobhani), 等等等等聊一聊我最近在做什么，有什么新发现，我对不同方向的看法，以及他们最近的科研成果。
 
 
 ## 如何面对科研困难
