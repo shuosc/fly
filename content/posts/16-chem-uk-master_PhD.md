@@ -3,7 +3,7 @@ title: "保研出国如何两手准备❓在不确定中慢慢成长❗  ——�
 date: 2022-12-25T22:07:02+08:00
 categories: [留学]
 tags: [16级,理学院,应用化学,英国,留学,PhD,Edinburgh,Oxford]
-featuredImage: ""
+featuredImage: "https://user-images.githubusercontent.com/100942238/209582264-077c1dfb-020a-443c-9cd5-9e059cbe7114.jpg"
 author: 郭咏仪
 draft: false
 ---
@@ -20,7 +20,18 @@ draft: false
 
   > 具体小分太久远了我不太记得了，但是小分的四门范围在6.5-7.5之间，研究生申请的3个学校bar不太一样，要求最高的是7/6
 
-
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/209582102-587c5f5f-61d0-4380-abee-d891acc95244.jpg" width = "33%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+爱丁堡夜晚街景
+  	</div>
+</center>
 
 
 
@@ -50,6 +61,23 @@ draft: false
 
 
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/209582109-e09afac9-b37f-4b06-a0dd-e4601236f724.jpg" width = "55%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      牛津 Radcliff Camera
+  	</div>
+</center>
+
+
+
+
+
 ---
 
 ## 研究生准备
@@ -65,6 +93,23 @@ draft: false
 当时我套磁了<u>剑桥大学、牛津大学、帝国理工大学、伦敦大学学院、亚琛理工</u>。我基本上都是在9-12月套磁的，有些是老师直接有面试，有些是先和你邮件往来。如果套磁太早可能会导致导师也不确定今年要不要招学生或者招多少个，需要你过1-2月再来询问。**目前了解下来，语言成绩、本科成绩和硕士成绩这些硬指标对于博士申请达到学校最低要求即可，面试的表现更为重要，面试建议准备ppt**。拿到offer基本上是来年2月之后，所谓的口头offer不确定性太大，没有拿到正式书面offer都不要觉得导师一定会录取你
 
 > 周围有一些朋友被临时被**放鸽子**的也是有的
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/209582269-f8d417fa-437e-4d7e-b477-335afdfd1789.jpg" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      Merton College内部
+  	</div>
+</center>
+
+
 
 
 
@@ -91,3 +136,17 @@ draft: false
 <u>**所有的准备都需要提前，我是属于宁可提前准备也不会赶最后的截止日期。**</u>
 
  
+
+
+
+> 🛫西班牙巴塞罗那~
+
+<center>
+	<img src="https://user-images.githubusercontent.com/100942238/209582279-400c1628-5cec-4708-b906-01277e069584.jpg" width="50%" />
+    <br>
+    <br>
+	<img src="https://user-images.githubusercontent.com/100942238/209582285-95d48042-c1a8-41bf-a3ff-4cfbbd733c73.jpg" width="51%" />
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/100942238/209582289-e4c195cb-9720-4002-aae1-3afa70a3fe69.jpg" width="70%" />
+</center>
