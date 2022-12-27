@@ -1,9 +1,9 @@
 ---
 title: "17-CS-UMassD"
-date: 2022-12-26T18:12:47-05:00
+date: 2022-12-27T08:07:02+08:00
 categories: [留学]
-tags: [17级,CS,计院,出国,美国,UMassD]
-
+tags: [17级,CS,计院,出国,美国,PhD,UMassD]
+featuredImage: "https://user-images.githubusercontent.com/100942238/209590835-89867a10-2d1b-4c62-8b97-a8a8b72e09de.jpg"
 author: MJ
 draft: false
 ---
@@ -35,9 +35,9 @@ draft: false
 
 - **Offer(1):** 
 
-  |School|Program|
-  |------|-------|
-  |UMass Dartmouth|MS in Computer Science|
+  | School          | Program                |
+  | --------------- | ---------------------- |
+  | UMass Dartmouth | MS in Computer Science |
 
 
 ## 申请经验
