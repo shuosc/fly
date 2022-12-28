@@ -1,5 +1,5 @@
 ---
-title: "17-CS-出国-英国-曼彻斯特大学"
+title: " 上大CS ⏩ Manchester MSCS "
 date: 2022-12-25T20:00:02+08:00
 categories: [留学,就业]
 tags: [CS,计院,计算机科学与技术,留学,英国,曼彻斯特大学,UoM,就业]
