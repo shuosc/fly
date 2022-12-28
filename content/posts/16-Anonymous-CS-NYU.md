@@ -1,7 +1,7 @@
 ---
 title: "16-CS-美国-NYU-Google"
 date: 2022-10-10T22:34:02-07:00
-lastmod: 2022-12-18T14:58:26+08:00
+lastmod: 2022-12-27T14:58:26+08:00
 categories: [留学,就业]
 tags: [16级,CS,计院,出国,就业,留美,美国,NYU,Google,大厂]
 featuredImage: "https://user-images.githubusercontent.com/112888355/205059628-d189ad06-171d-4ffa-9500-5e7edde3b6d9.jpg"
