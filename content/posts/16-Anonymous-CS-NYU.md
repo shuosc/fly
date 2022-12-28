@@ -1,5 +1,5 @@
 ---
-title: "16-CS-美国-NYU-Google"
+title: " 上大CS ⏩ NYU MSCS ⏩ Google "
 date: 2022-10-10T22:34:02-07:00
 lastmod: 2022-12-27T14:58:26+08:00
 categories: [留学,就业]
