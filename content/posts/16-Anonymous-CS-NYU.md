@@ -1,9 +1,10 @@
 ---
-title: "16-CS-美国-NYU-Google"
+title: " 上大CS ⏩ NYU MSCS ⏩ Google "
 date: 2022-10-10T22:34:02-07:00
+lastmod: 2022-12-27T14:58:26+08:00
 categories: [留学,就业]
-tags: [16级,CS,计院,出国,就业,留美,美国,NYU,大厂]
-featuredImage: "https://user-images.githubusercontent.com/112888355/205059628-d189ad06-171d-4ffa-9500-5e7edde3b6d9.jpg"
+tags: [16级,CS,计院,出国,就业,留美,美国,NYU,Google,大厂]
+featuredImage: "https://user-images.githubusercontent.com/100942238/209870861-c40c5eec-5bd6-4acc-9a97-7e67aea54426.png"
 
 author: xwl
 draft: false
@@ -11,7 +12,7 @@ draft: false
 
 
 ## 写在最前
-文本适合核心诉求为留美工作、移民的陆本学子。详细攻略、数据参考：[一亩三分地](www.1point3acres.com)。
+文本适合核心诉求为留美工作、移民的陆本学子。详细攻略、数据参考：[一亩三分地](https://www.1point3acres.com/)。
 
 本文不适用：回国就业、升学Phd、投资移民/婚绿等群体。
 
@@ -87,6 +88,16 @@ draft: false
 
 理论上，越好的学校，更好通过公司的简历关。然而事实真的如此吗？美国的校招充满了不确定性。好的学校未必就一定能拿到更多的面试。去年的例子：哥大的CS硕士几乎都收不到Meta/Facebook面试，而哈德逊河对岸的史蒂文斯理工却有专门的Meta campus recruiter发面试。即使没有上top xx的学校，也并不意味着你无法找到一份暑期实习或是全职工作。如果你的目标不是年收入动辄四五十万刀的trading firm，那么学校大概率没有实习和相关项目的作用大。再次记住，学校最大的作用是提供CPT和OPT。而STEM OPT是我们能撑到h1b抽中，乃至获得eb2绿卡排期的关键。
 
+
+<center>
+	<img src="https://user-images.githubusercontent.com/100942238/209865558-763487bf-21d3-4b1c-a6be-81a8f931a848.jpg" width="60%" />
+    <br>
+	<img src="https://user-images.githubusercontent.com/100942238/209870686-53fddea6-8d61-4c9b-8b61-a0def61bf906.jpg" width="60%" />
+</center>
+
+
+---
+
 ## 实习
 在你研二全职前，你应该争取到至少以下各阶段中的一段实习。通常最难的就是找第一段实习。这时候很容易碰到经典困境：“你需要一份工作来获取工作经历；而找到工作却需要工作经历”。
 
@@ -124,6 +135,13 @@ draft: false
 最后，好好地和国内的朋友和家人说一声再见吧。因为接下来的美国之旅很漫长，很可能数年都难以再回去了！
 
 To be continued...
+
+<center>
+	<img src="https://user-images.githubusercontent.com/100942238/209870746-56225889-6e44-46b6-8f77-b4455f633e2c.png" width="80%" />
+</center>
+
+
+
 
 ## 美国求职
 ### 美国实习

@@ -1,5 +1,5 @@
 ---
-title: "17-CS-UMassD"
+title: "上大CS ⏩ UMassD硕➡博"
 date: 2022-12-27T08:07:02+08:00
 categories: [留学]
 tags: [17级,CS,计院,出国,美国,PhD,UMassD]
