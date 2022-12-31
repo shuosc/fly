@@ -1,9 +1,9 @@
 ---
 title: " 一条咸鱼从管理科学到金融数学的升级打怪之旅——来自15级管理科学学姐的碎碎念 "
 date: 2022-12-30T21:07:02+08:00
-categories: [经管]
-tags: [15级,管理学院,管理科学,英国,KCL,Leeds,二硕,经管]
-featuredImage: ""
+categories: [经管,留学]
+tags: [15级,管理学院,管理科学,英国,KCL,Leeds,二硕,经管,留学]
+featuredImage: "https://user-images.githubusercontent.com/100942238/210150401-79875cc6-5fb6-4de9-9a33-f2957e62ccc0.png"
 author: 王钟倚
 authorEmail: emily0430@sina.com
 draft: false
@@ -18,6 +18,23 @@ draft: false
 首先非常感谢能够得到$SHUFly$团队的邀请让我对我的英国留学经历来做出一些分享。纵观平台上的帖子，我觉得我的背景和经历看起来过于平平无奇了。我很庆幸我的本科生活没有疫情，给了我机会去疯去玩，在假期去到处旅游，在考试周来临前去熬大夜，4年的本科生活里我觉得自己像是一条随波逐流的“咸鱼”。不可否认，这样放肆任性的本科生活使我在当时获得了巨大的快乐，但是在充满内卷的当下，无疑给我带来了一定的阻力和副作用。我分享的目的不是为了传播焦虑，而是希望看到这篇的分享的小伙伴在追求梦想的道路上可以少走一些弯路，同时给希望从事金融工作的小伙伴分享一些我的不成熟的小建议。
 
  
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/210150406-b5436d40-2236-406c-bb10-4cf3b3e611fd.jpg" width = "60%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+        伦敦圣保罗大教堂⛪
+  	</div>
+</center>
+
+
+
+
 
 ## 1. 一些我的本科生活
 
@@ -202,6 +219,25 @@ draft: false
 
  
 
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/210150407-fb27c675-6d84-4658-b9fe-e368f062be06.jpg" width = "67%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+            伦敦国王学院吉祥物-瑞吉狮🦁
+  	</div>
+</center>
+
+
+
+
+
 #### 2.4.1 KCL留学体验
 
 伦敦国王学院King’s College London，国内大家喜欢简称KCL，实际在英国简称是King’s，这一点请千万不要在写文书的时候写错了。优越的地理位置和历史背景，让其拥有“宇宙中心王的学院”的爱称。
@@ -232,6 +268,29 @@ KCL的商学院的硕士课程，说是中国留学生的天下一点都不为�
 
 总结来说，整体课程设置对我而言，以理论为主偏炒冷饭。没有达到我心中希望的硕士学习的目的。但当时考虑到可能回国求职的问题，所以具有一定的名校情结，在和父母沟通之后选择接下KCL的offer完成硕士学业。
 
+
+
+
+
+
+
+----
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/210150410-add4fb3b-da8a-425c-9d81-d828d3b8d157.jpg" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+        利兹大学纺织学院——自发纪念张国荣的献花点❀
+  	</div>
+</center>
+
  
 
 #### 2.4.2 利兹大学留学体验
@@ -253,6 +312,27 @@ KCL的商学院的硕士课程，说是中国留学生的天下一点都不为�
 总结来说，整体课程设置达到我心中希望可以通过硕士学习，能够转向更加数学和编程的学习方向。因为，在一硕期间逐渐明确了自己心中的职业方向，我也希望二硕的学习可以让我更接近我的目标。
 
  
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/210150413-f70b8694-f3cc-4800-b5c8-f261b3a3337f.jpg" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+        利兹大学图书馆📖
+  	</div>
+</center>
+
+
+
+
+
+
 
 #### 2.4.3 关于二硕
 
@@ -414,25 +494,23 @@ KCL的商学院的硕士课程，说是中国留学生的天下一点都不为�
 
 
 
-<center>
-	<img src="https://user-images.githubusercontent.com/119129726/208109534-1f9761db-94e4-4060-8229-707dca0fd9ee.png" width="40%" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="https://user-images.githubusercontent.com/119129726/208109524-bcdac60c-eaa7-4830-a7c6-123bdc0c717a.png" width="40%" />
-</center>
-
-
-
 
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://user-images.githubusercontent.com/119129726/208109566-031559bc-3267-4b87-8820-bbe6e1a88b70.png" width = "75%" alt=""/>
+    src="https://user-images.githubusercontent.com/100942238/210150419-b6b06d7a-d8b1-4f5b-9ae8-60a8907256b2.jpg" width = "95%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
     padding: 2px;">
-      物理系的樱花🌸
-  	</div>
+        <br>
+        利兹大学 Great Hall 毕业典礼👩‍🎓🎓
+  	</div> 
 </center>
+
+
+
+
+
