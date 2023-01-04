@@ -6,4 +6,11 @@
 
 hr {
       border-top: 1px dashed #0C3168 !important;
+      [data-theme='dark'] & {
+      border-top: 1px dashed #f8f8ff !important;
+       
+      }
+
 }
+
+
