@@ -1,6 +1,6 @@
 ---
 title: " 理一的同学，看看生医工 "
-date: 2022-01-04T18:01:02+08:00
+date: 2023-01-04T18:01:02+08:00
 categories: [分流]
 tags: [21级,分流,生科院,BME]
 featuredImage: "https://user-images.githubusercontent.com/100942238/210558898-10120413-7877-4d2c-b3a1-b1174d3f896a.png"
@@ -91,7 +91,7 @@ draft: false
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://user-images.githubusercontent.com/100942238/210545502-c2ba2b40-3649-4d33-8594-94a7ff128f8e.JPG" width = "40%" alt=""/>
+    src="https://user-images.githubusercontent.com/100942238/210545502-c2ba2b40-3649-4d33-8594-94a7ff128f8e.JPG" width = "33%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -134,7 +134,7 @@ draft: false
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://user-images.githubusercontent.com/100942238/210544660-6b6ebd03-85b9-48ab-9cbd-c41ee71007a3.png" width = "75%" alt=""/>
+    src="https://user-images.githubusercontent.com/100942238/210544660-6b6ebd03-85b9-48ab-9cbd-c41ee71007a3.png" width = "85%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -151,7 +151,7 @@ draft: false
 <center>
 	<img src="https://user-images.githubusercontent.com/100942238/210546130-2f136391-9a3e-4841-9009-264a2c8d1307.jpg" width="25%" />
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="https://user-images.githubusercontent.com/100942238/210548419-af45692a-5163-4579-b07f-fdc281e6f22e.png" width="25%" />
+	<img src="https://user-images.githubusercontent.com/100942238/210548419-af45692a-5163-4579-b07f-fdc281e6f22e.png" width="27%" />
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
