@@ -24,7 +24,9 @@
     search = false # FixIt 0.2.16 | NEW
     # recaptchaV3Key = "" # FixIt 0.2.16 | NEW
 
-# FixIt 0.2.12 | NEW Busuanzi count
+# 生产环境时启用“不蒜子”计数器，以显示页面访问数的统计量
+# "enable": 决定是否要显示站点的总访客数及总访问量
+# "enablePost": 是否是否要显示每个页面各自的访客数及访问量
 [ibruce]
   enable = true
-  enablePost = false
+  enablePost = true
