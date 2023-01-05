@@ -1,0 +1,53 @@
+# 中文菜单配置
+[[main]]
+  identifier = "posts"
+  # 父级菜单项的标识符 (identifier) since v0.2.14
+  parent = ""
+  # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+  pre = "<i class='fa-solid fa-archive fa-fw fa-sm'></i>"
+  # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+  post = ""
+  name = "所有文章"
+  url = "/posts/"
+  title = ""
+  weight = 1
+[[main]]
+  identifier = "categories"
+  pre = "<i class='fa-solid fa-th fa-fw fa-sm'></i>"
+  post = ""
+  name = "分类"
+  url = "/categories/"
+  title = ""
+  weight = 2
+[[main]]
+  identifier = "tags"
+  pre = "<i class='fa-solid fa-tags fa-fw fa-sm'></i>"
+  post = ""
+  name = "标签"
+  url = "/tags/"
+  title = ""
+  weight = 3
+[[main]]
+  identifier = "friends"
+  pre = "<i class='fa-solid fa-users fa-fw fa-sm'></i>"
+  post = ""
+  name = "友链"
+  url = "/friends/"
+  title = "友情链接"
+  weight = 4
+[[main]]
+  identifier = "about"
+  pre = "<i class='fa-solid fa-info-circle fa-fw fa-sm'></i>"
+  post = ""
+  name = "关于"
+  url = "/about/"
+  title = ""
+  weight = 5
+[[main]]
+  identifier = "github"
+  pre = "<i class='fa-brands fa-github fa-fw'></i>"
+  post = ""
+  name = ""
+  url = "https://github.com/shuosc/fly"
+  title = "GitHub"
+  weight = 6

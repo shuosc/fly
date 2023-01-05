@@ -1,0 +1,3 @@
+# 设置自动更新修改时间
+date = [':git', 'lastmod', ':default']
+lastmod = [':fileModTime', ':git', 'lastmod', ':default']

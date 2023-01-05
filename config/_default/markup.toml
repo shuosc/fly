@@ -1,0 +1,27 @@
+# Hugo 解析文档的配置
+# 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
+[highlight]
+  codeFences = true
+  guessSyntax = true
+  lineNos = true
+  lineNumbersInTable = true
+  # false 是必要的设置
+  # (https://github.com/dillonzq/LoveIt/issues/158)
+  noClasses = false
+# Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
+[goldmark]
+  [goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [goldmark.renderer]
+    # 是否在文档中直接使用 HTML 标签
+    unsafe = true
+# 目录设置
+[tableOfContents]
+  startLevel = 2
+  endLevel = 6

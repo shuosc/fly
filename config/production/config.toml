@@ -1,0 +1,3 @@
+# 生产环境时需要进行修改的配置
+baseURL = 'https://shuosc.github.io/fly'
+canonifyURLs = true  # Fix GitHub Pages wrong path

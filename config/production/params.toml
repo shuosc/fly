@@ -1,0 +1,30 @@
+# 生产环境时开启页面的评论
+[page.comment]
+  enable = true
+  # FixIt 0.2.16 | CHANGED Waline comment config (https://waline.js.org)
+  [page.comment.waline]
+    enable = true
+    serverURL = "https://shuosc-comments.xyz/"
+    pageview = false # FixIt 0.2.15 | NEW
+    emoji = [
+      "https://unpkg.com/@waline/emojis@1.1.0/bmoji",
+      "https://unpkg.com/@waline/emojis@1.1.0/qq",
+      "https://unpkg.com/@waline/emojis@1.1.0/alus",
+      "//unpkg.com/@waline/emojis@1.1.0/weibo",
+    ]
+    # meta = ["nick", "mail", "link"]
+    requiredMeta = ["mail"]
+    # login = "enable"
+    wordLimit = 1000
+    # pageSize = 10
+    # imageUploader = false # FixIt 0.2.15 | NEW
+    highlighter = true # FixIt 0.2.15 | NEW
+    comment = false # FixIt 0.2.15 | NEW
+    texRenderer = true # FixIt 0.2.16 | NEW
+    search = false # FixIt 0.2.16 | NEW
+    # recaptchaV3Key = "" # FixIt 0.2.16 | NEW
+
+# FixIt 0.2.12 | NEW Busuanzi count
+[ibruce]
+  enable = true
+  enablePost = false

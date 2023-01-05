@@ -1,0 +1,9 @@
+title = 'SHUFly - 上海大学溯源手册'
+# canonifyURLs = true  # Fix GitHub Pages wrong path
+
+# [en, zh-cn, fr, ...] 设置默认的语言
+defaultContentLanguage = "zh-cn"
+# 网站语言，仅在这里 CN 大写
+languageCode = "zh-CN"
+# 是否包括中日韩文字
+hasCJKLanguage = true
