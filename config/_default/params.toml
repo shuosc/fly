@@ -26,6 +26,8 @@ version = "0.2.X"
     avatarURL = "/shufly.webp"
     # 主页显示的网站标题 (支持 HTML 格式)
     title = "上海大学溯源手册"
+    # 主页显示的网站副标题
+    subtitle = " SHUFly "
     # 是否为副标题显示打字机动画
     typeit = true
     # 是否显示社交账号
