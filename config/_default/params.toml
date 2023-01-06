@@ -1,0 +1,39 @@
+# FixIt 主题版本
+version = "0.2.X"
+# Header config
+[header]
+  # FixIt 0.2.13 | CHANGED desktop header mode ("sticky", "normal", "auto")
+  desktopMode = "sticky"
+  # FixIt 0.2.13 | CHANGED mobile header mode ("sticky", "normal", "auto")
+  mobileMode = "auto"
+# FixIt 0.2.0 | NEW Header title config
+  [header.title]
+    # URL of the LOGO
+    logo = "/shugug.webp"
+    # title name
+    name = "SHUFly"
+
+# 中文主页信息设置
+[home]
+  # RSS 文章数目
+  rss = 10
+  # 主页个人信息
+  [home.profile]
+    enable = true
+    # Gravatar 邮箱，用于优先在主页显示的头像
+    gravatarEmail = ""
+    # 主页显示头像的 URL
+    avatarURL = "/shufly.webp"
+    # 主页显示的网站标题 (支持 HTML 格式)
+    title = "上海大学溯源手册"
+    # 是否为副标题显示打字机动画
+    typeit = true
+    # 是否显示社交账号
+    social = false
+    # 免责声明 (支持 HTML 格式)
+    disclaimer = ""
+  # 主页文章列表
+  [home.posts]
+    enable = true
+    # 主页每页显示文章数量
+    paginate = 8

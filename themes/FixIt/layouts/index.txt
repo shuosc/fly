@@ -1,3 +1,0 @@
-{{- range (where .Site.Pages "Kind" "page") -}}
-  {{- println .Permalink -}}
-{{- end -}}
