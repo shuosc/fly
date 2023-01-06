@@ -30,3 +30,41 @@
 [ibruce]
   enable = true
   enablePost = true
+
+# 生产环境时启用搜索功能
+# FixIt 支持 lunr, algolia, fuse 这三种搜索引擎，其间的区别可参考：
+# https://fixit.lruihao.cn/zh-cn/theme-documentation-basics/#52-%E6%90%9C%E7%B4%A2%E9%85%8D%E7%BD%AE
+[search]
+  enable = true
+  # 搜索引擎的类型 ["lunr", "algolia", "fuse"]
+  # 此处选用了 algolia , 优点为：性能相对较高且占用带宽低，缺点为：需要定期上传最新的 index.json 至 algolia 以保证搜索结果的时效性
+  type = "algolia"
+  # 文章内容最长索引长度
+  contentLength = 200
+  # 搜索框的占位提示语
+  placeholder = ""
+  #  最大结果数目
+  maxResultLength = 30
+  #  结果内容片段长度
+  snippetLength = 200
+  #  搜索结果中高亮部分的 HTML 标签
+  highlightTag = "em"
+  #  是否在搜索索引中使用基于 baseURL 的绝对路径
+  absoluteURL = false
+  [search.algolia]
+    index = "shuosc_index_with_prefix"
+    appID = "WDJUT0BGDL"
+    searchKey = "56ca9e91d871934091cba0c69c69fd22"
+  [search.fuse]
+    #  https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
+
+
