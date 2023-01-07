@@ -9,7 +9,7 @@ lastmod: 2023-01-07T23:06:09+08:00
 draft: false
 ---
 
-坐标上大计院，计科21分流萌新，时值7月，暑期的计算机实训刚刚结束，面对开始的暑假，不想在摆烂中虚度年华，正好在[开源社区(@SHUOSC)](https://github.com/shuosc)学长`@jxing0831`推荐下，报名参加了[**第八届SDU可视计算暑期学校**](http://irc.cs.sdu.edu.cn/2022-summer-school/index.html#date)，下面主要分享一下本人的参与经验与感受。
+坐标上大计院，计科21分流萌新，时值7月，暑期的计算机实训刚刚结束，面对开始的暑假，不想在摆烂中虚度年华，正好在[开源社区(@SHUOSC)](https://github.com/shuosc)学长`@湃大行`推荐下，报名参加了[**第八届SDU可视计算暑期学校**](http://irc.cs.sdu.edu.cn/2022-summer-school/index.html#date)，下面主要分享一下本人的参与经验与感受。
 
 ---
 
