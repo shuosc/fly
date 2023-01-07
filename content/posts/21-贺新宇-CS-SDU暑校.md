@@ -3,7 +3,8 @@ title: "21-贺新宇-CS-SDU暑校"
 date: 2022-10-01T22:08:02+08:00
 categories: [暑校]
 tags: [CS,SDU,计院]
-author: EthanH3514
+authorlink: https://ethanh3514.github.io/
+author: 贺新宇
 draft: false
 ---
 
@@ -72,4 +73,4 @@ draft: false
 
 ---
 
-<font size=20>写于2022.10.1, Powered by [_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514).</font>
+*写于2022.10.1
