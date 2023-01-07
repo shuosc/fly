@@ -1,10 +1,11 @@
 ---
-title: "21-贺新宇-CS-SDU暑校"
+title: "刚出新手村就被拉进地狱副本😱？！一次萌新被拷打的经历"
 date: 2022-10-01T22:08:02+08:00
 categories: [暑校]
 tags: [CS,SDU,计院]
 authorlink: https://ethanh3514.github.io/
 author: 贺新宇
+lastmod: 2023-01-07T23:06:09+08:00
 draft: false
 ---
 
