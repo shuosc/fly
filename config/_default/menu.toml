@@ -36,13 +36,21 @@
   title = "友情链接"
   weight = 4
 [[main]]
+  identifier = "rss"
+  pre = "<i class='fa-solid fa-rss'></i>"
+  post = ""
+  name = "RSS"
+  url = "/index.xml"
+  title = ""
+  weight = 5
+[[main]]
   identifier = "about"
   pre = "<i class='fa-solid fa-info-circle fa-fw fa-sm'></i>"
   post = ""
   name = "关于"
   url = "/about/"
   title = ""
-  weight = 5
+  weight = 6
 [[main]]
   identifier = "github"
   pre = "<i class='fa-brands fa-github fa-fw'></i>"
@@ -50,4 +58,4 @@
   name = ""
   url = "https://github.com/shuosc/fly"
   title = "GitHub"
-  weight = 6
+  weight = 7
