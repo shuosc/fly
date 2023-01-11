@@ -39,7 +39,7 @@
   identifier = "rss"
   pre = "<i class='fa-solid fa-rss'></i>"
   post = ""
-  name = "RSS"
+  name = "订阅"
   url = "/index.xml"
   title = ""
   weight = 5
