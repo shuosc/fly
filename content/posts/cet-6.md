@@ -1,6 +1,6 @@
 ---
 title: " 六级麻了❓ 你只是缺一份速成攻略😉~ "
-date: 2022-12-23T21:07:02+08:00
+date: 2023-01-13T22:07:02+08:00
 categories: [知识区]
 tags: [20级,英语,六级]
 featuredImage: "https://user-images.githubusercontent.com/100942238/212381591-e97c42d7-64e0-4f14-ac2c-fddcd18f6d4d.png"
@@ -53,7 +53,7 @@ draft: false
 
 
 
-{{< link href="https://shuosc.github.io/fly/%E5%85%AD%E7%BA%A7%E6%94%BB%E7%95%A5%C2%B7%E6%9E%81%E7%AE%80%E6%96%B9%E6%B3%95%E7%AF%87.pdf" content="Wavelength.mp3" title="Download 六级攻略·极简方法篇.pdf" download="六级攻略·极简方法篇.pdf" card=true >}}
+{{< link href="https://shuosc.github.io/fly/%E5%85%AD%E7%BA%A7%E6%94%BB%E7%95%A5%C2%B7%E6%9E%81%E7%AE%80%E6%96%B9%E6%B3%95%E7%AF%87.pdf" content="六级攻略·极简方法篇.pdf" title="Download 六级攻略·极简方法篇.pdf" download="六级攻略·极简方法篇.pdf" card=true >}}
 
 
 
