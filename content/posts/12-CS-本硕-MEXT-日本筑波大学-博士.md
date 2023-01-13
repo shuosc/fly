@@ -1,7 +1,7 @@
 ---
 title: "12 级本科学长的科研之路分享"
 date: 2022-12-30T15:00:00+09:00
-categories: [考研, 留学, 科研]
+categories: [考研, 留学, 知识区]
 tags: [12级, 计院, CS, 本硕博, PhD, 计算机, 考研, 科研, 奖学金, 国家公派]
 featuredImage: "https://images.unsplash.com/photo-1516420995102-77bf04a31ef9"
 authorLink: https://lisz.me/
