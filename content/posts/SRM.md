@@ -2,7 +2,7 @@
 title: "SHU-RoboMaster-SRM"
 date: 2023-01-13T08:07:02+08:00
 categories: [竞赛]
-tags: [机器人]
+tags: [机器人,竞赛,SRM]
 featuredImage: "https://user-images.githubusercontent.com/100942238/212362483-6112eb0a-785c-47a0-825e-cd1491baa566.png"
 author: SRM
 draft: false
@@ -20,7 +20,19 @@ draft: false
 
 ***上海大学RoboMaster-SRM战队***
 
-<img src="http://mmbiz.qpic.cn/mmbiz_png/oOmicxwFT0ic2OEJd2GeTqPqM4f2GFqxcyQ5FFIbkXaf8iaQ1WK7BJP8UkrMahKSgtqEDvolqGgbYRwtkpj93mAzA/0?wx_fmt=png" alt="0" style="zoom:67%;" />
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/212379138-9e4bc737-cfa4-43e6-98d0-6b477cf495b6.png" width = "50%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
 
 > **上户口！**
 
@@ -43,7 +55,7 @@ draft: false
 
 - **获奖经历：**
 
-<embed src="https://shuosc.github.io/fly/SRM%E8%8E%B7%E5%A5%96%E6%B8%85%E5%8D%95.pdf" type="application/pdf"  height=1800 width=700 align=center /> 
+<embed src="https://shuosc.github.io/fly/SRM%E8%8E%B7%E5%A5%96%E6%B8%85%E5%8D%95.pdf" type="application/pdf"  height=1800 width=500 align=center /> 
 
 
 
@@ -53,7 +65,7 @@ draft: false
 
 - *2022-2023赛季交流群👇*
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/oOmicxwFT0ic0vqxoGM0buibY99y6VCOuJ5TibCoW8Z6xMs7r14wlRwCe4zZGbCopTTz2iaDrGRrr3MG3AH0x0PsrEw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="100" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/100942238/212380153-008f46a9-f49d-44aa-8b8e-20bbbb8e52a3.png" alt="100" style="zoom:33%;" />
 
 
 
@@ -67,7 +79,17 @@ draft: false
 
 
 
-![1](https://user-images.githubusercontent.com/100942238/212365089-9a74e91d-99da-4cc9-935b-119961714d2a.png)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/212365089-9a74e91d-99da-4cc9-935b-119961714d2a.png" width = "99%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
 
 
 
@@ -308,8 +330,6 @@ draft: false
 
 
 
-<iframe src="https://player.bilibili.com/player.html?aid=82574078&bvid=BV1rJ41157rH&cid=141283189&page=1" height=700 width=700 align=center scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 - 要求
 
   -  对机器人感兴趣，对比赛有**热情**
@@ -429,7 +449,7 @@ draft: false
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://mmbiz.qpic.cn/mmbiz_png/oOmicxwFT0ic2OEJd2GeTqPqM4f2GFqxcyHYKZRfKIAtic9LCLm3YTK60xz8NULSjcju8VaKtvBut5yxhgyqrCDeg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width = "50%" alt=""/>
+    src="https://user-images.githubusercontent.com/100942238/212379810-06ea0962-7816-4957-9413-9f5149e914d1.png" width = "50%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
