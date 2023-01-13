@@ -1,7 +1,7 @@
 ---
 title: "17级学长浅谈上大本科力学专业与科研分享"
 date: 2022-12-26T04:00:02+08:00
-categories: [科研]
+categories: [知识区]
 tags: [17级,理论与应用力学,力工学院,科研,AI]
 featuredImage: "https://user-images.githubusercontent.com/100942238/209480919-c8b37a32-2475-422b-b550-675e7bbc91a3.png"
 author: 翟晗锋
