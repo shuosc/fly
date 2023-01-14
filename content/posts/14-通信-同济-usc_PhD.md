@@ -3,9 +3,8 @@ title: " 上大通信 ⏩ 同济电信 ⏩ USC PhD "
 date: 2023-01-14T21:07:02+08:00
 categories: [留学,考研]
 tags: [14级,通信学院,通信工程,美国,同济大学,USC,PhD,留学,考研]
-featuredImage: ""
+featuredImage: "https://user-images.githubusercontent.com/100942238/212483783-658d4abb-dc29-4746-9308-180226f3c1c8.png"
 author: 周青阳
-authorLink: 
 draft: false
 ---
 
@@ -32,6 +31,26 @@ draft: false
 
  
 
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/212483808-aced74e5-7c7c-4df9-99ae-72adc80452a5.jpg" width = "67%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
+
+
+
+
+
+
+
+
+
 ---
 
 ## 申请流程与结果
@@ -52,7 +71,17 @@ draft: false
 
  
 
-
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/212483820-84d2e686-0cb5-4fac-bd6c-ae4ff1eb741c.jpg" width = "60%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
 
 
 
@@ -105,6 +134,24 @@ draft: false
 事实上，**博士申请靠海投是不太现实的**。USC这边很多教授倾向招本校master学生或是有**connection**的 ~~熟人推荐~~ 。一个国际学生（非清北），推荐信也较为普通的话，想要录取需要极其优异的特点/长处，总之非常困难。
 
  
+
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/212483835-eb3cb20e-d9f4-4e22-bd24-c1af551709f5.jpg" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
+
+
+
+
+
+
 
 ### 读博
 
