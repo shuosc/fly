@@ -4,7 +4,7 @@ date: 2023-01-14T09:07:02+08:00
 categories: [留学,经管,就业]
 tags: [15级,经济学院,经济学,美国,Minnesota,Gap,留学,经管,实习]
 featuredImage: "https://user-images.githubusercontent.com/100942238/212472953-5d5b55dd-fea6-49e1-906f-d78fe059241d.png"
-author: 
+author: 15级经院人
 draft: false
 ---
 
