@@ -1,7 +1,6 @@
 ---
 title: " 上大通信 ⏩ USC Ms➡PhD "
-date: 2023-01-14T21:07:02+08:00
-lastmod: 
+date: 2023-01-15T13:07:02+08:00
 categories: [留学]
 tags: [15级,通信学院,通信工程,美国,USC,PhD,Gap,留学]
 featuredImage: "https://user-images.githubusercontent.com/100942238/212527902-0a92fc9c-f922-49f9-a524-51fd1cb49860.jpg"
@@ -88,7 +87,7 @@ draft: false
   	</div>
 </center>
 
- 
+
 
 ---
 
