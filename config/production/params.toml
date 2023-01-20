@@ -50,7 +50,8 @@
   #  搜索结果中高亮部分的 HTML 标签
   highlightTag = "em"
   #  是否在搜索索引中使用基于 baseURL 的绝对路径
-  absoluteURL = false
+  # 设置为 true ，以使得 index.json 中的 uri 为绝对路径，确保 Algolia 搜索框的超链接指向正确
+  absoluteURL = true
   [search.algolia]
     index = "shuosc_index_with_prefix"
     appID = "WDJUT0BGDL"
