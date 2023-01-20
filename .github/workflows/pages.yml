@@ -56,7 +56,14 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-
+      - name: Upload "index.json" to Algolia
+        uses: rxrw/algolia-index-uploader@v1
+        with:
+          index_path: "./public/index.json"
+          algolia_index_name: "shuosc_index_with_prefix" 
+          algolia_index_admin_key: ${{ secrets.ALGOLIA_APIKEY }}
+          algolia_index_id: "WDJUT0BGDL"
+          
   # Deployment job
   deploy:
     environment:
@@ -68,16 +75,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        
-  # Upload "index.json" to Algolia
-  generate-algolia:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: caibingcheng/hugo-algolia2@v1
-        with:
-          input: "./posts/**"
-          output: "./algolia.json"
-          index: "shuosc_index_with_prefix" 
-          apikey: ${{ secrets.ALGOLIA_APIKEY }}
-          appid: "WDJUT0BGDL"
