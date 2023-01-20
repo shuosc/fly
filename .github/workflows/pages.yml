@@ -68,3 +68,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+        
+  # Upload "index.json" to Algolia
+  upload_algolia_index:
+    runs-on: ubuntu-latest
+    name: Upload Algolia Index
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: wangchucheng/algolia-uploader@master
+      with:
+        # Such as `Z0U0ACGBN8`
+        app_id: "WDJUT0BGDL"
+        # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        admin_key: ${{ secrets.ALGOLIA_APIKEY }}
+        # The index name. 
+        index_name: "shuosc_index_with_prefix" 
+        # The index file path relative to repo root.
+        index_file_path: "./index.json"
