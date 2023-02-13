@@ -40,7 +40,7 @@
   # 此处选用了 algolia , 优点为：性能相对较高且占用带宽低，缺点为：需要定期上传最新的 index.json 至 algolia 以保证搜索结果的时效性
   type = "algolia"
   # 文章内容最长索引长度
-  contentLength = 200
+  contentLength = 10000
   # 搜索框的占位提示语
   placeholder = ""
   #  最大结果数目
