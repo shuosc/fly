@@ -4,9 +4,12 @@ date: 2023-02-22 16:32:02 +0800
 categories: [留学]
 tags: [16级,美国,新闻,数据新闻,二硕,DIY,留学]
 featuredImage: ""
-author: 卢易
+author: Eve
 draft: false
 ---
+
+### 前言🍿
+
 
 ### 基本信息📝
 
@@ -34,14 +37,15 @@ draft: false
 - 基础材料：文书、简历、成绩单
 - 语言背景：GRE： Not required；TOEFL: Exemption（因为美研在读）
 - 推荐人信息：2个UM的教授（分别是数据新闻方向 & 纪录片方向），1个UM讲师（网页设计方向 – JavaScript）
-- 新闻作品样本：1篇data-driven新闻作品，1部30分钟的学生纪录片，1篇独立撰稿的采编报道（我挑选提交的3篇新闻作品）(Journalistic Work Sample)
-- 个人作品集网站： https://luyi-eve.github.io (Portfolio)
+- 新闻作品样本：1篇data-driven新闻作品（毕业设计），1部30分钟的学生独立纪录片，1篇独立撰稿的采编报道（我挑选提交的3篇新闻作品）
+- 个人作品集： https://luyi-eve.github.io 
 
 #### Note: 
--	<b>Journalistic Work Sample & Portfolio: </b>
+-	<b>Journalistic Work Sample（新闻作品样本）& Portfolio（个人作品集）: </b>
 <br>提交Work Sample OR Personal Portfolio URL 取决于项目的申请要求。大部分J-school只要求提供1-3篇与新闻相关的WS（例如，斯坦福要求提供3篇新闻作品样本；东北大学要求提供1篇以上文字新闻作品即可；纽约大学的ITP项目则接受个人作品集网站链接，不要求提供具体作品样本）
 -	<b>Diversity Statement (optional): </b>
-<br> 有些学校还会设置提交多元化陈述的选项，多半与项目的奖学金申请挂钩，非强制，可不提交，但建议写（因为可以把在文书中因字数限制无法过多展开的多元化身份的认同和在学术、职业上对多元文化的追求放在这篇陈述里写）—— 斯坦福和东北大学这两个项目我都提交了DS。
+<br> 有些学校还会要求提交与多元化陈述有关的文书，多半与项目的奖学金申请挂钩，非强制，可不提交，但建议写（因为可以把在文书中因字数限制无法过多展开的多元化身份的认同和在学术、职业上对多元文化的追求放在这篇陈述里写）—— 斯坦福和东北大学这两个项目我都提交了DS，主要陈述了我在过去几年中写过的与女性主义相关的论文、录制的播客以及制作的数据新闻报道，强调了我作为一名记者对gender disparities方向选题的兴趣。
+
 - <b> Other: </b>
 <br> 不同项目有不同要求，有的新闻学院可能会要求提交1-3篇SOP，包括但不仅限于 Autobiographical Essay, General Interest Essay, Specialized Program Essay (例如，哥大新闻学院下设的所有的专业几乎都需要提交2-3篇文书)，具体申请材料以学校官网上的信息为准。
 
@@ -69,7 +73,7 @@ draft: false
 
 ### 申请经验✍️
 
-对比几年前第一次申美硕找中介的经历，第二次硕士申请我选择了DIY。
+对比几年前第一次申美硕找中介的经历，这次申请我选择了DIY。
 
 DIY并没有我想象中耗时费力（当然做好time management是前提），自己写文书让我意识到，人有时在回顾过往经历时都不一定能确信当下的自己做了什么，又为何而做，中介又要如何了解真正的你究竟如何被塑造起来？
 
@@ -96,5 +100,6 @@ DIY并没有我想象中耗时费力（当然做好time management是前提）�
 <br>
 
 > Feel free to reach out and you can fine me at [here]( https://luyi-eve.github.io )✨
+> 
 
 <br>
