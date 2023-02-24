@@ -37,8 +37,8 @@ draft: false
 ## 申请院校🏫
 
 1. <b>Stanford University:</b> Journalism Graduate Program (data storytelling) – offer ✅ + $ 20,000 fellowship 
-2. <b>New York University:</b> Interactive Telecommunications Program – 结果未出
-3. <b>Northeastern University:</b> Media Innovation & Data Communication – 结果未出
+2. <b>New York University:</b> Interactive Telecommunications Program – 结果未出（to be updated）
+3. <b>Northeastern University:</b> Media Innovation & Data Communication – 结果未出（to be updated）
 
 - 基础材料：文书、简历、成绩单
 - 语言背景：GRE： Not required；TOEFL: Exemption（因为美研在读）
@@ -52,7 +52,7 @@ draft: false
 -	<b>Diversity Statement (多元化陈述): </b>
 <br> 有些学校还会要求提交与多元化陈述有关的文书，多半与项目的奖学金申请挂钩，<b>非强制，可不提交，但建议写</b>（因为可以把在文书中因字数限制无法过多展开的多元化身份的认同和在学术、职业上对多元文化的追求放在这篇陈述里写）—— 斯坦福和东北大学这两个项目我都提交了DS，主要陈述了我在过去几年中写过的与女性主义相关的论文、录制的播客以及制作的数据新闻报道，强调了我作为一名记者在报道gender disparities方向的选题的兴趣与意愿。
 - <b> Other: </b>
-<br> 不同项目有不同要求，有的新闻学院可能会要求提交1-3篇SOP，包括但不仅限于 Autobiographical Essay, General Interest Essay, Specialized Program Essay (例如，哥大新闻学院下设的所有的专业几乎都需要提交2-3篇文书)，具体申请材料以学校官网上的信息为准。
+<br> 不同项目有不同要求，有的新闻学院可能会要求提交1-3篇SOP，包括但不仅限于 Autobiographical Essay, General Interest Essay, Specialized Program Essay (例如，哥大新闻学院下设的所有的专业几乎都需要提交2-3篇文书)，也有的项目要求提交self-intro video（例如, NYU-ITP要求提交时长1分钟的自我介绍视频），具体申请材料以学校官网上的信息为准。
 
 ---
 
@@ -70,7 +70,7 @@ draft: false
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/a87620f7f346f2a8cee6c859a5881269841e80ec/external%20image/fall-2023-timeline.png" width=80% height=80% align="center" >
+  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/a87620f7f346f2a8cee6c859a5881269841e80ec/external%20image/fall-2023-timeline.png" width=100% height=100% align="center" >
 </p>
 <br>
 
@@ -83,6 +83,13 @@ draft: false
 对比几年前第一次申美硕找中介的经历，这次申请我选择了DIY。
 
 DIY并没有我想象中耗时费力（当然做好time management是前提），自己写文书让我意识到，人有时在回顾过往经历时都不一定能确信当下的自己做了什么，又为何而做，中介又要如何了解真正的你究竟如何被塑造起来？不是说没有好的文书老师、好的中介，只是走近任何人、了解任何事都需要时间与精力的沉淀，但留学申请本就是一桩与时间赛跑的交易，有了雇佣关系与时间的局限，所有的信任都会打折，别人对你经历的复述也将是浮皮潦草的描摹。自己写文书其实是一个不断自我剖白的过程，整个过程虽然煎熬，痛苦，但也却让我更了解自己、不断确认自身条件与申请项目的适配程度，从而消解申请过程中因迟疑、不确定而产生的焦虑。
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/main/external%20image/coconut-fly-2.0.JPG" width=100% height=100% align="center" >
+</p>
+<br>
+
 
 我很感激我在UM的导师，没有他的鼓励、支持与赏识，我不会申请斯坦福。他对我的信任让我意识到，<b>以前的我从来不相信“申请”是一个双向选择的过程，我只做到了展现最表层的自我，将带着裱花的自己，如同商品般交给面试官并等待严厉地审视——我将如此被动的情绪，卑微的姿态写进了文书——这让人既看不到我作为申请者的自尊，又看不到申请某个项目时应该下的决心与付出的诚意。</b>
 
@@ -97,6 +104,12 @@ DIY并没有我想象中耗时费力（当然做好time management是前提）�
 留学是一个漫长的、与自我相处、和解的过程，这个过程充满迷茫、羞愧、自相矛盾的感情。我一直以来十分倾佩那些愿意在互联网上分享个体经验的人，因为分享经验其实是在分享自我，而自我一旦对外展露，公众的审视与评判便如潮水涌来，而应对这些冷峻的目光需要可贵的勇气。留学是人生中千万条路中的一条，它不是通往成功的必经路，也不是完成理想的唯一路径，与之相反，它是一条对年轻人无比苛刻且充满陷阱的路，它需要你的家庭有财力的积累，也需要你时刻做好直面孤独与虚无的准备。漂泊的生活与异乡人难以从容自处的身份将从留学的第一日起便伴随你——这是一些任你如何涂改也抹不掉的东西。
 
 留学的经历还让我意识到，世界上有些东西只能被别人拥有——这无关奋斗或是努力，<b>就好像每个人都会有一条属于自己的轨道，而这条轨道有着某些无法被override的原始设定。</b>认识到这一点后，我对自己变得宽容了，我的经验有努力，有时运的加持，也有无法被改写的设定——<b>因为无法获得我以为对自己是最好的安排，从而获得了让人意外却感到幸福的东西，可能这才是人生最真实的体验。</b>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/main/external%20image/soc-fly.jpg" width=80% height=80% align="center" >
+</p>
+<br>
 
 <b>我的经验源于我个人主观的经历，可能不具有普适性与推广性，但我希望我的文字能为后来者增添一些勇气。</b> 找到那条属于自己的轨道或许比你预想地要久，有些人可能只用了四年本科就找到了想走的路，去到了想去的学校，而我却用了六年的时间才触到理想的殿堂。但我从不否认过往的任何一段经历，如果当年我没有去UM，我也不会认识现在的导师，没有他的扶持与鼓励，我也不会对一个新的新闻学分支产生好奇，并决定投入深度学习。人生宛如一排铁轨，缺少其中任何一截，火车都无法驶向终点。2022年对我而言是重要的一年，这段日子如海明威所言像一场流动的盛宴，它照亮了来时如黑洞般的路，也将伴随年轻的我走向未来或难捱或顺遂的日子。
 
