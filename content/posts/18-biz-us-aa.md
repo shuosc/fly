@@ -4,7 +4,7 @@ date: 2023-03-09T21:07:02+08:00
 categories: [留学,经管]
 tags: [18级,经济学院,金融学,经济学,香港,美国,新加坡,英国,留学,经管]
 featuredImage: "https://user-images.githubusercontent.com/100942238/218306881-d04f0431-0f56-4fe2-9b66-85c489a0bb3f.jpg"
-author: 
+author: 独木舟
 draft: false
 ---
 
