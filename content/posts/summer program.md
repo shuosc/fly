@@ -3,7 +3,7 @@ title: " 国内外『官方』暑期学校|暑期研究项目一览 "
 date: 2023-03-10T20:07:02+08:00
 categories: [暑校]
 tags: [暑校,留学,暑研]
-featuredImage: ""
+featuredImage: "https://user-images.githubusercontent.com/100942238/224551426-982adebe-bd1d-4b81-bad6-bc48d2e60395.png"
 author: 
 draft: false
 ---
