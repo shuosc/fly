@@ -20,7 +20,23 @@ draft: false
 - 专四87分优秀
 - 大学四级629 / 六级649
 
- 
+  <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/226527074-b2eb58bc-0ae5-487b-8f9d-976eb3fd3137.jpg" width = "60%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
+
+
+
+
+
+
 
 ---
 
@@ -69,7 +85,24 @@ draft: false
 
 暑假里我考了两次雅思，听阅当然是没问题的，当时是冲着口语写作7去的（但其实有的学校口语要求拉到7.5）。当时其实我非常有自信第一次就雅思过关的 ~~太美承诺因为太年轻~~，所以当第一次口语成绩出来，6分 ~~咣咣咣此处自带打雷音效~~ 真的有种天打雷劈的感觉。于是，我在**半个月**内，头悬梁锥刻骨凿壁偷光司马光砸缸（？？），写了**六千字的口语稿**，同时废寝忘食彻夜难眠奋笔疾书写了**300张作文练习**。你看，是不是没什么luan用？写作还是6.5！但是，口语提高了1.5分，所以总算是能投啦。不管了，先大步往前走吧。
 
- 
+
+
+<center>
+ <img style="border-radius: 0.3125em;
+ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+ src="https://user-images.githubusercontent.com/100942238/226527228-bfa1e09d-2424-4756-98b9-48f8fa60d228.jpg" width = "50%" alt=""/>
+ <br>
+ <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+ display: inline-block;
+ color: #999;
+ padding: 2px;">
+	</div>
+</center>
+
+
+
+
+
 
 ---
 
@@ -211,6 +244,27 @@ draft: false
 
 谢谢你愿意看到这里，希望能对你有所帮助，九月我就要飞去利兹会口啦。 标题可以营销，但人生必须真挚。我试图把这一切写的轻松快乐，但是无论是就业，出国，还是考研，所要面对的必定是许多焦虑，煎熬，孤独和努力。我自认学术背景，均分，雅思，获奖都不是最优秀的，在众多候选人里甚至是比较咸鱼的存在，但天道酬勤，成功离不开踏实的行动，坚定的决心和那一点点的好运气。我的那一点点好运气来源于从始至终都尊重我的选择支持我的父母，鼓励我帮助我的老师和朋友们。
 
+
+
+<center>
+ <img style="border-radius: 0.3125em;
+ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+ src="https://user-images.githubusercontent.com/100942238/226526994-d3d6e1af-1832-4105-951f-7d5f94ae7078.jpg" width = "50%" alt=""/>
+ <br>
+ <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+ display: inline-block;
+ color: #999;
+ padding: 2px;">
+	</div>
+</center>
+
+
+
+
+
+
+
+
 ---
 
 
@@ -230,7 +284,7 @@ draft: false
 >  <center>
 >     <img style="border-radius: 0.3125em;
 >     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
->     src="https://user-images.githubusercontent.com/100942238/226523491-de123910-1cdc-4c0a-b85a-b9c820ac4f14.png" width = "33%" alt=""/>
+>     src="https://user-images.githubusercontent.com/100942238/226523491-de123910-1cdc-4c0a-b85a-b9c820ac4f14.png" width = "30%" alt=""/>
 >     <br>
 >     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
 >     display: inline-block;
@@ -243,18 +297,17 @@ draft: false
 
 *如果你有留学的意向或者想学翻译，也欢迎来私聊学姐，只要是说明意图的礼貌学弟学妹，学姐都会耐心回答的哦！*
 
->
-> <center>
->     <img style="border-radius: 0.3125em;
+><center>
+> <img style="border-radius: 0.3125em;
 >     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
->     src="https://user-images.githubusercontent.com/100942238/226523502-be9afc87-a4fe-4c99-8eea-a1a3c7b3098f.png" width = "30%" alt=""/>
+>     src="https://user-images.githubusercontent.com/100942238/226523502-be9afc87-a4fe-4c99-8eea-a1a3c7b3098f.png" width = "25%" alt=""/>
 >     <br>
 >     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
 >     display: inline-block;
 >     color: #999;
 >     padding: 2px;">
->   	</div>
-> </center>
+>     	</div>
+>   </center>
 
  
 
