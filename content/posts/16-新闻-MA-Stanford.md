@@ -36,8 +36,8 @@ draft: false
 
 ## 申请院校🏫
 
-1. <b>Stanford University:</b> Journalism Graduate Program (data storytelling) – offer ✅ + $ 20,000 fellowship 
-2. <b>New York University:</b> Interactive Telecommunications Program – 结果未出（to be updated）
+1. <b>Stanford University:</b> Journalism Graduate Program (data storytelling) – offer ✅ + $ 20,000 fellowship【2/9】
+2. <b>New York University:</b> Interactive Telecommunications Program – offer ✅【3/1】
 3. <b>Northeastern University:</b> Media Innovation & Data Communication – 结果未出（to be updated）
 
 - 基础材料：文书、简历、成绩单
