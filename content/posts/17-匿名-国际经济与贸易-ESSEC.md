@@ -1,10 +1,9 @@
 ---
-title: "上大国经贸 ⏩ ESSEC SMIB"
+title: " 上大国经贸 ⏩ ESSEC SMIB "
 date: 2022-11-24T21:01:02+08:00
 categories: [留学,经管]
-tags: [17级,国际经济与贸易,悉尼工商学院,留学,ESSEC,新加披,法国,经管,精华]
+tags: [17级,国际经济与贸易,悉尼工商学院,留学,ESSEC,新加坡,法国,经管,精华]
 featuredImage: "https://user-images.githubusercontent.com/100942238/203840883-81ef17c1-b9a5-4602-b530-a40af218a5ac.png"
-
 author: 匿名
 draft: false
 ---
@@ -122,5 +121,4 @@ SMIB项目时长1.5年，大部分同学毕业后的就业去向是乙方咨询�
 也逐渐明白了要积极发掘自己的闪光点，勇于争取机会，敢于表达自己。
 
 **期待自己即将开启的新征程，也祝愿大家都能在申请季/毕业季斩获心仪的Offer。**
-
 
