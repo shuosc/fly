@@ -1,8 +1,8 @@
 ---
-title: " 应化⏩ MSE 美硕  "
-date: 2023-03-27T08:11:02+08:00
+title: " 上大应化 ⏩ MSE美硕  "
+date: 2023-03-28T08:11:02+08:00
 categories: [留学]
-tags: [19级,化学系,应用化学,留学,硕士,美国,MSE]
+tags: [19级,理学院,应用化学,留学,美国,MSE]
 author: 佚名
 draft: false
 ---
