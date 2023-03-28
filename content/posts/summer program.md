@@ -106,13 +106,27 @@ draft: false
 - 【All】 [Linköping University Summer Academ](https://liu.se/en/article/linkoping-university-summer-academy)
 
 - 【All】 LMU-[European Studies Summer Schools](https://www.european-study.eu/en/content/es_summer_school_august)
+
 - 【All】 [Tübingen International and European Studies](https://uni-tuebingen.de/international/studierende-aus-dem-ausland/sommerkurse-und-kurzzeit-programme/international-european-studies/)
+
 - 【STEAM】 ETH-[Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html)
+
 - 【Robot】 ETH-[RobotX Research Program](https://center-for-robotics.ethz.ch/research.html)
+
 - 【EECS】 [Summer@EPFL](https://summer.epfl.ch/)
+
 - 【Engineer】  [E3 EPFL Excellence in Engineering Program](https://eee.epfl.ch/)
+
 - 【STEAM】ISTA-[ISTERNSHIP SUMMER PROGRAM](https://phd.pages.ist.ac.at/isternship/)
+
 - 【Business】 [SUMMER SCHOOL TUM - HEC](https://www.mgt.tum.de/programs/summer-school-for-entrepreneurship-digital-innovation-tum-hec?utm_source=google&utm_medium=cpc&utm_campaign=campaign_hn_000076_application-tumhec-summerschool_in_ssc_&utm_content=130782549824&utm_term=summer%20programmes&gclid=Cj0KCQiAx6ugBhCcARIsAGNmMbhiVKvKN4NUGZUlEmKkEAF2gAjxxC4eZKlXGZ2yNzuWJdNKQe3pHcoaAsouEALw_wcB)
+
+- 【All】 [UvA Summer School](https://summerschool.uva.nl/)
+
+- 【Security/System】 CISPA-[Summer School on System Security](https://cispa.de/summer-school)
+
+  > CISPA是全球顶尖的信息安全研究机构
+
 - ……
 
 
@@ -160,7 +174,6 @@ draft: false
 
 ## 6️⃣ 大洋洲
 
-- 
 - 【All】 Auckland-[Summer School](https://www.auckland.ac.nz/en/study/study-options/summer-school-2023.html)
 
 
@@ -177,14 +190,15 @@ draft: false
 
 - 【Business】 [剑桥大学菲茨威廉学院大学生经管夏令营](https://mp.weixin.qq.com/s/X7H6Xz9nCuIOq7ImeNG-jA)
 
-  > SHU合作
+  > **SHU合作**
 
 - 【All】 [牛津展望暑期访学计划](https://iglobal.shu.edu.cn/shanghai_ghc/overseas_student_detail.do?_id=75253229-83A8-43EE-98FC-A4322C6DAF1B&more=%E8%81%94%E5%90%88%E5%9F%B9%E5%85%BB%E9%A1%B9%E7%9B%AE)
 
-  > SHU合作
+  > **SHU合作**
 
 - 【All】 Oxford-[The *Summer Institute* at Oriel College](https://oxfordsummerabroad.com/)
 - 【All】 [Warwick Summer School](https://warwick.ac.uk/study/summer-with-warwick/warwick-summer-school/)
+- 【Math/Statistics/OR】 Lancaster-[STOR-i internships](https://www.lancaster.ac.uk/stor-i/summer-internships/)
 - ……
 
 
@@ -199,6 +213,11 @@ draft: false
 
   > 建议满足**HKPFS**要求者申请，即**至少**1+国家奖学金，专业前十申请，**不建议盲目送钱**
 
+- 【CS】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
+
+  - CS
+  - 大二 / 大三
+
 - 【All】 [HKU Summer Institute](http://www.summerinstitute.hku.hk/)
 
 
@@ -209,10 +228,6 @@ draft: false
 
 - 【All】 [International Summer School](https://www.summer.cuhk.edu.hk/issjuly/)
 
-- 【CS】 [HKU CS Research Internship Programme](https://www.cs.hku.hk/rintern/)
-
-  - CS
-  - 大二 / 大三
 
 - 【Engineer】 [CUHK ENGINEERING PHDSUMMER WORKSHOP](https://hkpfs.erg.cuhk.edu.hk/)
 
