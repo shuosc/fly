@@ -108,7 +108,88 @@ version = "0.2.X"
     [page.share]
       enable = true
       Weibo = true
-      Baidu = false
+      Baidu = true
+      Twitter = false
+      Facebook = false
+      Linkedin = true
+      
+[watermark]
+    enable = true
+    # 水印内容（允许 HTML 格式）
+    content = "🕊SHUFly🕊"
+    # 水印透明度
+    opacity = 0.1
+    # 水印父节点
+    appendTo = ".wrapper>main"
+    # 单水印宽度 单位：px
+    width = 150
+    # 单水印高度 单位：px
+    height = 20
+    # 水印行间距 单位：px
+    rowSpacing = 60
+    # 水印列间距 单位：px
+    colSpacing = 30
+    # 水印旋转角度 单位：deg
+    rotate = 15
+    # 水印字体大小，单位：rem
+    fontSize = 0.85
+    # FixIt 0.2.13 | 新增 水印字体
+    fontFamily = "inherit"
+    
+  # FixIt 0.2.8 | 新增 兼容性设置
+  [compatibility]
+    # 是否使用 Polyfill.io 来兼容旧式浏览器
+    polyfill = false
+    # 是否使用 object-fit-images 来兼容旧式浏览器
+    objectFit = false
+
+  # FixIt 0.2.14 | 新增 在左上角或者右上角显示 GitHub 开源链接
+  [githubCorner]
+    enable = false
+    permalink = "https://github.com/shuosc/fly"
+    title = "在 GitHub 上查看源代码"
+    position = "left" # ["left", "right"]
+    
+  [backToTop]
+    enable = true
+    # 在 b2t 按钮中显示滚动百分比
+    scrollpercent = false
+    
+  [readingProgress]
+    enable = false
+    # 可用值：["left", "right"]
+    start = "left"
+    # 可用值：["top", "bottom"]
+    position = "top"
+    reversed = false
+    light = ""
+    dark = ""
+    height = "2px"
+    
+    # FixIt 0.2.17 | 新增 页面加载期间顶部的进度条
+    # 有关详细信息：https://github.com/CodeByZach/pace
+  [pace]
+    enable = false
+    # 所有可用颜色：
+    # ["black", "blue", "green", "orange", "pink", "purple", "red", "silver", "white", "yellow"]
+    color = "blue"
+    # 所有可用主题：
+    # ["barber-shop", "big-counter", "bounce", "center-atom", "center-circle", "center-radar", "center-simple",
+    # "corner-indicator", "fill-left", "flash", "flat-top", "loading-bar", "mac-osx", "material", "minimal"]
+    theme = "minimal"
+    
+  [author]
+  name = "SHUFly"
+  email = ""
+  link = "https://shuosc.github.io/fly/"
+  avatar = "/static/shufly.webp" # FixIt 0.2.18 | 新增
+
+# 网站地图配置
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
  
    
     
