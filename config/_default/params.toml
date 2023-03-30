@@ -38,4 +38,78 @@ version = "0.2.X"
   [home.posts]
     enable = true
     # 主页每页显示文章数量
-    paginate = 8
+    paginate = 10
+    
+ # 作者的社交信息设置
+  [social]
+    GitHub = "SHUGUG"
+    Bilibili = "260088"
+    QQ = "https://jq.qq.com/?_wv=1027&k=602U8xAj"
+    QQGroup = "https://jq.qq.com/?_wv=1027&k=602U8xAj" 
+    Discord = ""
+    Email = "shuosc@duck.com"
+    RSS = true
+    
+    
+# 更改文章页面配置
+  [page]
+     # FixIt 0.2.15 | 新增 转载配置
+    [page.repost]
+      enable = false
+      url = ""
+    # FixIt 0.2.0 | 新增 目录配置
+    [page.toc]
+      # 是否使用目录
+      enable = true
+      # FixIt 0.2.9 | 新增 是否保持使用文章前面的静态目录
+      keepStatic = false
+      # 是否使侧边目录自动折叠展开
+      auto = true
+      # FixIt 0.2.13 | 新增 目录位置 ["left", "right"]
+      position = "right"
+
+    # FixIt 0.2.14 | 新增 文章编辑
+    [page.edit]
+      enable = false
+      # FixIt 0.2.15 | 更改 编辑的基础链接
+      # url = "/edit/branch-name/subdirectory-name" # 相对于 `params.gitRepo`
+      # url = "https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name" # 完整链接
+      url = "/edit/master/content"
+    # FixIt 0.2.0 | 更改 KaTeX 数学公式 (https://katex.org)
+    [page.math]
+      enable = true
+      # 默认行内定界符是 $ ... $ 和 \( ... \)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # 默认块定界符是 $$ ... $$, \[ ... \],  \begin{equation} ... \end{equation} 和一些其它的函数
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # KaTeX 插件 copy_tex
+      copyTex = true
+      # KaTeX 插件 mhchem
+      mhchem = true
+    # FixIt 0.2.0 | 新增 Mapbox GL JS 配置 (https://docs.mapbox.com/mapbox-gl-js)
+    [page.mapbox]
+      # Mapbox GL JS 的 access token
+      accessToken = ""
+      # 浅色主题的地图样式
+      lightStyle = "mapbox://styles/mapbox/light-v9"
+      # 深色主题的地图样式
+      darkStyle = "mapbox://styles/mapbox/dark-v9"
+      # 是否添加 NavigationControl
+      navigation = true
+      # 是否添加 GeolocateControl
+      geolocate = true
+      # 是否添加 ScaleControl
+      scale = true
+      # 是否添加 FullscreenControl
+      fullscreen = true
+    # FixIt 0.2.0 | 更改 文章页面的分享信息设置
+    [page.share]
+      enable = true
+      Weibo = true
+      Baidu = false
+ 
+   
+    
+
