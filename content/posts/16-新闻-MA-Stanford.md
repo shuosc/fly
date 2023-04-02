@@ -38,7 +38,7 @@ draft: false
 
 1. <b>Stanford University:</b> Journalism Graduate Program (data storytelling) – offer ✅ + $ 20,000 fellowship【2/9】
 2. <b>New York University:</b> Interactive Telecommunications Program – offer ✅【3/1】
-3. <b>Northeastern University:</b> Media Innovation & Data Communication – 结果未出（to be updated）
+3. <b>Northeastern University:</b> Media Innovation & Data Communication – offer ✅【3/29】
 
 - 基础材料：文书、简历、成绩单
 - 语言背景：GRE： Not required；TOEFL: Exemption（因为美研在读）
