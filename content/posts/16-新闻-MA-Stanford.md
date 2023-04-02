@@ -3,7 +3,7 @@ title: "🇺🇸北美新闻学申请 | 上大新闻 ⏩ Stanford 数据新闻"
 date: 2023-02-22 16:32:02 +0800
 categories: [留学]
 tags: [16级,美国,新闻,数据新闻,二硕,DIY,留学]
-featuredImage: "https://raw.githubusercontent.com/luyi-eve/luyi-eve/main/external%20image/rainbow-fly-2.0.JPG"
+featuredImage: "https://user-images.githubusercontent.com/107573330/229329458-2e9466f8-b8b5-4241-911b-7ddd5c1a27f0.jpg"
 authorLink: https://luyi-eve.github.io
 author: Eve
 draft: false
@@ -70,7 +70,7 @@ draft: false
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/a87620f7f346f2a8cee6c859a5881269841e80ec/external%20image/fall-2023-timeline.png" width=100% height=100% align="center" >
+  <img src="https://user-images.githubusercontent.com/107573330/229329467-8ff0c486-f674-465f-aa0c-7f8667c3edab.png" width=100% height=100% align="center" >
 </p>
 <br>
 
@@ -86,7 +86,7 @@ DIY并没有我想象中耗时费力（当然做好time management是前提）�
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/main/external%20image/coconut-fly-2.0.JPG" width=100% height=100% align="center" >
+  <img src="https://user-images.githubusercontent.com/107573330/229329473-cc4f93b9-aec5-479a-9a8f-57ef62f431d4.jpg" width=100% height=100% align="center" >
 </p>
 <br>
 
@@ -107,7 +107,7 @@ DIY并没有我想象中耗时费力（当然做好time management是前提）�
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luyi-eve/luyi-eve/main/external%20image/soc-fly.jpg" width=80% height=80% align="center" >
+  <img src="https://user-images.githubusercontent.com/107573330/229329486-d18d1b07-1ff5-41df-8d64-f71d16da7dc2.jpg" width=80% height=80% align="center" >
 </p>
 <br>
 
