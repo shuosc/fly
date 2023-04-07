@@ -1,6 +1,6 @@
 ---
 title: " SHUFly 溯说Talk Vol.1️⃣ "
-date: 2023-04-08T21:07:02+08:00
+date: 2023-04-07T21:07:02+08:00
 categories: [知识区]
 tags: [19级,保研,PhD,留学,经管]
 featuredImage: "https://user-images.githubusercontent.com/100942238/230390446-bec943d3-d3ce-4998-a659-f2ae10cfa08d.png"
