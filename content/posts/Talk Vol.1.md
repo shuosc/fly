@@ -1,8 +1,8 @@
 ---
 title: " SHUFly 溯说Talk Vol.1️⃣ "
-date: 2023-04-06T21:07:02+08:00
+date: 2023-04-08T21:07:02+08:00
 categories: [知识区]
-tags: [19级,茶话会,保研,PhD,留学,经管]
+tags: [19级,保研,PhD,留学,经管]
 featuredImage: "https://user-images.githubusercontent.com/100942238/230390446-bec943d3-d3ce-4998-a659-f2ae10cfa08d.png"
 author:  
 draft: false
@@ -12,18 +12,19 @@ draft: false
 
 
 
+>2022年8月29日，SHUFly 正式上线~
 >
-> 2022年8月29日，SHUFly正式上线
+>2022年10月1日，SHUFly 迎来第一篇投稿~
 >
-> 2022年10月1日，SHUFly迎来第一篇投稿
+>……
 >
-> ……
+>时光飞逝，半年一晃而过，
 >
-> 半年一晃而过，时至今日，SHUFly总字数已达40W，所含各类领域文章超过128篇。
+>时至今日，SHUFly总字数已达40W，所含各类领域文章超过128篇。
 >
-> （如果飞跃手册界有文学带师，那溯源手册想必一定是长篇小说之佳作<img src="https://user-images.githubusercontent.com/100942238/230608744-20198386-71d1-4c80-9db5-b6906ec048ba.png" alt="img" style="zoom:5%;" />
+>（如果飞跃手册界有文学带师，那溯源手册想必一定是长篇小说之佳作<img src="https://user-images.githubusercontent.com/100942238/230608744-20198386-71d1-4c80-9db5-b6906ec048ba.png" alt="img" style="zoom:5%;" />
 >
-> 
+>
 
 <br>
 
@@ -32,17 +33,25 @@ draft: false
 <br>
 此前，我们联合曾经已毕业的学长学姐和目前就读的同学，策划编写了属于上大学子的第一本生存手册——上海大学溯源手册，希望立足于自强不息，先忧后乐的校训精神，针对在上大求学的各个阶段，提供作为过来人的学习感受与经验。
 
-但事情终究不是预想的发展，时代的脚步总是难以追赶，纷扰繁多的数据背后，提醒我们是否真的对上大的学弟学妹们产生了帮助呢？
+<br>
 
-理不清的头绪，数不完的光阴，看不透的平淡，似乎都在像这里宣示着五味杂陈的无奈，在上大路99号求学的日子，时而感慨，或许是受限于四学期制度，或许是惊叹于某些奇妙的设定，抑或是在充斥几万人的园子内却感受不到应有的烟火气，快节奏的生活肩负了本不该承受的年纪，一觉醒来，梦醒了，更是迷路了，睁眼后转身的霎那，只道是天边云朵，泛着微尘与浓浓的特属于魔都的魔幻现实主义风情，不知所措，只好随着时代大卷卷浪潮+后疫情时代迷失在茫茫人海中……
+但事情终究不是预想的发展，时代的脚步总是难以追赶，纷扰繁多的数据背后，提醒我们是否真的对上大的学弟学妹们产生了帮助呢？
 
 <br>
 
-如今疫情过去，冬去春来❀~，SHUFly希望与你相约线下，这一次，咱能不能静下来好好说话——
+*理不清的头绪，数不完的光阴，看不透的平淡，似乎都在像这里宣示着五味杂陈的无奈，在上大路99号求学的日子，时而感慨，或许是受限于四学期制度，或许是惊叹于某些奇妙的设定，抑或是在充斥几万人的园子内却感受不到应有的烟火气，快节奏的生活肩负了本不该承受的年纪，一觉醒来，梦醒了，更是迷路了，睁眼后转身的霎那，只道是天边云朵，泛着微尘与浓浓的特属于魔都的魔幻现实主义风情，不知所措，只好随着时代大卷卷浪潮+后疫情时代迷失在茫茫人海中……*
 
-**毕竟只聊学习，挺没劲的** ！
+<br>
 
-<img src="https://user-images.githubusercontent.com/100942238/230392297-4b48122f-7a77-4a42-8152-d5c6f2166a51.png" alt="1" style="zoom: 66%;" />👇
+<br>
+
+如今疫情过去，冬去春来~，SHUFly希望与你相约线下，这一次，咱能不能静下来好好说话——
+
+**毕竟只聊学习，挺没劲的！**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/100942238/230392297-4b48122f-7a77-4a42-8152-d5c6f2166a51.png" alt="1" style="zoom: 72%;" />👇
 
 <br>
 
@@ -60,14 +69,14 @@ draft: false
 </center>
 <br>
 
-
-
 ---
 
 
 
 <div align='center '>
 🎉<font size="4"> SHUFly 溯说Talk 第一期 静待你来 </font>😉</div>
+<br>
+
 
 <div align='center '>
 <font size="5", face="华文楷体">在上大学会舍与得</font></div>
@@ -77,7 +86,29 @@ draft: false
 
 [//]:(🎉SHUFly溯说Talk第一期静待你来😉)
 
+<br><br>
 
+👇填写海报问卷进行报名
+
+<br>
+
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/230616758-9405805f-9783-4cdb-97aa-fb277ff2ecd5.jpg" width = "80%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
+
+
+<br>
+
+
+---
 
 ### 分享内容
 
@@ -99,7 +130,7 @@ draft: false
 
 ### 分享朋辈
 
-
+<br>
 
 - **郑翔宇**
 
@@ -207,17 +238,7 @@ draft: false
 
 
 
- <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://user-images.githubusercontent.com/100942238/230390446-bec943d3-d3ce-4998-a659-f2ae10cfa08d.png" width = "67%" alt=""/>
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-  	</div>
-</center>
+
 
 
 
