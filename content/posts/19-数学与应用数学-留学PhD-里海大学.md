@@ -8,7 +8,9 @@ authorLink: https://zhendongli.me/
 draft: false
 ---
 
-从新的角度认识旧事物是一种乐趣。-费曼
+> 从新的角度认识旧事物是一种乐趣。
+>
+> —— <cite>费曼</cite>
 
 # 背景
 
