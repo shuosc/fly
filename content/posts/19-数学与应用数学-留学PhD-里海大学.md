@@ -1,8 +1,8 @@
 ---
-title: "19-李振东-Math-PhD申请"
+title: "上大数学 ⏩ Lehigh ISE PhD"
 date: 2023-04-10T00:00:00+08:00
 categories: [留学]
-tags: [数学,PhD,工业工程]
+tags: [19级,钱院,数学与应用数学,美国,留学,PhD,工业工程]
 author: 李振东Max
 authorLink: https://zhendongli.me/
 draft: false
