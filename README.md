@@ -1,15 +1,18 @@
 # 上海大学溯源手册(SHUFly)
 
+![last commit](https://img.shields.io/github/last-commit/shuosc/fly)
 ![size](https://img.shields.io/github/repo-size/shuosc/fly)
 
 ## 意见反馈
 
-- 【腾讯文档】上海大学溯源手册意见征集📝- https://docs.qq.com/sheet/DTkF5V3VJT3lZTkhX?tab=BB08J2
+- 【腾讯文档】[上海大学溯源手册意见征集📝](https://docs.qq.com/sheet/DTkF5V3VJT3lZTkhX?tab=BB08J2)
+-  [Github Issues](https://github.com/shuosc/fly/issues)
 
 ---
 
+## SHUFly 交流群
 <center>
-	<img src="https://user-images.githubusercontent.com/100942238/195527273-014e4aab-6603-4a27-a996-3aaea9d8b0a5.jpg" width="33%" />
+	<img src="https://user-images.githubusercontent.com/64823753/235919118-294ecf67-f13a-406f-a943-7ce36a6c82dd.png" />
 </center>
 
 ---
@@ -20,7 +23,7 @@
 
 访问 https://shuosc.github.io/fly/
 
-点击右上角 分类 或 标签 以快速查看
+点击右上角`分类`或`标签`以快速查看
 
 ### 本地部署
 
@@ -60,3 +63,11 @@ hugo serve
 将写好的`Word`或`Markdown`文件发送电子邮件至 shuosc@duck.com 
 
 邮件主题请注明「投稿/修改-姓名-专业-去向」并附上微信号等联系方式
+
+---
+
+## 贡献者
+
+<a href="https://github.com/shuosc/fly/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=shuosc/fly" />
+</a>
