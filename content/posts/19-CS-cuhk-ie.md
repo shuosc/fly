@@ -1,6 +1,6 @@
 ---
 title: " 23Fall港新澳CS申请指北 "
-date:
+date: "`r Sys.Date()`"
 categories: [留学]
 tags: [19级,计院,CS,新加坡,香港,澳洲,留学]
 featuredImage: ""
@@ -44,7 +44,7 @@ draft: false
 - NUS-CS(general)
 - HKUST-IT
 - CUHK-CS
-- Polyu-CS
+- Polyu-IT
 - HKU-CS/EEE/IDT
 
 
