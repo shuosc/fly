@@ -1,6 +1,6 @@
 ---
 title: " 23Fall港新澳CS申请指北 "
-date: "`r Sys.Date()`"
+date: 2023-06-17T01:45:02+08:00
 categories: [留学]
 tags: [19级,计院,CS,新加坡,香港,澳洲,留学]
 featuredImage: ""
