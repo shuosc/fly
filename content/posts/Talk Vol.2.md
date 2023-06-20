@@ -3,7 +3,7 @@ title: " SHUFly 溯说Talk Vol.2️⃣ "
 date: 2023-06-20T12:07:02+08:00
 categories: [知识区]
 tags: [19级,留学]
-featuredImage: "https://user-images.githubusercontent.com/100942238/230390446-bec943d3-d3ce-4998-a659-f2ae10cfa08d.png"
+featuredImage: "https://user-images.githubusercontent.com/100942238/247024566-48c31c79-1f46-45ce-b4e7-814993c91cde.png"
 author:  
 draft: false
 ---
@@ -25,6 +25,8 @@ draft: false
 
 <div align='center '>
 <font size="5", face="华文楷体">关于留学申请，还有什么是你不知道的🤫</font></div>
+
+
 ---
 
 <br>
@@ -108,6 +110,8 @@ draft: false
     <font color="#0000dd">不妨来听听学长学姐们的经验分享 </font>
     <br>
 </center>
+<br>
+
 
 
 
@@ -116,10 +120,17 @@ draft: false
 
 ---
 
+<br>
+
 📅 时间：夏季学期第二周6月24日下午 13：00——17：00
+
 📍 地点：详细地址将于报名后提供
+
 👥 嘉宾：神秘嘉宾到场揭晓 敬请期待~
+
 📝 报名方式：填写下方海报问卷进行报名👇
+
+<br>
 
  <center>
     <img style="border-radius: 0.3125em;
