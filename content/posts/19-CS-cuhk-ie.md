@@ -137,11 +137,11 @@ draft: false
 
 港理工没有CS专业只有IT，比较偏好工作经历。我和认识的朋友都被rej了，不是很能理解（录取的人少说50%不如我bg），可能oq了。
 
-- CityU-CS
+- CityU-CS(留位费1w6港币)
 
 港城是出了名的985舔狗，喜欢收985低均分选手（均分70+）。
 
-- NUS-Industy4.0
+- NUS-Industy4.0(留位费5500新币)
 - NUS-IS
 - NUS-SE
 
@@ -251,6 +251,7 @@ CV在Github找latex模板即可。
 
 **祝学弟学妹们申请顺利！**
 
+> 模板参考：https://github.com/Rogueknight021/fly/blob/main/content/posts/19-CS-NTU.md
 
 
 
