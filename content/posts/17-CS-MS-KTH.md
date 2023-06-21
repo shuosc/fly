@@ -119,7 +119,7 @@ KTH 是授课制的硕士，但依然需要完成硕士论文和答辩. 和国�
     display: inline-block;
     color: #999;
     padding: 2px;">
-      实习
+      暑期实习
   	</div>
 </center>
 
@@ -132,7 +132,7 @@ KTH 是授课制的硕士，但依然需要完成硕士论文和答辩. 和国�
     display: inline-block;
     color: #999;
     padding: 2px;">
-      实习
+      实习所在团队合影
   	</div>
 </center>
 
