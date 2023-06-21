@@ -4,7 +4,7 @@ date: 2023-06-21T16:07:02+08:00
 categories: [留学]
 tags: [19级,法学院,法学,香港,CityU,留学]
 featuredImage: "https://user-images.githubusercontent.com/100942238/247487274-de520bf8-1d30-4dce-a32b-711f1dac98e5.png"
-author: KevinTu2000
+author: KevinTu_2000
 draft: false
 ---
 
