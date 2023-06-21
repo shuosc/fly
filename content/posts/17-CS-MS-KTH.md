@@ -1,9 +1,9 @@
 ---
 title: "🇸🇪瑞典 KTH 留学、找工"
-date: 2023-06-15T08:07:02+08:00
+date: 2023-06-21T08:07:02+08:00
 categories: [留学]
 tags: [17级,CS,计院,出国,欧陆,KTH]
-featuredImage: "https://user-images.githubusercontent.com/46418143/209966745-c2187a16-815f-4999-bf88-ef093718b95d.png"
+featuredImage: "https://user-images.githubusercontent.com/46418143/247781178-84dcb82e-d710-4b60-b439-936be08e99a8.JPG"
 author: Heng
 draft: false
 ---
@@ -31,9 +31,21 @@ draft: false
 
 ## 申请经验
 
-申请基本可以用一句话概括，那就是 GPA 决定一切。至于文书，在有了 ChatGPT 之后，人人都有 native speaker 来润色. 推荐信属于有和没有的区别，如果只是申请硕士，某教授的推荐信和辅导员的推荐信没有本质区别😂.
+申请基本可以用一句话概括，那就是 GPA 决定一切. 至于文书，在有了 ChatGPT 之后，人人都有 native speaker 来润色. 推荐信属于有和没有的区别，如果只是申请硕士，某教授的推荐信和辅导员的推荐信没有本质区别😂.
 
 至于瑞典等欧陆的小众留学国家，除了 GPA 之外，可能还需要考虑的是“匹配度”，换句话说就是本科阶段的专业和硕士申请的专业之间关系大不大（比如 KTH 要求申请的时候本科需要修满 xxx 模块的课程 xxx 学分）. 即使 GPA 很高，但“匹配度”不够，申请结果可能也会有所偏差 orz.
+
+### 匹配度
+
+以 KTH [Software Engineering of Distributed Systems](https://www.kth.se/en/studies/master/software-engineering-distributed-systems/entry-requirements-for-software-engineering-of-distributed-systems-1.8662) 为例，网站 Specific requirements for Software Engineering of Distributed Systems 中说明了申请需要满足的要求，在申请流程中，会要求填写课程和对应的描述. ECTS 是欧洲学分，具体换算公式详见 Google 😂.
+
+> ### Specific requirements for Software Engineering of Distributed Systems
+>
+> A bachelor's degree in computer science or equivalent degree, corresponding to at least 180 ECTS credits, including courses in mathematics, information technology or computer science equivalent to at least 90 ECTS credits.
+
+### 费用
+
+两年大概 40万 rmb，具体取决于个人生活方式. 如果从暑假开始可以找到实习，那么花费会小很多，一个月实习的工资完全可以满足房租和日常开销.
 
 ## 就读体验
 
@@ -41,7 +53,7 @@ draft: false
 
 ### 课程
 
-KTH 的课程基本都是以 project assignment 和 examination 两部分组成，project assignment 的要求各不相同，但有明显的区分度。如果只是想通过，那么完成基础部分即可；如果想要卷一下，拿 A 之类的“好成绩”，则需要完成很多 bonus points，每次作业还需要和助教约时间 1v1 验收 orz. Examination 通常是纸笔考试，5小时左右，有的课程还需要口试（类似面试，教授现场出题，然后在白板推导之类的）.
+KTH 的课程基本都是以 project assignment 和 examination 两部分组成，project assignment 的要求各不相同，但有明显的区分度. 如果只是想通过，那么完成基础部分即可；如果想要卷一下，拿 A 之类的“好成绩”，则需要完成很多 bonus points，每次作业还需要和助教约时间 1v1 验收 orz. Examination 通常是纸笔考试，5小时左右，有的课程还需要口试（类似面试，教授现场出题，然后在白板推导之类的）.
 
 这些课程中，有至今为止我上过的觉得最好的计算机课程 Search Engines and Information Retrieval Systems - DD2477，从头开始一步步带我们实现一个“基本能用”的简易搜索引擎，在每一次作业的“实验说明”中都可以感受到教授和助教们是非常认真和用心地在设计实验中的各个环节.
 
@@ -63,17 +75,30 @@ KTH 是授课制的硕士，但依然需要完成硕士论文和答辩. 和国�
 
 同时，瑞典的学校似乎没有“延毕”这样的说法，如果毕设需要做整整一年甚至更长时间，那么延期学生签证即可，做完毕设，导师同意，随时都可以答辩，随时都可以毕业.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/46418143/247784573-fe878dee-1b36-4c3f-8679-93c2797af259.JPG" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      在阿比斯库国家公园追到的极光！
+  	</div>
+</center>
+
 ## 欧洲找工
 
 ### Summer Intern & Part-time Intern & Master Thesis Student
 
 * Summer Intern
 
-  如果想要在暑假实习，那么研一圣诞节前后就可以开始准备起来了。
+  如果想要在暑假实习，那么研一圣诞节前后就可以开始准备起来了. 
 
-  最难的可能就是简历关了。作为外国人，不会当地语言（对于 CS 来说英语完全够了，但毕竟小语种国家，有些面向本土业务的公司多少需要会点瑞典语），之前没有当地的实习经历（国内的很多本土“大厂”国外的 HR 并不见得一定知道 orz），在和来自欧洲的同学一起竞争时，很容易处于劣势，因此简历会显得尤为重要。有了 ChatGPT 之后，让它多润色一下简历里的描述，尽量完整地同时简练地概括想呈现在简历上的经历。
+  最难的可能就是简历关了. 作为外国人，不会当地语言（对于 CS 来说英语完全够了，但毕竟小语种国家，有些面向本土业务的公司多少需要会点瑞典语），之前没有当地的实习经历（国内的很多本土“大厂”国外的 HR 并不见得一定知道 orz），在和来自欧洲的同学一起竞争时，很容易处于劣势，因此简历会显得尤为重要. 有了 ChatGPT 之后，让它多润色一下简历里的描述，尽量完整地同时简练地概括想呈现在简历上的经历. 
 
-  过了简历关之后，面试的形式、内容在网上或多或少都有信息，多 Google 一下相关信息，提前准备。
+  过了简历关之后，面试的形式、内容在网上或多或少都有信息，多 Google 一下相关信息，提前准备. 
 
 * Part-time Intern
 
@@ -81,9 +106,35 @@ KTH 是授课制的硕士，但依然需要完成硕士论文和答辩. 和国�
 
 * Master Thesis Student
 
-  上文提到瑞典的很多公司都会有 Master Thesis Student 的岗位，这也是实习生之外，另一个有很多转正机会的方式。继续做了大概四个月的 Part-time Intern 之后，我也表达出了想要在公司继续做 Master Thesis Student 的兴趣，manager 提供了相应的题目，但对题目实在是不感兴趣，Part-time Intern 之后就离开公司了.
+  上文提到瑞典的很多公司都会有 Master Thesis Student 的岗位，这也是实习生之外，另一个有很多转正机会的方式. 继续做了大概四个月的 Part-time Intern 之后，我也表达出了想要在公司继续做 Master Thesis Student 的兴趣，manager 提供了相应的题目，但对题目实在是不感兴趣，Part-time Intern 之后就离开公司了.
 
   之后找毕设的经历和找实习类似，投简历、面试、等 offer. 最终在爱立信开始了我的毕设.
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/46418143/247784922-cf39b753-2da3-4004-b163-a69be6890c1f.JPG" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      实习
+  	</div>
+</center>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/46418143/247784916-7b389001-e84a-40c6-bd3c-06122d5626ce.JPG" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      实习
+  	</div>
+</center>
 
 ### Full-time Job
 
@@ -99,7 +150,33 @@ KTH 是授课制的硕士，但依然需要完成硕士论文和答辩. 和国�
 
 最后进入谈薪的有荷兰 ING 银行和德国的大陆集团. 基于种种原因，还是选择留在了爱立信.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/46418143/247785249-230ad6d4-e98b-4557-bf3d-472a3a3b49db.JPG" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      来荷兰 ING 总部面试
+  	</div>
+</center>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/46418143/247785372-10bd5942-6e15-4618-9e4c-877c0dded2ee.jpg" width = "75%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      冬天中某天上班的路上2333
+  	</div>
+</center>
+
 ## Final Words
 
-总的来说，留学、找工痛苦和快乐兼具的过程，希望我的经历能给到大家一些有价值的信息。同时，如果有各种各样的问题，欢迎邮件联系 :) ziheng.cheung@icloud.com
+总的来说，留学、找工是痛苦和快乐兼具的过程，希望我的经历能给到大家一些有价值的信息. 同时，如果有各种各样的问题，欢迎邮件联系 :) ziheng.cheung@icloud.com
 
