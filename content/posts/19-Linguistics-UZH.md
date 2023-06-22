@@ -44,7 +44,7 @@ draft: falses
 
 这里贴一个我写的生科导的描述。
 
->  <center>
+<center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://user-images.githubusercontent.com/100942238/247841626-32285124-4d6b-4a53-8ea5-887f6140ed74.png" width = "80%" alt=""/>
