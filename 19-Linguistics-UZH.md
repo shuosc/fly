@@ -42,19 +42,22 @@ draft: falses
 
 在写课程描述时可以灵活一些，比如我校1学分对应一课时（45分钟），你可灵活的写成50min-1h ~~加上拖堂啥的也差不多嘛~~。当然这有一定风险，因此请谨慎选择 ~~失败了概不负责~~。课后学习时间则更灵活（做作业、准备pre等等，其实也不少）。总之尽量使自己的学习时间能贴近欧洲学分要求（如3分的课写65/70小时）。课程内容可参考目标学校的本科课程描述。
 
-- 这里贴一个我写的生科导的描述
+这里贴一个我写的生科导的描述
 
-  <center>
-      <img style="border-radius: 0.3125em;
-      box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-      src="https://user-images.githubusercontent.com/100942238/247841626-32285124-4d6b-4a53-8ea5-887f6140ed74.png" width = "80%" alt=""/>
-      <br>
-      <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-      display: inline-block;
-      color: #999;
-      padding: 2px;">
-    	</div>
-  </center>
+
+
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://user-images.githubusercontent.com/100942238/247841626-32285124-4d6b-4a53-8ea5-887f6140ed74.png" width = "80%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+  	</div>
+</center>
+
 
 
 
