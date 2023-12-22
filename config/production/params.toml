@@ -4,7 +4,7 @@
   # FixIt 0.2.16 | CHANGED Waline comment config (https://waline.js.org)
   [page.comment.waline]
     enable = true
-    serverURL = "https://shuosc-comments.xyz/"
+    serverURL = "https://shufly-waline-sys.vercel.app/"
     pageview = false # FixIt 0.2.15 | NEW
     emoji = [
       "https://unpkg.com/@waline/emojis@1.1.0/bmoji",
