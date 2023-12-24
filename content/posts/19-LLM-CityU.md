@@ -3,20 +3,67 @@ title: " 🇭🇰LLM港校DIY申请——严峻&煎熬&上岸 "
 date: 2023-06-21T16:07:02+08:00
 categories: [留学]
 tags: [19级,法学院,法学,香港,CityU,留学]
-featuredImage: "https://user-images.githubusercontent.com/100942238/247487274-de520bf8-1d30-4dce-a32b-711f1dac98e5.png"
+featuredImage: "https://private-user-images.githubusercontent.com/100942238/292671352-da24fd0d-40e8-44f5-adf1-e46a49911a30.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzUyLWRhMjRmZDBkLTQwZTgtNDRmNS1hZGYxLWU0NmE0OTkxMWEzMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZmYxNDA2NjRmZDZlZTk3YWZlYzRkMGJiN2Y3ZWM1NGNhMDVhYjI2ZjkyYTdhNTkwMTNkZjdlYjdkNTQ0OGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ETdP871LPdCqO9TN6VouE6j9h-yklFNqYoJaAVm8GL8"
 author: KevinTu_2000
 draft: false
 ---
 
 
 
-
+<br>
 
 ## 基本情况
 
 - 2019.9-2023.6 上海大学法学院法学本科（学士）
 
 - 2023.8-2024.5 香港城市大学法学院研究生（硕士）
+
+
+<br>
+
+<br>
+
+  <div><table frame=void>
+  	<tr>
+          <td><div><center>
+          	<img src="https://private-user-images.githubusercontent.com/100942238/292671300-c2f20264-2246-44fe-bbfc-8765a04afc0d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzAwLWMyZjIwMjY0LTIyNDYtNDRmZS1iYmZjLTg3NjVhMDRhZmMwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZWRmZGQ0NjMyNDBjNTk0M2FlYzhmOTUyZmJhN2Y2M2E4YzQ2NDUyZjk2NWZlMGQwODJmNjI2NzBhOGY5NzQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M8NuRtmzQ9HL2CifCTnzIz85JFdFMMGBqXqCwrbGLWE"
+                   height="220"/>
+          	<br>
+          </center></div></td>    
+       	<td><div><center>
+      		<img src="https://private-user-images.githubusercontent.com/100942238/292671882-7ad0d263-228f-435a-bed3-f42bf49e2d14.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjM0MTEsIm5iZiI6MTcwMzQyMzExMSwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxODgyLTdhZDBkMjYzLTIyOGYtNDM1YS1iZWQzLWY0MmJmNDllMmQxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMzA1MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OWM4MmUwYjk4OGFmNzMyZjNlZDY1NWY4NDY5N2M3MzdkZGZlMmY0MzM2MTAyMjUxMzMzOTA1ZWFiOGUzYmJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lsAUWfD8MBlpzCaCY-RrEVLF1WoCz0Ne4IF8DluH_mo"
+                   height="220"/>
+      		<br>
+          </center></div></td>
+  	</tr>	
+      <tr>	<!--第二行-->
+          <td><div><center>
+          	<img src="https://private-user-images.githubusercontent.com/100942238/292671371-1cad2bc5-6c04-478a-8517-b4f320d75357.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzcxLTFjYWQyYmM1LTZjMDQtNDc4YS04NTE3LWI0ZjMyMGQ3NTM1Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjI3NDVmMzk0YjQ0Yzc1ODM0N2NjZDM2MWQxNjJhNjY1NzFmMjhhMWVhYzAyNjBlZjFhMGMzN2U0NWE5ODYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Cp6tCU4A3eYsNOeFiJ9TwRJEnTqbMfQBnz3WZLf6g10"
+                   height="220"/>
+          	<br>
+          </center></div></td>    
+       	<td><div><center>
+      		<img src="https://private-user-images.githubusercontent.com/100942238/292671316-c466be1b-8187-4ec6-8e91-4afc0a5dfc31.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzE2LWM0NjZiZTFiLTgxODctNGVjNi04ZTkxLTRhZmMwYTVkZmMzMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGUwMGYxMmQ3ZmM5YWJhZjg3YjAyNWQxMDM2ODg4NjU3MzNiYzNlOWYxMDVmMWQyMjVmODFhYTFmYmE0NzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NaD1HKV1HFb8Uu9oqLnOESYpoIiPSqIvXCJxgBnnATw"
+                   height="220"/>
+      		<br>
+          </center></div></td>
+  	</tr>
+  </table>
+</div>
+<center>     🏫 CityU初印象~   </center>
+
+<br>
+
+<br>
+
+```
+上课听不懂
+住的特别小
+东西特别贵
+生活也很累
+```
+
+<br>
 
 ---
 
@@ -97,7 +144,37 @@ draft: false
 
 - 2023.5上旬 收到澳门大学拒信
 
- 
+---
+<br>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://private-user-images.githubusercontent.com/100942238/292671362-cb30e542-86d9-45b9-8600-dd2eb864080a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzYyLWNiMzBlNTQyLTg2ZDktNDViOS04NjAwLWRkMmViODY0MDgwYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YTAwOGIxNDAyZDA4MzFkM2NiMjk3NTUyOTk2NTU0MTk1Zjc1Y2Q4NDY1MzM3OTYxMWZlYTFmN2I1NGQ4MTA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mTFC85I4h--DnUv60XmH-mR-n_M67x9J-Dhxe4YYKhI" width = "67%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      🇨🇳 国庆维多利亚港烟花 🎇 🎆
+  	</div>
+</center>
+
+ <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://private-user-images.githubusercontent.com/100942238/292671360-2e8dfede-6217-45e0-b99c-88447ea9a59a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzYwLTJlOGRmZWRlLTYyMTctNDVlMC1iOTljLTg4NDQ3ZWE5YTU5YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTVjZjczMjkyNDU3M2VkNzQ1YWJmYzg4ZGZjNGVlMzhmMDUwN2NlZjlhNmRkYjllNTZhMDEzNDAyOTZhYWE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5ZVQffRcGu8cbXfYayoBcFacrHYZbgWi6VzPsR3mD5U" width = "72%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      ⛰️ 太平山顶，登高望远 
+  	</div>
+</center>
+
+---
+<br> 
 
 ## 择校定位（港校）
 
