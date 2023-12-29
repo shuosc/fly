@@ -3,7 +3,7 @@ title: " 🇭🇰LLM港校DIY申请——严峻&煎熬&上岸 "
 date: 2023-06-21T16:07:02+08:00
 categories: [留学]
 tags: [19级,法学院,法学,香港,CityU,留学]
-featuredImage: "https://private-user-images.githubusercontent.com/100942238/292671352-da24fd0d-40e8-44f5-adf1-e46a49911a30.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzUyLWRhMjRmZDBkLTQwZTgtNDRmNS1hZGYxLWU0NmE0OTkxMWEzMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZmYxNDA2NjRmZDZlZTk3YWZlYzRkMGJiN2Y3ZWM1NGNhMDVhYjI2ZjkyYTdhNTkwMTNkZjdlYjdkNTQ0OGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ETdP871LPdCqO9TN6VouE6j9h-yklFNqYoJaAVm8GL8"
+featuredImage: "https://s11.ax1x.com/2023/12/29/piL5Cz4.png"
 author: KevinTu_2000
 draft: false
 ---
@@ -26,24 +26,24 @@ draft: false
   <div><table frame=void>
   	<tr>
           <td><div><center>
-          	<img src="https://private-user-images.githubusercontent.com/100942238/292671300-c2f20264-2246-44fe-bbfc-8765a04afc0d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzAwLWMyZjIwMjY0LTIyNDYtNDRmZS1iYmZjLTg3NjVhMDRhZmMwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZWRmZGQ0NjMyNDBjNTk0M2FlYzhmOTUyZmJhN2Y2M2E4YzQ2NDUyZjk2NWZlMGQwODJmNjI2NzBhOGY5NzQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M8NuRtmzQ9HL2CifCTnzIz85JFdFMMGBqXqCwrbGLWE"
+          	<img src="https://s11.ax1x.com/2023/12/29/piL58eI.png"
                    height="220"/>
           	<br>
           </center></div></td>    
        	<td><div><center>
-      		<img src="https://private-user-images.githubusercontent.com/100942238/292672503-9a093a7c-2c7a-4892-9fcc-dddc716b5591.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjQ1OTMsIm5iZiI6MTcwMzQyNDI5MywicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcyNTAzLTlhMDkzYTdjLTJjN2EtNDg5Mi05ZmNjLWRkZGM3MTZiNTU5MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMzI0NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTUyZTMyNDdhNmU5ZjgyMzI1NmJmNjA1ODYwYjRkY2M3Y2U0M2EzMGJlN2Q1OWMzNjE3MzcxNzQ5ZWJlMTE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0hH1iu3y1XS-2Hu5BAH9HwESxBztBriuEqknYQKmPIE"
+      		<img src="https://s11.ax1x.com/2023/12/29/piL5mFK.png"
                    height="220"/>
       		<br>
           </center></div></td>
   	</tr>	
       <tr>	<!--第二行-->
           <td><div><center>
-          	<img src="https://private-user-images.githubusercontent.com/100942238/292671371-1cad2bc5-6c04-478a-8517-b4f320d75357.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjI3MTgsIm5iZiI6MTcwMzQyMjQxOCwicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcxMzcxLTFjYWQyYmM1LTZjMDQtNDc4YS04NTE3LWI0ZjMyMGQ3NTM1Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMjUzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjI3NDVmMzk0YjQ0Yzc1ODM0N2NjZDM2MWQxNjJhNjY1NzFmMjhhMWVhYzAyNjBlZjFhMGMzN2U0NWE5ODYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Cp6tCU4A3eYsNOeFiJ9TwRJEnTqbMfQBnz3WZLf6g10"
+          	<img src="https://s11.ax1x.com/2023/12/29/piL5MSe.png"
                    height="220"/>
           	<br>
           </center></div></td>    
        	<td><div><center>
-      		<img src="https://private-user-images.githubusercontent.com/100942238/292672584-1bd511e5-dc65-4683-b5fd-a572581060fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjQ1OTMsIm5iZiI6MTcwMzQyNDI5MywicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcyNTg0LTFiZDUxMWU1LWRjNjUtNDY4My1iNWZkLWE1NzI1ODEwNjBmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMzI0NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzE5ZmYyMGM5MDc2ZDY3MDdhODZhMjhjN2QyNDU1NzBlMzEzOGMwMDBkZjUwYjMxNGMxNTQwYWViMTQ0MmM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.amIHVa0BFq6_0D8QLhX2Z8QY4pm2Drnxdkotc2_95_E"
+      		<img src="https://s11.ax1x.com/2023/12/29/piL5Ee1.png"
                    height="220"/>
       		<br>
           </center></div></td>
@@ -150,7 +150,7 @@ draft: false
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://private-user-images.githubusercontent.com/100942238/292672324-9e226148-e54f-432c-b494-acb6444852a9.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjQwOTMsIm5iZiI6MTcwMzQyMzc5MywicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcyMzI0LTllMjI2MTQ4LWU1NGYtNDMyYy1iNDk0LWFjYjY0NDQ4NTJhOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMzE2MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTRlMTMxMGIwMTE4NDFmYWIxYTc0NTNiN2Q4M2ZjZmM5OTdkM2VjYTNiM2Y3YTE4ZjllOGMzYTgyNTAzYmNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.4LcbXEpNYfHHYp8DJY1OjNy6FTnVkVhm0GVHVY12tUs" width = "67%" alt=""/>
+    src="https://s11.ax1x.com/2023/12/29/piL5NY8.png" width = "67%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -163,7 +163,7 @@ draft: false
  <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://private-user-images.githubusercontent.com/100942238/292672547-f9040a60-89b3-4c81-bf05-b7756e1d01af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MjQ1ODMsIm5iZiI6MTcwMzQyNDI4MywicGF0aCI6Ii8xMDA5NDIyMzgvMjkyNjcyNTQ3LWY5MDQwYTYwLTg5YjMtNGM4MS1iZjA1LWI3NzU2ZTFkMDFhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxMzI0NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTdmMzg2YzIxOGEwZWEyNTFmNGNkZjAxM2JmN2IwZWY0NDQ1MmQ1NDhhODdhYzlhMTg5ZTc2YzA5MmQ2NWVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9Q39UQoYRa53bEtN5-nXWglws-aaTvUYtBJt1bDvu-A" width = "72%" alt=""/>
+    src="https://s11.ax1x.com/2023/12/29/piL5Hk6.png" width = "72%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
