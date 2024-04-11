@@ -36,7 +36,7 @@ draft: false
 
 <img src="https://user-images.githubusercontent.com/100942238/230608744-20198386-71d1-4c80-9db5-b6906ec048ba.png" alt="img" style="zoom:5%;" />无论你现在是否已有清晰的目标，都欢迎你来，听听他们的故事和经验。
 
-<img src="images/Talk%20Vol.4/2.png" alt="1" style="zoom: 72%;" />👇
+<img src="https://raw.githubusercontent.com/shuosc/fly/main/content/posts/images/Talk%20Vol.4/2.png" alt="img" style="zoom: 72%;" />👇
 
 <br>
 
@@ -70,7 +70,7 @@ draft: false
 
 ### 分享嘉宾与主题
 
-<img src="images/Talk%20Vol.4/3.png" alt="1" style="zoom: 82%;" />
+<img src="https://raw.githubusercontent.com/shuosc/fly/main/content/posts/images/Talk%20Vol.4/3.png" alt="img" style="zoom: 82%;" />
 
 #### YZG 『逆风翻盘-低绩点录取的经验之谈』
 
