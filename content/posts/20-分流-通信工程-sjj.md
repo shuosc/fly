@@ -3,6 +3,7 @@ title: "唉，通信😞"
 date: 2024-06-09T22:00:00+08:00
 categories: [分流]
 tags: [20级,分流,通信学院,通信工程]
+featuredImage: "https://shuosc.github.io/fly/posts/images/20-%E5%88%86%E6%B5%81-%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B/1.png"
 author: sjj
 draft: false
 ---
