@@ -63,6 +63,10 @@ jobs:
           algolia_index_name: "shuosc_index_with_prefix" 
           algolia_index_admin_key: ${{ secrets.ALGOLIA_APIKEY }}
           algolia_index_id: "WDJUT0BGDL"
+      - name: Install dependencies
+        run: |
+        pip install --upgrade pip
+        pip install algoliasearch
           
   # Deployment job
   deploy:
