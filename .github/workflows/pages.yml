@@ -57,16 +57,12 @@ jobs:
         with:
           path: ./public
       - name: Upload "index.json" to Algolia
-        uses: rxrw/algolia-index-uploader@v1
-        with:
-          index_path: "./public/index.json"
-          algolia_index_name: "shuosc_index_with_prefix" 
-          algolia_index_admin_key: ${{ secrets.ALGOLIA_APIKEY }}
-          algolia_index_id: "WDJUT0BGDL"
-      - name: Install dependencies
-        run: |
-        pip install --upgrade pip
-        pip install algoliasearch
+        uses: iChochy/Algolia-Upload-Records@main
+        env:
+          APPLICATION_ID: "WDJUT0BGDL"
+          ADMIN_API_KEY: ${{ secrets.ALGOLIA_APIKEY }}
+          INDEX_NAME: "shuosc_index_with_prefix"
+          FILE_PATH: "./public/index.json"
           
   # Deployment job
   deploy:
